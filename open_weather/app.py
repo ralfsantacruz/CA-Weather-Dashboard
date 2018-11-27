@@ -7,12 +7,12 @@ app = Flask(__name__)
 @app.route("/",methods=['GET', 'POST'])
 def home():
     if request.method == 'GET':
-        plot_url = generate_plot("san francisco")
+        plot_html = generate_plot("san francisco")
     else:
         text = request.form['text']
-        plot_url = generate_plot(text)
+        plot_html = generate_plot(text)
 
-    return render_template("index.html",plot_url=plot_url)
+    return render_template("index.html",plot_html=plot_html)
 
 # @app.route('/form', methods=['POST'])
 # def my_form_post():

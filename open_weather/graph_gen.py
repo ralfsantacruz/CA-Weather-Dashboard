@@ -6,9 +6,8 @@
 
 import plotly.plotly as py
 import plotly.graph_objs as go
-import plotly
+import plotly.offline
 
-import pandas as pd
 import requests
 
 from pprint import pprint
@@ -16,14 +15,7 @@ from datetime import datetime as dt
 from datetime import timedelta
 
 
-# In[ ]:
-
-
-plotly.tools.set_credentials_file(username='ralfsantacruz', api_key='m43Oz35O5mKYCxDDJoDq')
-
-
 # In[4]:
-
 
 def num_hours_ago(hours):
     """
@@ -45,10 +37,14 @@ def get_coords(location):
     base_url = f"https://maps.googleapis.com/maps/api/geocode/json?address={location}&key={g_api_key}"
     
     data = requests.get(base_url).json()
-    loc = data['results'][0]['geometry']['location']
-    
-    lat = loc['lat']
-    lng = loc['lng']
+
+    try:
+        loc = data['results'][0]['geometry']['location']
+        
+        lat = loc['lat']
+        lng = loc['lng']
+    except:
+        return "404"
     
     return lat,lng
 
@@ -77,15 +73,34 @@ def pollution(lat,lng):
 # In[49]:
 
 
-def generate_plot(city):    
-    lat,lng = get_coords(city)
+def generate_plot(city):
+    try:    
+        lat,lng = get_coords(city)
+    except ValueError:
+        return "Error: We could not find the coordinates for the entry you supplied."
+
     pollution_data = pollution(lat,lng)
     
-    if pollution_data != None:
-        x = [x['datetime'] for x in pollution_data['data']]
-        y = [y['indexes']['baqi']['aqi'] for y in pollution_data['data']]
-        data = [go.Line(x=x,
-                    y=y)]
+    try:
+        x = [x['datetime'] for x in pollution_data['data'] if x['data_available'] == True]
+        y = [y['indexes']['baqi']['aqi'] for y in pollution_data['data'] if y['data_available'] == True]
+        
+        text1 = [text['indexes']['baqi']['dominant_pollutant'] for text in pollution_data['data'] if text['data_available'] == True]
+        text2 = [text['indexes']['baqi']['category'] for text in pollution_data['data'] if text['data_available'] == True]
+        
+        text = [f"Dominant pollutant: {x}<br>{y}" for x,y in zip(text1,text2)]
+        
+        data = [go.Scattergl(x=x,
+                           y=y, 
+                           mode="markers", 
+                           marker=dict(
+                            size=12,
+                            color = y, #set color equal to a variable
+                            colorscale='Viridis',
+                            showscale=True
+                           ),  
+                           name="AQI",
+                            text= text)]
 
         layout = go.Layout(title=f"AQI for {city.title()}",
                         xaxis=dict(title='Date'),
@@ -93,8 +108,9 @@ def generate_plot(city):
 
         fig = go.Figure(data=data, layout=layout)
         
-        return py.plot(fig, filename='jupyter-basic_line',auto_open=False)
-    else:
+        return plotly.offline.plot(fig, include_plotlyjs=False, output_type='div')
+
+    except:
         return "404"
 
 
