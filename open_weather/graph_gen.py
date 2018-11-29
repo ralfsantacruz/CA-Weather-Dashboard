@@ -69,7 +69,15 @@ def pollution(lat,lng):
 
     return data
 
-
+def pollution_epa(lat,lng):
+    """
+    Returns EPA pollution data from coordinates.
+    """
+    
+    base_url = f"https://api.breezometer.com/air-quality/v2/current-conditions?lat={lat}&lon={lng}&key={b_api_key}&features=local_aqi"
+    data = requests.get(base_url).json()
+    return data
+    
 # In[49]:
 
 
