@@ -115,7 +115,7 @@ def generate_plot(city):
 
 
 # # Calling functions to plot:
-
+#
 # In[48]:
 
 
