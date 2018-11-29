@@ -37,15 +37,15 @@ engine = create_engine("mysql://root:password@localhost/AQI")
 # In[5]:
 
 
-query = '''
-select * from california_pollution
-'''
+# query = '''
+# select * from california_pollution
+# '''
 
 
 # In[6]:
 
 
-df2 = pd.read_sql_query(query, engine)
+# df2 = pd.read_sql_query(query, engine)
 # df2.head()
 
 
@@ -119,7 +119,6 @@ def generate_map(df):
     ]
 
     layout = go.Layout(
-        autosize=True,
         hovermode='closest',
         mapbox=dict(
             accesstoken=mapbox_api_key,
@@ -132,6 +131,13 @@ def generate_map(df):
             pitch=0,
             zoom=4
         ),
+        margin=dict(
+            l= 0,
+            r= 0,
+            b= 0,
+            t= 0,
+            pad= 2
+            )
     )
 
     fig = dict(data=data, layout=layout)
