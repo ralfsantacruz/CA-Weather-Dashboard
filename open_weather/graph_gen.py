@@ -10,6 +10,8 @@ import plotly.offline
 
 import requests
 
+from config import b_api_key
+
 from pprint import pprint
 from datetime import datetime as dt
 from datetime import timedelta
@@ -55,8 +57,8 @@ def get_coords(location):
 def pollution(lat,lng):
     """
     Returns pollution data from coordinates.
-    """
-    from config import b_api_key 
+    """ 
+    
     
     end_datetime = num_hours_ago(1)
     start_datetime = num_hours_ago(168)
@@ -74,8 +76,11 @@ def pollution_epa(lat,lng):
     Returns EPA pollution data from coordinates.
     """
     
-    base_url = f"https://api.breezometer.com/air-quality/v2/current-conditions?lat={lat}&lon={lng}&key={b_api_key}&features=local_aqi"
-    data = requests.get(base_url).json()
+    try:
+        base_url = f"https://api.breezometer.com/air-quality/v2/current-conditions?lat={lat}&lon={lng}&key={b_api_key}&features=local_aqi"
+        data = requests.get(base_url).json()
+    except:
+        return None
     return data
     
 # In[49]:
@@ -120,30 +125,3 @@ def generate_plot(city):
 
     except:
         return "404"
-
-
-# # Calling functions to plot:
-#
-# In[48]:
-
-
-# x = generate_plot("san francisco")
-
-
-# In[50]:
-
-
-# print(x)
-
-
-# In[45]:
-
-
-# generate_plot("san francisco")
-
-
-# In[46]:
-
-
-# generate_plot("boston")
-

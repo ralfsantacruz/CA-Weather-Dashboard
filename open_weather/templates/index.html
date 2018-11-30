@@ -1,20 +1,28 @@
 <html>
     <head>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-        <style>body{ margin:0 100; background:whitesmoke; }</style>
+        <style>body{background:whitesmoke; }</style>
         <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     </head>
     <body>
         <h1 style="text-align: center">Leveraging Google Maps API, Breezometer, and Plotly</h1>
 
         <!-- *** Section 1 *** --->
-        <h2 style="text-align: center">Real Time AQI for Every City in the World!</h2>
+        <h2 style="text-align: center">Real Time AQI for all of California!</h2>
         <form method="POST" style="text-align: center">
                 <input name="text">
                 <input type="submit">
             </form>
 
-<div class="container" style="text-align:center">
+<div class="jumbotron" style="height :750px">
+    <!-- <div class="row"> -->
+      <!-- <div class="col-sm-12" style="height: 550px;"> -->
+          <!-- <div class="col-sm-12"> -->
+        {{map_html | safe}}
+      </div>
+    </div>
+  </div>
+  <div class="container" style="text-align:center">
     <div class="row">
       <div class="col-sm-12" style="width:1000px; height: 550px;">
         {{plot_html | safe}}
