@@ -13,11 +13,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.91,
-    "Cloud":75,
-    "Pressure":1015,
-    "Wind(speed)":5.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.13,
+    "Cloud":40,
+    "Pressure":1012,
+    "Wind":7.7
     }
   },
   {
@@ -32,11 +32,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.48,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.01,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -51,11 +51,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.26,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.88,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -70,11 +70,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.75,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -89,11 +89,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.27,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -108,11 +108,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.98,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.53,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -127,11 +127,11 @@
     "type":"City",
     "county":"Modoc",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":1.1,
-    "Cloud":90,
-    "Pressure":1013,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":33.98,
+    "Cloud":75,
+    "Pressure":1008,
+    "Wind":2.6
     }
   },
   {
@@ -146,11 +146,11 @@
     "type":"City",
     "county":"Amador",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.25,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.2,
+    "Cloud":90,
+    "Pressure":1014,
+    "Wind":2.1
     }
   },
   {
@@ -165,11 +165,11 @@
     "type":"City",
     "county":"Napa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.09,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.39,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -184,11 +184,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.37,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
+    "Cloud":1,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -203,11 +203,11 @@
     "type":"City",
     "county":"Shasta",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.46,
-    "Cloud":90,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.43,
+    "Cloud":75,
+    "Pressure":1013,
+    "Wind":2.6
     }
   },
   {
@@ -222,11 +222,11 @@
     "type":"City",
     "county":"Calaveras",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.48,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.56
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":49.8,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -241,11 +241,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.54,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.03,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -260,11 +260,11 @@
     "type":"Town",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.4,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.54,
     "Cloud":1,
-    "Pressure":1014,
-    "Wind(speed)":8.7
+    "Pressure":1011,
+    "Wind":11.8
     }
   },
   {
@@ -279,11 +279,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.65,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -298,11 +298,11 @@
     "type":"City",
     "county":"Humboldt",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.81,
-    "Cloud":75,
-    "Pressure":1017,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":48.04,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":1.5
     }
   },
   {
@@ -317,11 +317,11 @@
     "type":"City",
     "county":"San Luis Obispo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.17,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.93
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -336,11 +336,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -355,11 +355,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.47,
-    "Cloud":20,
-    "Pressure":1018,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.1,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":8.2
     }
   },
   {
@@ -374,11 +374,11 @@
     "type":"City",
     "county":"San Luis Obispo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.66,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.23,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":3.92
     }
   },
   {
@@ -393,11 +393,11 @@
     "type":"Town",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.53,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":3.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.95,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -412,11 +412,11 @@
     "type":"City",
     "county":"Merced",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.08,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.78,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":5.1
     }
   },
   {
@@ -431,11 +431,11 @@
     "type":"City",
     "county":"Placer",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.04,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.02,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -450,11 +450,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.09,
-    "Cloud":90,
-    "Pressure":1016,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":64.06,
+    "Cloud":1,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -469,11 +469,11 @@
     "type":"City",
     "county":"Kings",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.42,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.29,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.2
     }
   },
   {
@@ -488,11 +488,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
+    "Cloud":40,
+    "Pressure":1014,
+    "Wind":2.6
     }
   },
   {
@@ -507,11 +507,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.09,
-    "Cloud":20,
-    "Pressure":1018,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.64,
+    "Cloud":1,
+    "Pressure":1016,
+    "Wind":1.5
     }
   },
   {
@@ -526,11 +526,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -545,11 +545,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.9,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.15,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -564,11 +564,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.51,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.32,
     "Cloud":1,
-    "Pressure":1014,
-    "Wind(speed)":8.7
+    "Pressure":1011,
+    "Wind":11.8
     }
   },
   {
@@ -583,11 +583,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.65,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.71,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -602,11 +602,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -621,11 +621,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -640,11 +640,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -659,11 +659,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.12,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.72,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -678,11 +678,11 @@
     "type":"City",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.02,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.23,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -697,11 +697,11 @@
     "type":"City",
     "county":"Solano",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.59,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -716,11 +716,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.75,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.19,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -735,11 +735,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.78,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.34,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -754,11 +754,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.25,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.74,
     "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.6
     }
   },
   {
@@ -773,11 +773,11 @@
     "type":"City",
     "county":"Butte",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.09,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.18,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -792,11 +792,11 @@
     "type":"City",
     "county":"Inyo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":-8.6,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":32,
+    "Cloud":90,
+    "Pressure":1008,
+    "Wind":10.8
     }
   },
   {
@@ -811,11 +811,11 @@
     "type":"City",
     "county":"Humboldt",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.81,
-    "Cloud":75,
-    "Pressure":1017,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":48.04,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":1.5
     }
   },
   {
@@ -830,11 +830,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.81,
-    "Cloud":8,
-    "Pressure":1000.21,
-    "Wind(speed)":1.58
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":64.12,
+    "Cloud":0,
+    "Pressure":998.12,
+    "Wind":2.07
     }
   },
   {
@@ -849,11 +849,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.65,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -868,11 +868,11 @@
     "type":"City",
     "county":"Imperial",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":15.55,
-    "Cloud":1,
-    "Pressure":1014,
-    "Wind(speed)":7.7
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":69.58,
+    "Cloud":75,
+    "Pressure":1012,
+    "Wind":4.1
     }
   },
   {
@@ -887,11 +887,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -906,11 +906,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.72,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.56,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -925,11 +925,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.6,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.85,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -944,11 +944,11 @@
     "type":"City",
     "county":"Santa Barbara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.85,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.29,
+    "Cloud":75,
+    "Pressure":1017,
+    "Wind":6.7
     }
   },
   {
@@ -963,11 +963,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.37,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -982,11 +982,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.73,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.74,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1001,11 +1001,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.66,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.85,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -1020,11 +1020,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.04,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.41,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1039,11 +1039,11 @@
     "type":"City",
     "county":"Imperial",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":15.54,
-    "Cloud":1,
-    "Pressure":1014,
-    "Wind(speed)":7.7
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":69.64,
+    "Cloud":75,
+    "Pressure":1012,
+    "Wind":4.1
     }
   },
   {
@@ -1058,11 +1058,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.06,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.33,
     "Cloud":1,
-    "Pressure":1014,
-    "Wind(speed)":11.8
+    "Pressure":1013,
+    "Wind":8.2
     }
   },
   {
@@ -1077,11 +1077,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.63,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.79,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -1096,11 +1096,11 @@
     "type":"City",
     "county":"Imperial",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":15.55,
-    "Cloud":1,
-    "Pressure":1014,
-    "Wind(speed)":7.7
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":69.58,
+    "Cloud":75,
+    "Pressure":1012,
+    "Wind":4.1
     }
   },
   {
@@ -1115,11 +1115,11 @@
     "type":"City",
     "county":"Napa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.4,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.01
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.69,
+    "Cloud":20,
+    "Pressure":1015,
+    "Wind":7.2
     }
   },
   {
@@ -1134,11 +1134,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.7,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
     "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Pressure":1015,
+    "Wind":4.6
     }
   },
   {
@@ -1153,11 +1153,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.31,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.46,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -1172,11 +1172,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.27,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.9,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -1191,11 +1191,11 @@
     "type":"City",
     "county":"Santa Cruz",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.19,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.91,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -1210,11 +1210,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.59,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":5.18
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.27,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -1229,11 +1229,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.49,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.23,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -1248,11 +1248,11 @@
     "type":"City",
     "county":"Santa Barbara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.69,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.61,
     "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":4.1
+    "Pressure":1014,
+    "Wind":8.7
     }
   },
   {
@@ -1267,11 +1267,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1286,11 +1286,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.99,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.19,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.11
+    "Pressure":1011,
+    "Wind":8.7
     }
   },
   {
@@ -1305,11 +1305,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.05,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.29,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -1324,11 +1324,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1343,11 +1343,11 @@
     "type":"City",
     "county":"Butte",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.3,
-    "Cloud":20,
-    "Pressure":1018,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.94,
+    "Cloud":1,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -1362,11 +1362,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.55,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
+    "Cloud":20,
+    "Pressure":1014,
+    "Wind":3.1
     }
   },
   {
@@ -1381,11 +1381,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.54,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1400,11 +1400,11 @@
     "type":"City",
     "county":"Madera",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.3,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":2.36
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.33,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -1419,11 +1419,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.97,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.48,
+    "Cloud":1,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -1438,11 +1438,11 @@
     "type":"City",
     "county":"Sacramento",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.25,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.93,
+    "Cloud":20,
+    "Pressure":1014,
+    "Wind":3.6
     }
   },
   {
@@ -1457,11 +1457,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.55,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1476,11 +1476,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.71,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.85,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -1495,11 +1495,11 @@
     "type":"City",
     "county":"Lake",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.2,
-    "Cloud":90,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":1.5
     }
   },
   {
@@ -1514,11 +1514,11 @@
     "type":"City",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.2,
-    "Cloud":90,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":1.5
     }
   },
   {
@@ -1533,11 +1533,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.56,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.17,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -1552,11 +1552,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.27,
-    "Cloud":40,
-    "Pressure":1014,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.01,
+    "Cloud":1,
+    "Pressure":1011,
+    "Wind":8.7
     }
   },
   {
@@ -1571,11 +1571,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.43,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.29,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.2
     }
   },
   {
@@ -1590,11 +1590,11 @@
     "type":"City",
     "county":"Placer",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":5.67,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.78,
+    "Cloud":90,
+    "Pressure":1012,
+    "Wind":1.5
     }
   },
   {
@@ -1609,11 +1609,11 @@
     "type":"Town",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.61,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.85,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -1628,11 +1628,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.65,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.41,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -1647,11 +1647,11 @@
     "type":"City",
     "county":"Colusa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.08,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.29,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -1666,11 +1666,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.79,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.64,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1685,11 +1685,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1704,11 +1704,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.71,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.26,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -1723,11 +1723,11 @@
     "type":"City",
     "county":"Kings",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.19,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.37,
     "Cloud":90,
-    "Pressure":1019,
-    "Wind(speed)":2.11
+    "Pressure":1015,
+    "Wind":3.27
     }
   },
   {
@@ -1742,11 +1742,11 @@
     "type":"City",
     "county":"Tehama",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.68,
-    "Cloud":90,
-    "Pressure":1017,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.36,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1761,11 +1761,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.02,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.55,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -1780,11 +1780,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.07,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.34,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":3.1
     }
   },
   {
@@ -1799,11 +1799,11 @@
     "type":"Town",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.98,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -1818,11 +1818,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.73,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.85,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -1837,11 +1837,11 @@
     "type":"City",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.78,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.26
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.82,
+    "Cloud":20,
+    "Pressure":1015,
+    "Wind":7.2
     }
   },
   {
@@ -1856,11 +1856,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1875,11 +1875,11 @@
     "type":"City",
     "county":"Del Norte",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.81,
-    "Cloud":1,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":49.42,
+    "Cloud":75,
     "Pressure":1015,
-    "Wind(speed)":3.1
+    "Wind":2.1
     }
   },
   {
@@ -1894,11 +1894,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1913,11 +1913,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.34,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1932,11 +1932,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.49,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.7,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -1951,11 +1951,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.61,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -1970,11 +1970,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.6,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.85,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -1989,11 +1989,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.38,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.49,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -2008,11 +2008,11 @@
     "type":"Town",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.21,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.9,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -2027,11 +2027,11 @@
     "type":"City",
     "county":"Yolo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.1,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.34,
+    "Cloud":20,
+    "Pressure":1014,
+    "Wind":2.1
     }
   },
   {
@@ -2046,11 +2046,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.65,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -2065,11 +2065,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.49,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.23,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -2084,11 +2084,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.25,
-    "Cloud":75,
-    "Pressure":1019,
-    "Wind(speed)":2.11
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.06,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":3.27
     }
   },
   {
@@ -2103,11 +2103,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.08,
     "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":2.6
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -2122,11 +2122,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.54,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2141,11 +2141,11 @@
     "type":"City",
     "county":"Tulare",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.51,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.44,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -2160,11 +2160,11 @@
     "type":"City",
     "county":"Solano",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.21,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.16,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -2179,11 +2179,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":2.6,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":40.48,
     "Cloud":75,
-    "Pressure":1011,
-    "Wind(speed)":4.6
+    "Pressure":1008,
+    "Wind":5.7
     }
   },
   {
@@ -2198,11 +2198,11 @@
     "type":"City",
     "county":"Merced",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.96,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.28,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":5.1
     }
   },
   {
@@ -2217,11 +2217,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2236,11 +2236,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.81,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.27,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2255,11 +2255,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.59,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.72,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -2274,11 +2274,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":2.95,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":42.39,
     "Cloud":90,
-    "Pressure":1013,
-    "Wind(speed)":2.6
+    "Pressure":1010,
+    "Wind":2.1
     }
   },
   {
@@ -2293,11 +2293,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.52,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.64,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -2312,11 +2312,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.91,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.64,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -2331,11 +2331,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.84,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.28,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -2350,11 +2350,11 @@
     "type":"City",
     "county":"Imperial",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":15.55,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":69.6,
     "Cloud":1,
-    "Pressure":1013,
-    "Wind(speed)":7.2
+    "Pressure":1011,
+    "Wind":5.7
     }
   },
   {
@@ -2369,11 +2369,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.69,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.19,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -2388,11 +2388,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.27,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2407,11 +2407,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.34,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2426,11 +2426,11 @@
     "type":"City",
     "county":"Sacramento",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.05,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.34,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -2445,11 +2445,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.77,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.1,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -2464,11 +2464,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.66,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -2483,11 +2483,11 @@
     "type":"City",
     "county":"San Joaquin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.73,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.46,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -2502,11 +2502,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.66,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -2521,11 +2521,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":2.92,
-    "Cloud":90,
-    "Pressure":1013,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":42.26,
+    "Cloud":1,
+    "Pressure":1012,
+    "Wind":1.5
     }
   },
   {
@@ -2540,11 +2540,11 @@
     "type":"City",
     "county":"Humboldt",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.83,
-    "Cloud":75,
-    "Pressure":1017,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":47.95,
+    "Cloud":40,
+    "Pressure":1016,
+    "Wind":3.1
     }
   },
   {
@@ -2559,11 +2559,11 @@
     "type":"City",
     "county":"Tulare",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.03,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.87,
     "Cloud":90,
-    "Pressure":1019,
-    "Wind(speed)":1.91
+    "Pressure":1016,
+    "Wind":3.1
     }
   },
   {
@@ -2578,11 +2578,11 @@
     "type":"Town",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.69,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.55,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -2597,11 +2597,11 @@
     "type":"City",
     "county":"Solano",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.65,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.26,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -2616,11 +2616,11 @@
     "type":"City",
     "county":"Tulare",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.4,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.92,
     "Cloud":90,
-    "Pressure":1019,
-    "Wind(speed)":1.91
+    "Pressure":1016,
+    "Wind":3.1
     }
   },
   {
@@ -2635,11 +2635,11 @@
     "type":"City",
     "county":"Humboldt",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.91,
-    "Cloud":75,
-    "Pressure":1017,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":47.75,
+    "Cloud":40,
+    "Pressure":1016,
+    "Wind":3.1
     }
   },
   {
@@ -2654,11 +2654,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.68,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2673,11 +2673,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.3,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.36
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.33,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -2692,11 +2692,11 @@
     "type":"City",
     "county":"Sacramento",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.28,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.43,
+    "Cloud":20,
+    "Pressure":1014,
+    "Wind":3.6
     }
   },
   {
@@ -2711,11 +2711,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.74,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.92,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -2730,11 +2730,11 @@
     "type":"City",
     "county":"Mendocino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.2,
-    "Cloud":90,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":1.5
     }
   },
   {
@@ -2749,11 +2749,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":3.36,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":41.88,
     "Cloud":90,
-    "Pressure":1013,
-    "Wind(speed)":2.6
+    "Pressure":1011,
+    "Wind":4.6
     }
   },
   {
@@ -2768,11 +2768,11 @@
     "type":"City",
     "county":"Humboldt",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.91,
-    "Cloud":75,
-    "Pressure":1017,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":47.75,
+    "Cloud":40,
+    "Pressure":1016,
+    "Wind":3.1
     }
   },
   {
@@ -2787,11 +2787,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.66,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.67,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -2806,11 +2806,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.37,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2825,11 +2825,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.56,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.15,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -2844,11 +2844,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.74,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.86,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -2863,11 +2863,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.56,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.17,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -2882,11 +2882,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.37,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2901,11 +2901,11 @@
     "type":"City",
     "county":"Sacramento",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.34,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.69,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -2920,11 +2920,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.37,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2939,11 +2939,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1014,
+    "Wind":6.2
     }
   },
   {
@@ -2958,11 +2958,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10,
-    "Cloud":40,
-    "Pressure":1020,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.63,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -2977,11 +2977,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.64,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -2996,11 +2996,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.54,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
+    "Cloud":40,
+    "Pressure":1014,
+    "Wind":2.6
     }
   },
   {
@@ -3015,11 +3015,11 @@
     "type":"City",
     "county":"Santa Barbara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.56,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.13,
     "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":4.1
+    "Pressure":1014,
+    "Wind":8.7
     }
   },
   {
@@ -3034,11 +3034,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.52,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.25,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -3053,11 +3053,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.65,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.41,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -3072,11 +3072,11 @@
     "type":"City",
     "county":"Nevada",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":5.96,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.21,
+    "Cloud":90,
+    "Pressure":1012,
+    "Wind":1.5
     }
   },
   {
@@ -3091,11 +3091,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.34,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.8,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -3110,11 +3110,11 @@
     "type":"City",
     "county":"Butte",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.08,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.47,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -3129,11 +3129,11 @@
     "type":"City",
     "county":"San Luis Obispo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.16,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.93
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -3148,11 +3148,11 @@
     "type":"City",
     "county":"Santa Barbara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.52,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.49,
+    "Cloud":75,
+    "Pressure":1017,
+    "Wind":6.2
     }
   },
   {
@@ -3167,11 +3167,11 @@
     "type":"City",
     "county":"Merced",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.77,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.48,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":5.1
     }
   },
   {
@@ -3186,11 +3186,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.33,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.6,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -3205,11 +3205,11 @@
     "type":"City",
     "county":"Kings",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.51,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.4,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -3224,11 +3224,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -3243,11 +3243,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3262,11 +3262,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.25,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.88,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -3281,11 +3281,11 @@
     "type":"City",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.27,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.26
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.89,
+    "Cloud":20,
+    "Pressure":1015,
+    "Wind":7.2
     }
   },
   {
@@ -3300,11 +3300,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.23,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.52,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -3319,11 +3319,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.63,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.46,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -3338,11 +3338,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.78,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.36,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3357,11 +3357,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.62,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.04,
     "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.6
     }
   },
   {
@@ -3376,11 +3376,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.04,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.41,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3395,11 +3395,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.63,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.77,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -3414,11 +3414,11 @@
     "type":"Town",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.05,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.74,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -3433,11 +3433,11 @@
     "type":"City",
     "county":"San Benito",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.63,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.14,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -3452,11 +3452,11 @@
     "type":"City",
     "county":"Imperial",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":15.54,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":69.64,
     "Cloud":1,
-    "Pressure":1013,
-    "Wind(speed)":7.2
+    "Pressure":1011,
+    "Wind":5.7
     }
   },
   {
@@ -3471,11 +3471,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.26,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.97,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -3490,11 +3490,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.61,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.3,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3509,11 +3509,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3528,11 +3528,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.47,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":2.73
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.23,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -3547,11 +3547,11 @@
     "type":"City",
     "county":"Imperial",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":15.56,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":69.58,
     "Cloud":1,
-    "Pressure":1013,
-    "Wind(speed)":7.2
+    "Pressure":1011,
+    "Wind":5.7
     }
   },
   {
@@ -3566,11 +3566,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.42,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.41,
+    "Cloud":1,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -3585,11 +3585,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.29,
-    "Cloud":40,
-    "Pressure":1014,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.07,
+    "Cloud":1,
+    "Pressure":1011,
+    "Wind":8.7
     }
   },
   {
@@ -3604,11 +3604,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.31,
-    "Cloud":40,
-    "Pressure":1014,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.1,
+    "Cloud":1,
+    "Pressure":1011,
+    "Wind":8.7
     }
   },
   {
@@ -3623,11 +3623,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3642,11 +3642,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3661,11 +3661,11 @@
     "type":"City",
     "county":"Amador",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.55,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.94,
+    "Cloud":90,
+    "Pressure":1014,
+    "Wind":2.1
     }
   },
   {
@@ -3680,11 +3680,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.37,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -3699,11 +3699,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3718,11 +3718,11 @@
     "type":"City",
     "county":"Sacramento",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.88,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.27,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -3737,11 +3737,11 @@
     "type":"City",
     "county":"Amador",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.3,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.25,
+    "Cloud":90,
+    "Pressure":1014,
+    "Wind":2.1
     }
   },
   {
@@ -3756,11 +3756,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.23,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.42,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -3775,11 +3775,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.68,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.19,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -3794,11 +3794,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.23
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.06,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -3813,11 +3813,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.51,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.42,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -3832,11 +3832,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.65,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3851,11 +3851,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3870,11 +3870,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":1.17
     }
   },
   {
@@ -3889,11 +3889,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.84,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.28,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -3908,11 +3908,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.37,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3927,11 +3927,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3946,11 +3946,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -3965,11 +3965,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13,
-    "Cloud":40,
-    "Pressure":1014,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":68,
+    "Cloud":1,
+    "Pressure":1011,
+    "Wind":8.7
     }
   },
   {
@@ -3984,11 +3984,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.54,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4003,11 +4003,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.76,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.96,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4022,11 +4022,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.23,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.62,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -4041,11 +4041,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.99,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.53,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -4060,11 +4060,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.38,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.49,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -4079,11 +4079,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.23,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.64,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -4098,11 +4098,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.36,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.19,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -4117,11 +4117,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.27,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.64,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -4136,11 +4136,11 @@
     "type":"City",
     "county":"Lake",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.2,
-    "Cloud":90,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":1.5
     }
   },
   {
@@ -4155,11 +4155,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4174,11 +4174,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.16,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.55,
     "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":4.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4193,11 +4193,11 @@
     "type":"City",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.98,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.14,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -4212,11 +4212,11 @@
     "type":"City",
     "county":"San Joaquin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.22,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.67,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -4231,11 +4231,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4250,11 +4250,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.07,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.34,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":3.1
     }
   },
   {
@@ -4269,11 +4269,11 @@
     "type":"City",
     "county":"Kings",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.59,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.29,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -4288,11 +4288,11 @@
     "type":"City",
     "county":"Placer",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.35,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.08,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -4307,11 +4307,11 @@
     "type":"City",
     "county":"Tulare",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.03,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.85,
     "Cloud":90,
-    "Pressure":1019,
-    "Wind(speed)":0.88
+    "Pressure":1016,
+    "Wind":1.5
     }
   },
   {
@@ -4326,11 +4326,11 @@
     "type":"City",
     "county":"Sutter",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.5,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.05,
+    "Cloud":20,
+    "Pressure":1013,
+    "Wind":6.2
     }
   },
   {
@@ -4345,11 +4345,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.65,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.04,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4364,11 +4364,11 @@
     "type":"City",
     "county":"Merced",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.08,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.94,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":5.1
     }
   },
   {
@@ -4383,11 +4383,11 @@
     "type":"City",
     "county":"San Joaquin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.57,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.59,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -4402,11 +4402,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.66,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.41,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -4421,11 +4421,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4440,11 +4440,11 @@
     "type":"City",
     "county":"Santa Barbara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.81,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.64,
+    "Cloud":75,
+    "Pressure":1017,
+    "Wind":6.7
     }
   },
   {
@@ -4459,11 +4459,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4478,11 +4478,11 @@
     "type":"Town",
     "county":"Placer",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.28,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.43,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -4497,11 +4497,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4516,11 +4516,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.53,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.95,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4535,11 +4535,11 @@
     "type":"Town",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.53,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.95,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4554,11 +4554,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.79,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.5
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4573,11 +4573,11 @@
     "type":"City",
     "county":"Merced",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.88,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.39,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":5.1
     }
   },
   {
@@ -4592,11 +4592,11 @@
     "type":"Town",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.41,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.26,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4611,11 +4611,11 @@
     "type":"City",
     "county":"Sierra",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":-1.58,
-    "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":37.51,
+    "Cloud":75,
+    "Pressure":1008,
+    "Wind":7.7
     }
   },
   {
@@ -4630,11 +4630,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4649,11 +4649,11 @@
     "type":"City",
     "county":"Madera",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.24,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":2.36
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.67,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -4668,11 +4668,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.48,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.01,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4687,11 +4687,11 @@
     "type":"Town",
     "county":"Mono",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":-8.6,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":33.62,
+    "Cloud":90,
+    "Pressure":1008,
+    "Wind":5.1
     }
   },
   {
@@ -4706,11 +4706,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.78,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.36,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4725,11 +4725,11 @@
     "type":"City",
     "county":"San Joaquin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.22,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.56,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4744,11 +4744,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10,
-    "Cloud":20,
-    "Pressure":1018,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.92,
+    "Cloud":1,
+    "Pressure":1016,
+    "Wind":1.5
     }
   },
   {
@@ -4763,11 +4763,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.51,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":3.38
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.23,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -4782,11 +4782,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.66,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.26,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4801,11 +4801,11 @@
     "type":"City",
     "county":"Yuba",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.69,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.99,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -4820,11 +4820,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -4839,11 +4839,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.11,
-    "Cloud":75,
-    "Pressure":1019,
-    "Wind(speed)":1.78
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.76,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":1.92
     }
   },
   {
@@ -4858,11 +4858,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.7,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.36
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.47,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -4877,11 +4877,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.1,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.56,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -4896,11 +4896,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.52,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.79,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4915,11 +4915,11 @@
     "type":"City",
     "county":"Merced",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.08,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.96,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":5.1
     }
   },
   {
@@ -4934,11 +4934,11 @@
     "type":"City",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.03,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.05,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -4953,11 +4953,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.6,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.85,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -4972,11 +4972,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.53,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.95,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -4991,11 +4991,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.71,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.49,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -5010,11 +5010,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.05,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.23,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":5.1
     }
   },
   {
@@ -5029,11 +5029,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.65,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5048,11 +5048,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":3.32,
-    "Cloud":75,
-    "Pressure":1013,
-    "Wind(speed)":1.03
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":41.74,
+    "Cloud":90,
+    "Pressure":1011,
+    "Wind":4.6
     }
   },
   {
@@ -5067,11 +5067,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.55,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5086,11 +5086,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.41,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.26,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -5105,11 +5105,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5124,11 +5124,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.49,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.23,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -5143,11 +5143,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5162,11 +5162,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.32,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.91,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5181,11 +5181,11 @@
     "type":"Town",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.76,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.1,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -5200,11 +5200,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.42,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.57,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -5219,11 +5219,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.02,
-    "Cloud":40,
-    "Pressure":1020,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.11,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -5238,11 +5238,11 @@
     "type":"City",
     "county":"San Luis Obispo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.62,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.93
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.12,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -5257,11 +5257,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":2.93,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":42.39,
     "Cloud":90,
-    "Pressure":1013,
-    "Wind(speed)":2.6
+    "Pressure":1010,
+    "Wind":2.1
     }
   },
   {
@@ -5276,11 +5276,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.53,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.95,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -5295,11 +5295,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.91,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.32,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -5314,11 +5314,11 @@
     "type":"City",
     "county":"Napa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.49,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.01
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.46,
+    "Cloud":20,
+    "Pressure":1015,
+    "Wind":7.2
     }
   },
   {
@@ -5333,11 +5333,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.97,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.48,
+    "Cloud":1,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -5352,11 +5352,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.03,
-    "Cloud":1,
-    "Pressure":1013,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.72,
+    "Cloud":75,
+    "Pressure":1010,
+    "Wind":5.1
     }
   },
   {
@@ -5371,11 +5371,11 @@
     "type":"City",
     "county":"Nevada",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":5.67,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.78,
+    "Cloud":90,
+    "Pressure":1012,
+    "Wind":1.5
     }
   },
   {
@@ -5390,11 +5390,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.53,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.95,
+    "Cloud":20,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -5409,11 +5409,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.88,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.06,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -5428,11 +5428,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.53,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -5447,11 +5447,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.61,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.6,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -5466,11 +5466,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5485,11 +5485,11 @@
     "type":"City",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.48,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.69,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -5504,11 +5504,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.98,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.56,
+    "Cloud":90,
+    "Pressure":1014,
+    "Wind":2.1
     }
   },
   {
@@ -5523,11 +5523,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.76,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.96,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -5542,11 +5542,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.15,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.32,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -5561,11 +5561,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.49,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":5.18
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":3.1
     }
   },
   {
@@ -5580,11 +5580,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.23,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":5.96
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":64,
+    "Cloud":40,
+    "Pressure":1014,
+    "Wind":11.3
     }
   },
   {
@@ -5599,11 +5599,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.29,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.98,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5618,11 +5618,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.38,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5637,11 +5637,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.51,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.11,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":3.6
     }
   },
   {
@@ -5656,11 +5656,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.76,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.96,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -5675,11 +5675,11 @@
     "type":"City",
     "county":"Glenn",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.3,
-    "Cloud":90,
-    "Pressure":1017,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.08,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5694,11 +5694,11 @@
     "type":"City",
     "county":"Butte",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.09,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.21,
+    "Cloud":90,
+    "Pressure":1012,
+    "Wind":1.5
     }
   },
   {
@@ -5713,11 +5713,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.23,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":64.02,
     "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Pressure":1014,
+    "Wind":11.3
     }
   },
   {
@@ -5732,11 +5732,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.5,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.65,
+    "Cloud":90,
+    "Pressure":1017,
+    "Wind":3.1
     }
   },
   {
@@ -5751,11 +5751,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.6,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.67,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -5770,11 +5770,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.29,
-    "Cloud":40,
-    "Pressure":1014,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.09,
+    "Cloud":1,
+    "Pressure":1011,
+    "Wind":8.7
     }
   },
   {
@@ -5789,11 +5789,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.95,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.11
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.41,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -5808,11 +5808,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.07,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.7,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":5.1
+    "Pressure":1013,
+    "Wind":10.8
     }
   },
   {
@@ -5827,11 +5827,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.52,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.95,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -5846,11 +5846,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.78,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.36,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5865,11 +5865,11 @@
     "type":"Town",
     "county":"Butte",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.3,
-    "Cloud":20,
-    "Pressure":1018,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.89,
+    "Cloud":1,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -5884,11 +5884,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5903,11 +5903,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.57,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.83,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":3.6
     }
   },
   {
@@ -5922,11 +5922,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.64,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -5941,11 +5941,11 @@
     "type":"City",
     "county":"San Luis Obispo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.57,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.17,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":3.92
     }
   },
   {
@@ -5960,11 +5960,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.95,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.18,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -5979,11 +5979,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.19,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.5,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -5998,11 +5998,11 @@
     "type":"City",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.43,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.01
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6017,11 +6017,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.64,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6036,11 +6036,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.76,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.12,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6055,11 +6055,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.7,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6074,11 +6074,11 @@
     "type":"City",
     "county":"San Luis Obispo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.17,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.93
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -6093,11 +6093,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.33,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.17,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6112,11 +6112,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":0.83
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6131,11 +6131,11 @@
     "type":"City",
     "county":"El Dorado",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":5.85,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":49.98,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6150,11 +6150,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.71,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.26,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6169,11 +6169,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.65,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.89,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6188,11 +6188,11 @@
     "type":"City",
     "county":"Amador",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.05,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.97,
+    "Cloud":90,
+    "Pressure":1014,
+    "Wind":2.1
     }
   },
   {
@@ -6207,11 +6207,11 @@
     "type":"City",
     "county":"Mendocino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.2,
-    "Cloud":90,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":1.5
     }
   },
   {
@@ -6226,11 +6226,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.54,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
+    "Cloud":40,
+    "Pressure":1014,
+    "Wind":2.6
     }
   },
   {
@@ -6245,11 +6245,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.24,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.72,
     "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Pressure":1015,
+    "Wind":4.6
     }
   },
   {
@@ -6264,11 +6264,11 @@
     "type":"City",
     "county":"Tulare",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.05,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.36,
     "Cloud":90,
-    "Pressure":1019,
-    "Wind(speed)":0.88
+    "Pressure":1016,
+    "Wind":1.5
     }
   },
   {
@@ -6283,11 +6283,11 @@
     "type":"City",
     "county":"Plumas",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":-1.53,
-    "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":41.23,
+    "Cloud":75,
+    "Pressure":1008,
+    "Wind":7.7
     }
   },
   {
@@ -6302,11 +6302,11 @@
     "type":"Town",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.64,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.79,
+    "Cloud":20,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -6321,11 +6321,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.65,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":3.1
     }
   },
   {
@@ -6340,11 +6340,11 @@
     "type":"City",
     "county":"Sacramento",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.77,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.45,
+    "Cloud":20,
+    "Pressure":1014,
+    "Wind":3.6
     }
   },
   {
@@ -6359,11 +6359,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.93,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.03,
+    "Cloud":20,
+    "Pressure":1014,
+    "Wind":3.1
     }
   },
   {
@@ -6378,11 +6378,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.98,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.64,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.11
+    "Pressure":1013,
+    "Wind":5.1
     }
   },
   {
@@ -6397,11 +6397,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.78,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.36,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6416,11 +6416,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.71,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.49,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -6435,11 +6435,11 @@
     "type":"City",
     "county":"Tehama",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.9,
-    "Cloud":90,
-    "Pressure":1017,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.45,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6454,11 +6454,11 @@
     "type":"City",
     "county":"Shasta",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.58,
-    "Cloud":90,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.68,
+    "Cloud":75,
+    "Pressure":1013,
+    "Wind":2.6
     }
   },
   {
@@ -6473,11 +6473,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.63,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.79,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -6492,11 +6492,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.78,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.36,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6511,11 +6511,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.12,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.74,
+    "Cloud":20,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -6530,11 +6530,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.6,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.97,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":3.6
     }
   },
   {
@@ -6549,11 +6549,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.65,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.41,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -6568,11 +6568,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.69,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.19,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6587,11 +6587,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.8,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.98,
     "Cloud":1,
-    "Pressure":1013,
-    "Wind(speed)":2.6
+    "Pressure":1007,
+    "Wind":14.4
     }
   },
   {
@@ -6606,11 +6606,11 @@
     "type":"City",
     "county":"Humboldt",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.94,
-    "Cloud":75,
-    "Pressure":1017,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":47.7,
+    "Cloud":40,
+    "Pressure":1016,
+    "Wind":3.1
     }
   },
   {
@@ -6625,11 +6625,11 @@
     "type":"City",
     "county":"Solano",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.7,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.74,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -6644,11 +6644,11 @@
     "type":"City",
     "county":"San Joaquin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.81,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.42,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -6663,11 +6663,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.05,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.3,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -6682,11 +6682,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.74,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.92,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -6701,11 +6701,11 @@
     "type":"City",
     "county":"Placer",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.28,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.41,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -6720,11 +6720,11 @@
     "type":"City",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.78,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.01
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.23,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6739,11 +6739,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.78,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.36,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6758,11 +6758,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.78,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.36,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6777,11 +6777,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.27,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -6796,11 +6796,11 @@
     "type":"City",
     "county":"Placer",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.27,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.41,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -6815,11 +6815,11 @@
     "type":"Town",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.8,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.55,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6834,11 +6834,11 @@
     "type":"City",
     "county":"Sacramento",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.77,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.44,
+    "Cloud":20,
+    "Pressure":1014,
+    "Wind":3.6
     }
   },
   {
@@ -6853,11 +6853,11 @@
     "type":"City",
     "county":"Napa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.95,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.01
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.91,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -6872,11 +6872,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.52,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":3.38
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.25,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -6891,11 +6891,11 @@
     "type":"Town",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.8,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.33,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -6910,11 +6910,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.09,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.87,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -6929,11 +6929,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.6,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.85,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -6948,11 +6948,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.12,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.74,
+    "Cloud":20,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -6967,11 +6967,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.87,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.82,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -6986,11 +6986,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.07,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.34,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -7005,11 +7005,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.54,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.94,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.53
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7024,11 +7024,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.49,
-    "Cloud":1,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.65,
+    "Cloud":5,
     "Pressure":1015,
-    "Wind(speed)":2.1
+    "Wind":3.1
     }
   },
   {
@@ -7043,11 +7043,11 @@
     "type":"City and county",
     "county":"San Francisco",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.06,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.05,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -7062,11 +7062,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.27,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7081,11 +7081,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.28,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -7100,11 +7100,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.68,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":3.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.79,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":3.6
     }
   },
   {
@@ -7119,11 +7119,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.31,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.46,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -7138,11 +7138,11 @@
     "type":"City",
     "county":"San Benito",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.77,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":3.38
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.27,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -7157,11 +7157,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.71,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.49,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -7176,11 +7176,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.25,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.05,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -7195,11 +7195,11 @@
     "type":"City",
     "county":"San Luis Obispo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.94,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.93
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.26,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":4.1
     }
   },
   {
@@ -7214,11 +7214,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.66,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -7233,11 +7233,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.64,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -7252,11 +7252,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.66,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.67,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -7271,11 +7271,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.7,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -7290,11 +7290,11 @@
     "type":"City",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.68,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.41,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -7309,11 +7309,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.21,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.9,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -7328,11 +7328,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.5,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.23,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -7347,11 +7347,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.57,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.17,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -7366,11 +7366,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.03,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.89,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7385,11 +7385,11 @@
     "type":"City",
     "county":"Santa Barbara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.71,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.55,
     "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":4.1
+    "Pressure":1014,
+    "Wind":8.7
     }
   },
   {
@@ -7404,11 +7404,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.49,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.7,
+    "Cloud":20,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -7423,11 +7423,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.46,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.22,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7442,11 +7442,11 @@
     "type":"City",
     "county":"Santa Cruz",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.18,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.57,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":3.6
     }
   },
   {
@@ -7461,11 +7461,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.16,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -7480,11 +7480,11 @@
     "type":"City",
     "county":"Santa Barbara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.53,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.47,
+    "Cloud":75,
+    "Pressure":1017,
+    "Wind":6.2
     }
   },
   {
@@ -7499,11 +7499,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.52,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.3,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7518,11 +7518,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.85,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.1,
     "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Pressure":1014,
+    "Wind":11.3
     }
   },
   {
@@ -7537,11 +7537,11 @@
     "type":"City",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.1,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.26
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59,
+    "Cloud":20,
+    "Pressure":1015,
+    "Wind":7.2
     }
   },
   {
@@ -7556,11 +7556,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.84,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.28,
+    "Cloud":75,
+    "Pressure":1014,
+    "Wind":3.1
     }
   },
   {
@@ -7575,11 +7575,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.41,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.26,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -7594,11 +7594,11 @@
     "type":"City",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.02,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.23,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -7613,11 +7613,11 @@
     "type":"City",
     "county":"Santa Cruz",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.46,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.49,
+    "Cloud":20,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -7632,11 +7632,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.16,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -7651,11 +7651,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.5,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":4.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.23,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -7670,11 +7670,11 @@
     "type":"City",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.49,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.26
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59,
+    "Cloud":20,
+    "Pressure":1015,
+    "Wind":7.2
     }
   },
   {
@@ -7689,11 +7689,11 @@
     "type":"City",
     "county":"Fresno",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.56,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.15,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -7708,11 +7708,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.09,
-    "Cloud":75,
-    "Pressure":1019,
-    "Wind(speed)":1.78
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.69,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":1.92
     }
   },
   {
@@ -7727,11 +7727,11 @@
     "type":"City",
     "county":"Shasta",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.65,
-    "Cloud":75,
-    "Pressure":1016,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.81,
+    "Cloud":1,
+    "Pressure":1012,
+    "Wind":1.5
     }
   },
   {
@@ -7746,11 +7746,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.65,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.6,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7765,11 +7765,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.6,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":3.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7784,11 +7784,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.3,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.85,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7803,11 +7803,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.65,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.96,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.6
     }
   },
   {
@@ -7822,11 +7822,11 @@
     "type":"City",
     "county":"Monterey",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.34,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":1.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.82,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -7841,11 +7841,11 @@
     "type":"City",
     "county":"Santa Barbara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.86,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":4.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.27,
+    "Cloud":75,
+    "Pressure":1017,
+    "Wind":6.7
     }
   },
   {
@@ -7860,11 +7860,11 @@
     "type":"City",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.49,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.01
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.75,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -7879,11 +7879,11 @@
     "type":"City",
     "county":"Tuolumne",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.08,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.56
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":48.87,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -7898,11 +7898,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.18,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -7917,11 +7917,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7936,11 +7936,11 @@
     "type":"City",
     "county":"El Dorado",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":-2.4,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.23
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":35.24,
+    "Cloud":90,
+    "Pressure":1009,
+    "Wind":5.1
     }
   },
   {
@@ -7955,11 +7955,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.64,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.69,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -7974,11 +7974,11 @@
     "type":"City",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.6,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.85,
+    "Cloud":75,
+    "Pressure":1016,
+    "Wind":8.7
     }
   },
   {
@@ -7993,11 +7993,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.37,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.83,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -8012,11 +8012,11 @@
     "type":"City",
     "county":"San Joaquin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.75,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.3,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -8031,11 +8031,11 @@
     "type":"City",
     "county":"Solano",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.65,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.26,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -8050,11 +8050,11 @@
     "type":"City",
     "county":"Santa Clara",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.53,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.8,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -8069,11 +8069,11 @@
     "type":"City",
     "county":"Lassen",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":0,
-    "Cloud":40,
-    "Pressure":1015,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":42.8,
+    "Cloud":20,
+    "Pressure":1008,
+    "Wind":7.2
     }
   },
   {
@@ -8088,11 +8088,11 @@
     "type":"City",
     "county":"Amador",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.25,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50.23,
+    "Cloud":90,
+    "Pressure":1014,
+    "Wind":2.1
     }
   },
   {
@@ -8107,11 +8107,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10,
-    "Cloud":20,
-    "Pressure":1018,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.92,
+    "Cloud":1,
+    "Pressure":1016,
+    "Wind":1.5
     }
   },
   {
@@ -8126,11 +8126,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.45,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.81,
     "Cloud":1,
-    "Pressure":1014,
-    "Wind(speed)":11.8
+    "Pressure":1013,
+    "Wind":8.2
     }
   },
   {
@@ -8145,11 +8145,11 @@
     "type":"City",
     "county":"Tehama",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.92,
-    "Cloud":90,
-    "Pressure":1017,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.43,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -8164,11 +8164,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.16,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.9,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -8183,11 +8183,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.27,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":1.17
     }
   },
   {
@@ -8202,11 +8202,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.31,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.85,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -8221,11 +8221,11 @@
     "type":"Town",
     "county":"Marin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.02,
-    "Cloud":20,
-    "Pressure":1020,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.23,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -8240,11 +8240,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.25,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -8259,11 +8259,11 @@
     "type":"City",
     "county":"San Joaquin",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.31,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.64,
+    "Cloud":75,
+    "Pressure":1015,
+    "Wind":3.1
     }
   },
   {
@@ -8278,11 +8278,11 @@
     "type":"City",
     "county":"Humboldt",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.76,
-    "Cloud":75,
-    "Pressure":1015,
-    "Wind(speed)":5.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":48.15,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":1.5
     }
   },
   {
@@ -8297,11 +8297,11 @@
     "type":"Town",
     "county":"Nevada",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":-2.37,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.13
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":35.28,
+    "Cloud":90,
+    "Pressure":1009,
+    "Wind":5.1
     }
   },
   {
@@ -8316,11 +8316,11 @@
     "type":"City",
     "county":"Tulare",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.19,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.05,
     "Cloud":90,
-    "Pressure":1019,
-    "Wind(speed)":2.11
+    "Pressure":1015,
+    "Wind":3.6
     }
   },
   {
@@ -8335,11 +8335,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":1.1,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":33.98,
     "Cloud":75,
-    "Pressure":1011,
-    "Wind(speed)":4.6
+    "Pressure":1008,
+    "Wind":5.7
     }
   },
   {
@@ -8354,11 +8354,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.07,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.61,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":5.1
     }
   },
   {
@@ -8373,11 +8373,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.54,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.58,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -8392,11 +8392,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.98,
     "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":5.1
     }
   },
   {
@@ -8411,11 +8411,11 @@
     "type":"City",
     "county":"Mendocino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.2,
-    "Cloud":90,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":1.5
     }
   },
   {
@@ -8430,11 +8430,11 @@
     "type":"City",
     "county":"Alameda",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.74,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.02,
+    "Cloud":20,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -8449,11 +8449,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.29,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.01,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -8468,11 +8468,11 @@
     "type":"City",
     "county":"Solano",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.54,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.06,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -8487,11 +8487,11 @@
     "type":"City",
     "county":"Solano",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.49,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.35,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -8506,11 +8506,11 @@
     "type":"City",
     "county":"Ventura",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.23,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":5.96
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":64,
+    "Cloud":40,
+    "Pressure":1014,
+    "Wind":11.3
     }
   },
   {
@@ -8525,11 +8525,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.59,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.16,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -8544,11 +8544,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.64,
-    "Cloud":75,
-    "Pressure":1015,
-    "Wind(speed)":5.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.3,
+    "Cloud":40,
+    "Pressure":1012,
+    "Wind":7.7
     }
   },
   {
@@ -8563,11 +8563,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.25,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.56,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.83
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -8582,11 +8582,11 @@
     "type":"City",
     "county":"Tulare",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.35,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":53.65,
     "Cloud":90,
-    "Pressure":1019,
-    "Wind(speed)":1.91
+    "Pressure":1015,
+    "Wind":4.1
     }
   },
   {
@@ -8601,11 +8601,11 @@
     "type":"City",
     "county":"San Diego",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":12.31,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.18,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":1.21
+    "Pressure":1013,
+    "Wind":4.6
     }
   },
   {
@@ -8620,11 +8620,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.54,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":0.53
+    "Pressure":1013,
+    "Wind":1.02
     }
   },
   {
@@ -8639,11 +8639,11 @@
     "type":"City",
     "county":"Contra Costa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.77,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.1,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -8658,11 +8658,11 @@
     "type":"City",
     "county":"Kern",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.1,
-    "Cloud":75,
-    "Pressure":1019,
-    "Wind(speed)":1.78
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.74,
+    "Cloud":90,
+    "Pressure":1015,
+    "Wind":1.92
     }
   },
   {
@@ -8677,11 +8677,11 @@
     "type":"City",
     "county":"Stanislaus",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.27,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":51.08,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":2.1
     }
   },
   {
@@ -8696,11 +8696,11 @@
     "type":"City",
     "county":"Santa Cruz",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":1.36
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":54.59,
+    "Cloud":90,
+    "Pressure":1016,
+    "Wind":2.1
     }
   },
   {
@@ -8715,11 +8715,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":2.92,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":42.33,
     "Cloud":90,
-    "Pressure":1013,
-    "Wind(speed)":2.6
+    "Pressure":1010,
+    "Wind":2.1
     }
   },
   {
@@ -8734,11 +8734,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -8753,11 +8753,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.02,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.37,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -8772,11 +8772,11 @@
     "type":"City",
     "county":"Yolo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.77,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.42,
+    "Cloud":20,
+    "Pressure":1014,
+    "Wind":3.6
     }
   },
   {
@@ -8791,11 +8791,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.3,
-    "Cloud":40,
-    "Pressure":1016,
-    "Wind(speed)":3.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.85,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -8810,11 +8810,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.37,
-    "Cloud":20,
-    "Pressure":1015,
-    "Wind(speed)":5.33
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.83,
+    "Cloud":1,
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -8829,11 +8829,11 @@
     "type":"City",
     "county":"Imperial",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":14.91,
-    "Cloud":1,
-    "Pressure":1014,
-    "Wind(speed)":7.7
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":69.15,
+    "Cloud":75,
+    "Pressure":1011,
+    "Wind":4.1
     }
   },
   {
@@ -8848,11 +8848,11 @@
     "type":"City",
     "county":"Yuba",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.51,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":55.87,
+    "Cloud":40,
+    "Pressure":1013,
+    "Wind":6.7
     }
   },
   {
@@ -8867,11 +8867,11 @@
     "type":"City",
     "county":"Los Angeles",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.8,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":63.55,
     "Cloud":1,
-    "Pressure":1015,
-    "Wind(speed)":1.46
+    "Pressure":1013,
+    "Wind":3.1
     }
   },
   {
@@ -8886,11 +8886,11 @@
     "type":"City",
     "county":"Riverside",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":11.24,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.91
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":61.88,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -8905,11 +8905,11 @@
     "type":"City",
     "county":"Colusa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.59,
-    "Cloud":1,
-    "Pressure":1018,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.65,
+    "Cloud":20,
+    "Pressure":1013,
+    "Wind":6.2
     }
   },
   {
@@ -8924,11 +8924,11 @@
     "type":"City",
     "county":"Mendocino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.2,
-    "Cloud":90,
-    "Pressure":1018,
-    "Wind(speed)":1.5
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":50,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":1.5
     }
   },
   {
@@ -8943,11 +8943,11 @@
     "type":"City",
     "county":"Glenn",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":8.3,
-    "Cloud":20,
-    "Pressure":1018,
-    "Wind(speed)":2.6
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.02,
+    "Cloud":1,
+    "Pressure":1014,
+    "Wind":4.1
     }
   },
   {
@@ -8962,11 +8962,11 @@
     "type":"Town",
     "county":"Sonoma",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.49,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":4.26
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59,
+    "Cloud":20,
+    "Pressure":1015,
+    "Wind":7.2
     }
   },
   {
@@ -8981,11 +8981,11 @@
     "type":"City",
     "county":"Yolo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.18,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.33,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -9000,11 +9000,11 @@
     "type":"City",
     "county":"Tulare",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":9.53,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":52.99,
     "Cloud":90,
-    "Pressure":1019,
-    "Wind(speed)":1.91
+    "Pressure":1016,
+    "Wind":3.1
     }
   },
   {
@@ -9019,11 +9019,11 @@
     "type":"City",
     "county":"Yolo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":57.16,
+    "Cloud":20,
+    "Pressure":1013,
+    "Wind":6.2
     }
   },
   {
@@ -9038,11 +9038,11 @@
     "type":"Town",
     "county":"San Mateo",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.64,
-    "Cloud":1,
-    "Pressure":1020,
-    "Wind(speed)":2.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.77,
+    "Cloud":20,
+    "Pressure":1016,
+    "Wind":5.1
     }
   },
   {
@@ -9057,11 +9057,11 @@
     "type":"City",
     "county":"Orange",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":13.54,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":62.92,
     "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":2.1
+    "Pressure":1013,
+    "Wind":4.1
     }
   },
   {
@@ -9076,11 +9076,11 @@
     "type":"Town",
     "county":"Napa",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":7.94,
-    "Cloud":1,
-    "Pressure":1019,
-    "Wind(speed)":1.01
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":58.89,
+    "Cloud":40,
+    "Pressure":1015,
+    "Wind":6.7
     }
   },
   {
@@ -9095,11 +9095,11 @@
     "type":"City",
     "county":"Siskiyou",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":3.33,
-    "Cloud":75,
-    "Pressure":1013,
-    "Wind(speed)":1.03
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":41.76,
+    "Cloud":90,
+    "Pressure":1011,
+    "Wind":4.6
     }
   },
   {
@@ -9114,11 +9114,11 @@
     "type":"City",
     "county":"Sutter",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":6.94,
-    "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":3.1
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":56.12,
+    "Cloud":20,
+    "Pressure":1013,
+    "Wind":6.2
     }
   },
   {
@@ -9133,11 +9133,11 @@
     "type":"City",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10.63,
-    "Cloud":1,
-    "Pressure":1016,
-    "Wind(speed)":0.71
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":59.79,
+    "Cloud":90,
+    "Pressure":1013,
+    "Wind":5.7
     }
   },
   {
@@ -9152,11 +9152,11 @@
     "type":"Town",
     "county":"San Bernardino",
     "state":"california",
-    "Date":"2018-12-01 06:06:27+00",
-    "Temperature":10,
+    "Date":"2018-12-01 21:59:45+00",
+    "Temperature":60.98,
     "Cloud":1,
-    "Pressure":1017,
-    "Wind(speed)":2.6
+    "Pressure":1013,
+    "Wind":5.1
     }
   }
 ]
