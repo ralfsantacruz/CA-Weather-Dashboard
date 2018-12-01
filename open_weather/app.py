@@ -18,13 +18,13 @@ def home():
     if request.method == 'GET':
         df = pd.read_sql_query(query, engine).set_index('index')
         map_html = generate_map(df)
-        plot_html = generate_plot("san francisco")
+        # plot_html = generate_plot("san francisco")
     else:
         # text = request.form['text']
         # plot_html = generate_plot(text)
         map_html = generate_map(pd.read_sql_query(query, engine))
 
-    return render_template("index.html",map_html=map_html,plot_html=plot_html)
+    return render_template("index.html",map_html=map_html)
 
 # @app.route('/form', methods=['POST'])
 # def my_form_post():
