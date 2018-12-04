@@ -97,6 +97,55 @@ def generate_map(df):
         )
     ]
 
+    #     data = [
+    # go.Scattermapbox(
+    #     lat=round(df['lat'],3),
+    #     lon=round(df['lng'],3),
+    #     mode='markers',
+    #     marker=dict(
+    #         size=df['aqi']/10,
+    #         color= df['aqi'],
+    #         colorscale = 'Jet',
+    #     ),
+    #     text= marker_text(df)
+    #     ),
+    # go.Scattermapbox(
+    #     lat=round(df['lat'],3),
+    #     lon=round(df['lng'],3),
+    #     mode='markers',
+    #     marker=dict(
+    #         size=df['uv_index'],
+    #         color= df['uv_index'],
+    #         colorscale = 'Jet',
+    #     )
+    #     # text= marker_text(df)
+    # )
+    # ]
+
+    # updatemenus = list([
+    # dict(active=-1,
+    #      buttons=list([   
+    #         dict(label = 'AQI',
+    #              method = 'update',
+    #              args = [{'visible': [True, False]},
+    #                      {'title': 'AQI'}]),
+    #         dict(label = 'UV',
+    #              method = 'update',
+    #              args = [{'visible': [False, True]},
+    #                      {'title': 'UV'}])
+    #     ]), 
+       
+    #     x = 0.0,
+    #     xanchor = 'left',
+    #     y = 1,
+    #     yanchor = 'bottom',
+    #     bgcolor = '#000000',
+    #     active = 99,
+    #     bordercolor = '#FFFFFF',
+    #     font = dict(size=11, color='#AAAAAA')
+    # ))]
+    
+
     layout = go.Layout(
         hovermode='closest',
         mapbox=dict(
