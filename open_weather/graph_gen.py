@@ -79,8 +79,10 @@ def pollution_epa(lat,lng):
     try:
         base_url = f"https://api.breezometer.com/air-quality/v2/current-conditions?lat={lat}&lon={lng}&key={b_api_key}&features=local_aqi"
         data = requests.get(base_url).json()
-    except:
+    except requests.exceptions.RequestException as e:
+        print(e)
         return None
+    
     return data
     
 # In[49]:
