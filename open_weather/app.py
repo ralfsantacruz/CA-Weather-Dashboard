@@ -16,13 +16,15 @@ app = Flask(__name__)
 def home():
     
     if request.method == 'GET':
-        df = pd.read_sql_query(query, engine).set_index('index')
+        # df = pd.read_sql_query(query, engine).set_index('index')
+        df = pd.read_csv('test_data2.csv')
         map_html = Markup(generate_scattermap(df))
         # plot_html = generate_plot("san francisco")
     else:
         # text = request.form['text']
         # plot_html = generate_plot(text)
-        map_html = generate_scattermap(pd.read_sql_query(query, engine))
+        df = pd.read_sql_query(query, engine)
+        map_html = generate_scattermap(df)
 
     return render_template("index.html",map_html=map_html)
 

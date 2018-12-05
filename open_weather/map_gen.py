@@ -27,20 +27,21 @@ def check_col(df,col):
     
     if col == 'rain':
         string = "{}<br>Value: {}mm"
-        size = df[col]*2
+        size = df[col]*3
         colorscale = 'Blues'
         reversescale=True
         
     elif col == 'wind_speed':
         string = "{}<br>Value: {}m/s"
+        size = df[col]*3
         
     elif col == 'temperature':
-        string = "{}<br>Value: {}\u00b0C"
-        size = df[col]/2
+        string = "{}<br>Value: {}\u00b0F"
+        size = df[col]/2.5
         
     elif col == 'cloud':
         string = "{}<br>Percentage: {}%"
-        size = df[col]/1.5
+        size = df[col]/2
         colorscale = 'Blues'
         
     elif col == 'pressure':
@@ -49,11 +50,11 @@ def check_col(df,col):
         colorscale='Viridis'
         
     elif col == 'aqi':
-        string = "{}<br>Value: {} mW/m\u00b2<br>{}<br>Dominant pollutant: {}"
+        string = "{}<br>Value: {}<br>{}<br>Dominant pollutant: {}"
         size = df[col]/10
         
     else:
-        string = "{}<br>Value: {}"
+        string = "{}<br>Value: {}mW/m\u00b2"
         size = df[col]*2
     
     return size,string,colorscale,reversescale
