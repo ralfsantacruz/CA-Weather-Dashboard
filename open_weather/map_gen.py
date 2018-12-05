@@ -24,7 +24,6 @@ def check_col(df,col):
     size = df[col]
     colorscale = 'Jet'
     reversescale=False
-    name = col.title()
     
     if col == 'rain':
         string = "{}<br>Value: {}mm"
@@ -34,7 +33,6 @@ def check_col(df,col):
         
     elif col == 'wind_speed':
         string = "{}<br>Value: {}m/s"
-        name = name.replace("_"," ")
         
     elif col == 'temperature':
         string = "{}<br>Value: {}\u00b0C"
@@ -48,7 +46,7 @@ def check_col(df,col):
     elif col == 'pressure':
         string = "{}<br>Value: {}hPa"
         size = df[col]/100
-        colorscale='YlGnBu'
+        colorscale='Viridis'
         
     elif col == 'aqi':
         string = "{}<br>Value: {} mW/m\u00b2<br>{}<br>Dominant pollutant: {}"
