@@ -1,14 +1,15 @@
-#California Weather Conflux
+# California Weather Conflux
+
 ![Monarch](Monarch_Butterfly.png)
 
-#Introduction:
+## Introduction:
    The following project will ”tell a story" through data visualizations.
 The project will focus on using the "Analytics Paradigm" to explore relationships in "report form”.This project will also focus on providing users an interactive means to explore data themselves.
 
-##Project Introduction:
+### Project Introduction:
 	Climate change is a problem of unprecedented scope and intractability. Recent extreme weather events such as fires in California compelled us to ask the question about current and forecast weather. We wanted to analyze weather trends so that it can help in making decisions on measures that will improve the current climate change extremities.
 
-#Technical Requirement: 
+## Technical Requirement: 
   1. Visualization must include a Python Flask powered RESTful API, HTML/CSS, JavaScript, and at least one database (MySQL, MongoDB, SQLite, etc.)
 
   2. Project should fall into one of the below four tracks:
@@ -25,7 +26,7 @@ The project will focus on using the "Analytics Paradigm" to explore relationship
 
   6. Final visualization should ideally include at least three views
   
-#Data Sources: 
+## Data Sources: 
   * Openweather data (Current and Forecast Weather Data):
       NOAA http://www.noaa.gov/
       Environment Canada http://www.weatheroffice.gc.ca
@@ -35,21 +36,21 @@ The project will focus on using the "Analytics Paradigm" to explore relationship
   * Air Pollution Data from Breezometer: 
       EPA and airnow 
 
-#ETL Processes: 
- ## Extract:
+## ETL Processes: 
+ ### Extract:
 	We obtained our datasets from open weather data and breezometer. We scraped the data from open weather data api and breezometer api.The weather data such as current and forecast wind, pressure, temperature, cloud and UV index were scrapped from the open weather api. The air pollution data was scraped from breezometer site. The california cities with the lat/long values were also obtained from wikipedia.
 
- ## Transform:
+ ### Transform:
 	Once we have scraped the data from all those data sources, we plot them against the map and to create the visualization. The geoJson objects were then added to map vector using map box tool. 
 
- ## Load:
+ ### Load:
 	We loaded the scraped data into cvs files and uploaded the data to MySql server.
 
-#Conclusion and Trends:
-  ###Noticeable UV Trends:
+## Conclusion and Trends:
+  ### Noticeable UV Trends:
 	UV exposure tends to be lower when Cloud cover or rain is present (go figure).
-  ###Cloud Cover Trends:
+  ### Cloud Cover Trends:
 	Noticeable AQI Trends: Central Valley often has poorer air quality than the rest of the state. This is due to the central valley being a  massive inversion zone.
-  ###Wind Trends:
+  ### Wind Trends:
 	The areas with persistently high winds are also home to California’s largest wind farms (again go figure). 
 
