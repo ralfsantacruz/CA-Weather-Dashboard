@@ -1,152 +1,195 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[13]:
+# In[1]:
 
-from graph_gen import pollution_epa
-
-from config import mapbox_api_key
 
 import plotly.plotly as py
 import plotly.graph_objs as go
 import plotly.offline
 
+from config import mapbox_api_key
+
 import pandas as pd
+import numpy as np
+
+# # Mapping functions:
+
+# In[36]:
+
+def check_col(df,col):
+    
+    '''Checks column and returns appropriate parameters for mapping.'''
+    
+    size = df[col]
+    colorscale = 'Jet'
+    reversescale=False
+    name = col.title()
+    
+    if col == 'rain':
+        string = "{}<br>Value: {}mm"
+        size = df[col]*2
+        colorscale = 'Blues'
+        reversescale=True
+        
+    elif col == 'wind_speed':
+        string = "{}<br>Value: {}m/s"
+        name = name.replace("_"," ")
+        
+    elif col == 'temperature':
+        string = "{}<br>Value: {}\u00b0C"
+        size = df[col]/2
+        
+    elif col == 'cloud':
+        string = "{}<br>Percentage: {}%"
+        size = df[col]/1.5
+        colorscale = 'Blues'
+        
+    elif col == 'pressure':
+        string = "{}<br>Value: {}hPa"
+        size = df[col]/100
+        colorscale='YlGnBu'
+        
+    elif col == 'aqi':
+        string = "{}<br>Value: {} mW/m\u00b2<br>{}<br>Dominant pollutant: {}"
+        size = df[col]/10
+        
+    else:
+        string = "{}<br>Value: {}"
+        size = df[col]*2
+    
+    return size,string,colorscale,reversescale
+
 
 # In[8]:
 
 
-def df_geodata(filename):    
-    """
-    Returns dataframe with pollution data from city list dataframe.
-    """
-    df = pd.read_csv(filename)
-    
-    aqi = []
-    category = []
-    dominant_pollutant = []
-    date = []
-
-
-    for lat,lng in zip(df['lat'],df['lng']):
-        data = pollution_epa(lat,lng)
-        
-        if data != None:
-            index = data['data']['indexes']['usa_epa']
-
-            air_quality = index['aqi']
-            categories = index['category']
-            dom_pollutant = index['dominant_pollutant']
-            datetime = data['data']['datetime']
-
-            aqi.append(air_quality)
-            category.append(categories)
-            dominant_pollutant.append(dom_pollutant)
-            date.append(datetime)
-            
-        else:
-            aqi.append("NaN")
-            category.append("NaN")
-            dominant_pollutant.append("NaN")
-            date.append("NaN")          
-
-    df['aqi'] = aqi
-    df['category'] = category
-    df['dominant_pollutant'] = dominant_pollutant
-    df['datetime'] = date
-    
-    return df.dropna()
-
-
-# In[9]:
-
-
-def marker_text(df):
+def marker_text(df,col,fstring):
     '''
-    Creates text for map markers.
+    Generates hover-over text for weather info.
     '''
     text = []
     for row in df.itertuples():
-        a = getattr(row, "cities")
-        b = getattr(row, "category")
-        c = getattr(row, "aqi")
-        d = getattr(row, "dominant_pollutant")
-        string = f"{a}<br>{b}<br>AQI: {c}<br>Dominant pollutant: {d}"
-        text.append(string)
+        if col == 'aqi':
+            a = getattr(row, "city")
+            b = getattr(row, col)
+            c = getattr(row, "category")
+            d = getattr(row, "dominant_pollutant")
+            marker_text = fstring.format(a,b,c,d)
+            text.append(marker_text)
+        else:
+            a = getattr(row, "city")
+            b = getattr(row, col)
+            marker_text = fstring.format(a,b)
+            text.append(marker_text)
     return text
 
 
-# In[15]:
+# In[34]:
 
 
-def generate_map(df):
+def make_traces(df,columns):
+
     '''
-    Generates HTML for map from pollution data.
+    Generates traces from weather data.
     '''
-    data = [
-    go.Scattermapbox(
-        lat=round(df['lat'],3),
-        lon=round(df['lng'],3),
-        mode='markers',
-        marker=dict(
-            size=df['aqi']/10,
-            color= df['aqi'],
-            colorscale = 'Jet',
-        ),
-        text= marker_text(df)
-        )
-    ]
-
-    #     data = [
-    # go.Scattermapbox(
-    #     lat=round(df['lat'],3),
-    #     lon=round(df['lng'],3),
-    #     mode='markers',
-    #     marker=dict(
-    #         size=df['aqi']/10,
-    #         color= df['aqi'],
-    #         colorscale = 'Jet',
-    #     ),
-    #     text= marker_text(df)
-    #     ),
-    # go.Scattermapbox(
-    #     lat=round(df['lat'],3),
-    #     lon=round(df['lng'],3),
-    #     mode='markers',
-    #     marker=dict(
-    #         size=df['uv_index'],
-    #         color= df['uv_index'],
-    #         colorscale = 'Jet',
-    #     )
-    #     # text= marker_text(df)
-    # )
-    # ]
-
-    # updatemenus = list([
-    # dict(active=-1,
-    #      buttons=list([   
-    #         dict(label = 'AQI',
-    #              method = 'update',
-    #              args = [{'visible': [True, False]},
-    #                      {'title': 'AQI'}]),
-    #         dict(label = 'UV',
-    #              method = 'update',
-    #              args = [{'visible': [False, True]},
-    #                      {'title': 'UV'}])
-    #     ]), 
-       
-    #     x = 0.0,
-    #     xanchor = 'left',
-    #     y = 1,
-    #     yanchor = 'bottom',
-    #     bgcolor = '#000000',
-    #     active = 99,
-    #     bordercolor = '#FFFFFF',
-    #     font = dict(size=11, color='#AAAAAA')
-    # ))]
+    data = []
     
+    for column in columns:
+        
+        # Return appropriate data and layout for each column.
+        size,string,colorscale,reversescale = check_col(df,column)
+        
+        # Display first trace instead of all data at once.
+        if column == columns[0]:
+            visible = True
+        else:
+            visible = 'legendonly'
+            
+        trace = go.Scattermapbox(
+            lat=round(df['lat'],3),
+            lon=round(df['lng'],3),
+            mode='markers',
+            marker=dict(
+                size=size,
+                color= size,
+                colorscale = colorscale,
+                reversescale=reversescale
+            ),
+            text= marker_text(df,column,string),
+            name=column,
+            visible=visible
+            )
+        data.append(trace)
+        
+    return data
+
+
+# In[10]:
+
+
+def make_conditions(col_list):
+    
+    ''' Returns an array with lists of conditions for dropdown menus.'''
+    
+    # Make array full of False values with dimensions of input list.
+    array = np.full(shape=(len(col_list),len(col_list)), fill_value=False, dtype=bool)
+    
+    for i in range(len(array)):
+        array[i][i] = True
+    
+    return array
+
+
+# In[11]:
+
+
+def menu_buttons(labels,conditions):
+    
+    '''Returns a list of buttons for dropdown menus in scattermap.'''
+    
+    buttons = []
+    
+    for label,condition in zip(labels,conditions):
+        dic = {'label':label,
+            'method':'update',
+            'args':[{'visible': condition}]}
+        
+        buttons.append(dic)
+        
+    return buttons
+
+# In[37]:
+
+
+def generate_scattermap(df):
+    
+    # lists for menu and for actual plotting.
+    menu_categories = ['UV Index', 'AQI', 'Temperature', 'Cloud', 'Pressure', 'Wind Speed', 'Rain']
+    plot_columns = ['uv_index', 'aqi','temperature', 'cloud','pressure', 'wind_speed', 'rain']
+
+    # Menu options for dropdown menu.
+    conditions = make_conditions(menu_categories)
+    buttons = menu_buttons(menu_categories,conditions)
+
+    data = make_traces(df,plot_columns)
+
+    updatemenus = list([
+        dict(
+             buttons=buttons,
+            x = 0.0,
+            xanchor = 'left',
+            y = 1,
+            yanchor = 'top',
+            pad = {'l': 3, 't': 3},
+            bgcolor = '#AAAAAA',
+            showactive = True,
+            bordercolor = '#FFFFFF',
+            font = dict(size=11, color='#000000')
+        )])
 
     layout = go.Layout(
+        autosize=True,
         hovermode='closest',
         mapbox=dict(
             accesstoken=mapbox_api_key,
@@ -157,19 +200,14 @@ def generate_map(df):
             ),
             style='dark',
             pitch=0,
-            zoom=5
+            zoom=4
         ),
-        margin=dict(
-            l= 0,
-            r= 0,
-            b= 0,
-            t= 0,
-            pad= 2
-            )
+        margin = dict( t=0, b=0, l=0, r=0 ),
+        updatemenus=updatemenus,
+        showlegend=False
     )
-
+    
     fig = dict(data=data, layout=layout)
-
     map_html = plotly.offline.plot(fig, include_plotlyjs=False, output_type='div')
     
     return map_html
