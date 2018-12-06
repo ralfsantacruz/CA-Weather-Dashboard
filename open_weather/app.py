@@ -6,13 +6,15 @@ from datetime import datetime
 from pytz import timezone
 import pytz
 
+from timefunc import pst_to_12hr
+
 from sqlalchemy import create_engine
 
 import pandas as pd
 
 # Create connection to SQL
 engine = create_engine("mysql://root:password@localhost/weather_data")
-query='''select * from california_weather where day(date) = 5 and hour(date) between 00 and 01'''
+
 
 app = Flask(__name__)
 
@@ -20,28 +22,24 @@ app = Flask(__name__)
 def home():
 
     if request.method == 'GET':
+        query = '''select * from california_weather where date_scraped = "2018-11-30 22:06:00"'''
         df = pd.read_sql_query(query, engine)
-        # df = pd.read_csv('test_data2.csv')
-        pst_time = utc_to_pst(df['date'][0])
+        date_shown = pst_to_12hr(df['date_scraped'][0])
         map_html = Markup(generate_scattermap(df))
-        # plot_html = generate_plot("san francisco")
     else:
         # Get form data as SQL query
-        text = request.form['text']
-        # Plug into pandas to return data for query.
-        df = pd.read_sql_query(text, engine)
+        date = request.form['text']
 
-        pst_time = utc_to_pst(df['date'][0])
+        query=f'''select * from california_weather where date_scraped = "{date}"'''
+
+        # Plug into pandas to return data for query.
+        df = pd.read_sql_query(query, engine)
+        date_shown = pst_to_12hr(df['date_scraped'][0])
         map_html = Markup(generate_scattermap(df))
         # plot_html = generate_plot(text)
 
-    return render_template("index.html",map_html=map_html,date_shown=pst_time)
+    return render_template("index.html",map_html=map_html,date_shown=date_shown)
 
-# @app.route('/form', methods=['POST'])
-# def my_form_post():
-    
-#     processed_text = text.upper()
-#     return processed_text
 
 if __name__ == "__main__":
     app.run(debug=True,threaded=True)
