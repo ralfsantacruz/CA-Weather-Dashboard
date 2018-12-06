@@ -15,6 +15,7 @@ import pandas as pd
 import pyowm
 import time
 
+from timefunc import utc_to_pst_24
 
 # In[2]:
 
@@ -131,9 +132,10 @@ def update_df(df):
     df['aqi'] = aqi
     df['category'] = category
     df['dominant_pollutant'] = dominant_pollutant
+    # make column for date scraped, but time is converted to PST.
+    df['date_scraped'] = [utc_to_pst_24(df['date'][0]) for i in range(len(df['date']))]
     
     return df.dropna()
-
 
 # In[5]:
 
@@ -173,6 +175,10 @@ def push_to_sql(df,table_name):
             
     print(f"{len(data)} rows inserted into {table_name}.")    
 
+def menu_items():
+    query = '''select distinct date_scraped as ds from california_weather order by date_scraped desc'''
+    dates = pd.read_sql_query(query,engine)
+    return list(dates['ds'])
 
 # In[7]:
 
