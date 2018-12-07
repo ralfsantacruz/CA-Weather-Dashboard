@@ -45,16 +45,19 @@ The project will focus on using the "Analytics Paradigm" to explore relationship
 
  ![Final_Screenshot_index](Final_Screenshot_index.png)
 
- We used the mapbox for map rendering, d3 for data dangling and visualization and CSS for styling.
+ ![ETL_screenshot](ETL_screenshot.png)
+ Visualize: Plotly scattermap generated from all weather data points.
+ Visual is returned as HTML and passed into an HTML template via Flask.
+ We defined a function called generate_scattermap that takes in a SQL query read into a dataframe for latest data.
 
  ### Load:
   We loaded the scraped data into cvs files and uploaded the data to MySql server.
 
 ## Conclusion and Trends:
   ### Noticeable UV Trends:
-	UV exposure tends to be lower when Cloud cover or rain is present (go figure).
+       UV exposure tends to be lower when Cloud cover or rain is present (go figure).
   ### Cloud Cover Trends:
-	Noticeable AQI Trends: Central Valley often has poorer air quality than the rest of the state. This is due to the central valley being a  massive inversion zone.
+      Noticeable AQI Trends: Central Valley often has poorer air quality than the rest of the state. This is due to the central valley being a  massive inversion zone.
   ### Wind Trends:
-	The areas with persistently high winds are also home to California’s largest wind farms (again go figure). 
+      The areas with persistently high winds are also home to California’s largest wind farms (again go figure). 
 
