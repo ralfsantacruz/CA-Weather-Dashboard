@@ -26,8 +26,6 @@ engine = create_engine("mysql://root:password@localhost/weather_data")
 
 # ### Consolidating scraping functions to update weather values:
 
-# Code from all group members was fused into this function.
-
 # In[3]:
 
 
@@ -87,7 +85,7 @@ def get_weather_data(df):
             else:
                 rain.extend([v for v in precip.values()])
         
-        ## Make API calls to Breezometer for air quality data:
+        ## Make API calls to Breezometer for air quality data: ##
         data = pollution_epa(lat,lng)
         
         try:
@@ -101,13 +99,13 @@ def get_weather_data(df):
             category.append(categories)
             dominant_pollutant.append(dom_pollutant)
             
-        except TypeError:
+        except:
             print(f"Error adding data for {city}. Appending NaN for all Breezometer categories.")
             aqi.append("NaN")
             category.append("NaN")
             dominant_pollutant.append("NaN")
         
-        # sleep for 1.1 second. Limited to 60 API calls/min
+        # Sleep for 1.1 second. Limited to 60 API calls/min
         time.sleep(1.1)    
         
     return temperature,clouds,pressure,rain,date,wind,uv_index,aqi,category,dominant_pollutant
@@ -176,7 +174,15 @@ def push_to_sql(df,table_name):
     print(f"{len(data)} rows inserted into {table_name}.")    
 
 def menu_items():
-    query = '''select distinct date_scraped as ds from california_weather order by date_scraped desc'''
+
+    '''Returns list of unique dates to populate dropdown menu on app'''
+
+    query = '''
+    select distinct date_scraped as ds 
+    from california_weather
+    order by date_scraped desc
+    '''
+
     dates = pd.read_sql_query(query,engine)
     return list(dates['ds'])
 
@@ -187,8 +193,10 @@ def main():
     select * from california_cities
     '''
     df = pd.read_sql_query(query, engine)
-    df.head()
+
     recent_data = update_df(df)
+    #Save a backup in case anything went wrong.
+    recent_data.to_csv('weather_update.csv', index=False)
     push_to_sql(recent_data,'california_weather')
 
 if __name__ == "__main__":

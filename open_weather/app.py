@@ -19,9 +19,13 @@ menu_items = menu_items()
 
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("/", methods=['GET', 'POST'])
 def intro():
-    return render_template("index.html")
+    if request.method == "POST":
+        return render_template("weather.html")
+    else:
+        return render_template("index.html")
+    
 
 @app.route("/home",methods=['GET', 'POST'])
 def default_weather():
@@ -36,7 +40,7 @@ def default_weather():
     # Use returned dataframe to create scatter map
     map_html = Markup(generate_scattermap(df))
 
-    return render_template("weather.html",map_html=map_html,date_shown=date_shown,menu_items=menu_items)
+    return render_template("weather.html",map_html=map_html,date_shown=date_shown,menu_items=menu_items,pst=pst_to_12hr)
 
 
 @app.route('/<date>')
@@ -50,7 +54,7 @@ def updated_weather(date):
     map_html = Markup(generate_scattermap(df))
 
 
-    return render_template("weather.html",map_html=map_html,date_shown=date_shown,menu_items=menu_items)
+    return render_template("weather.html",map_html=map_html,date_shown=date_shown,menu_items=menu_items,pst=pst_to_12hr)
 
     
 if __name__ == "__main__":
