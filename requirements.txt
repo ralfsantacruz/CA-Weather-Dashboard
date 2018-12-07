@@ -111,7 +111,6 @@ pyshp==1.2.12
 PySocks==1.6.8
 python-dateutil==2.7.3
 pytz==2018.5
-pywin32==223
 pywinpty==0.5.4
 pyzmq==17.1.2
 qtconsole==4.4.1
