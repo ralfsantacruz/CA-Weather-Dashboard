@@ -1,7 +1,7 @@
 # California Weather Conflux
 
 
-=======
+
 ![Monarch](/appendix/images_and_extras/Monarch_Butterfly.png)
 
 ## Introduction:
