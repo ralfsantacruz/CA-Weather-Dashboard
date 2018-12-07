@@ -28,48 +28,6 @@ def utc_to_pst(date):
     
     return parsed_pst
 
-# def check_col(df,col):
-    
-#     '''Checks column and returns appropriate parameters for mapping.'''
-    
-#     size = df[col]
-#     colorscale = 'Jet'
-#     reversescale=False
-    
-#     if col == 'rain':
-#         string = "{}<br>Value: {}mm"
-#         size = df[col]*3
-#         colorscale = 'Blues'
-#         reversescale=True
-        
-#     elif col == 'wind_speed':
-#         string = "{}<br>Value: {}m/s"
-#         size = df[col]*3
-        
-#     elif col == 'temperature':
-#         string = "{}<br>Value: {}\u00b0F"
-#         size = df[col]/2.5
-        
-#     elif col == 'cloud':
-#         string = "{}<br>Percentage: {}%"
-#         size = df[col]/2
-#         colorscale = 'Blues'
-        
-#     elif col == 'pressure':
-#         string = "{}<br>Value: {}hPa"
-#         size = df[col]/100
-#         colorscale='Viridis'
-        
-#     elif col == 'aqi':
-#         string = "{}<br>Value: {}<br>{}<br>Dominant pollutant: {}"
-#         size = df[col]/10
-        
-#     else:
-#         string = "{}<br>Value: {}mW/m\u00b2"
-#         size = df[col]*2
-    
-#     return size,string,colorscale,reversescale
-
 def check_col(df,col):
     
     '''Checks column and returns appropriate parameters for mapping.'''
@@ -80,7 +38,7 @@ def check_col(df,col):
     
     if col == 'rain':
         string = "{}<br>Value: {}mm<br>Date: {}"
-        size = df[col]*2
+        size = df[col]*3
         colorscale = 'Blues'
         reversescale=True
         
@@ -114,27 +72,6 @@ def check_col(df,col):
 
 
 # In[8]:
-
-
-# def marker_text(df,col,fstring):
-#     '''
-#     Generates hover-over text for weather info.
-#     '''
-#     text = []
-#     for row in df.itertuples():
-#         if col == 'aqi':
-#             a = getattr(row, "city")
-#             b = getattr(row, col)
-#             c = getattr(row, "category")
-#             d = getattr(row, "dominant_pollutant")
-#             marker_text = fstring.format(a,b,c,d)
-#             text.append(marker_text)
-#         else:
-#             a = getattr(row, "city")
-#             b = getattr(row, col)
-#             marker_text = fstring.format(a,b)
-#             text.append(marker_text)
-#     return text
 
 def marker_text(df,col,fstring):
     '''

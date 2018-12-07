@@ -183,7 +183,6 @@ def menu_items():
 # In[7]:
 
 def main():
-    # Query our cities table.
     query = '''
     select * from california_cities
     '''

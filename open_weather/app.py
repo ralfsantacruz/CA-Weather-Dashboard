@@ -55,21 +55,3 @@ def updated_weather(date):
     
 if __name__ == "__main__":
     app.run(debug=True,threaded=True)
-
-
-    #     if request.method == 'GET':
-    #     query = '''select * from california_weather where date_scraped = "2018-11-30 22:06:00"'''
-    #     df = pd.read_sql_query(query, engine)
-    #     date_shown = pst_to_12hr(df['date_scraped'][0])
-    #     map_html = Markup(generate_scattermap(df))
-    # else:
-    #     # Get form data as SQL query
-    #     date = request.form['dates']
-    #     print(date)
-    #     query=f'''select * from california_weather where date_scraped = "{date}"'''
-
-    #     # Plug into pandas to return data for query.
-    #     df = pd.read_sql_query(query, engine)
-    #     date_shown = pst_to_12hr(df['date_scraped'][0])
-    #     map_html = Markup(generate_scattermap(df))
-    #     # plot_html = generate_plot(text)
