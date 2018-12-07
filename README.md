@@ -27,14 +27,14 @@ The project will focus on using the "Analytics Paradigm" to explore relationship
   6. Final visualization should ideally include at least three views
   
 ## Data Sources: 
-  * Openweather data (Current and Forecast Weather Data):
-      NOAA http://www.noaa.gov/
-      Environment Canada http://www.weatheroffice.gc.ca
-      European Centre for Medium-Range Weather Forecasts (ECMWF) http://www.ecmwf.int/
-      METAR data from airports http://en.wikipedia.org/wiki/METAR
-      APRS network http://www.aprs-is.net/
-  * Air Pollution Data from Breezometer: 
-      EPA and airnow 
+  * Openweather data (Current and Forecast Weather Data): <br />
+      NOAA http://www.noaa.gov/ <br />
+      Environment Canada http://www.weatheroffice.gc.ca <br />
+      European Centre for Medium-Range Weather Forecasts (ECMWF) http://www.ecmwf.int/ <br />
+      METAR data from airports http://en.wikipedia.org/wiki/METAR  <br />
+      APRS network http://www.aprs-is.net/ <br />
+  * Air Pollution Data from Breezometer: <br />
+      EPA and airnow <br />
 
 ## ETL Processes: 
  ### Extract:
@@ -42,6 +42,10 @@ The project will focus on using the "Analytics Paradigm" to explore relationship
 
  ### Transform:
    Once we have scraped the data from all those data sources, we plot them against the map and to create the visualization. The geoJson objects were then added to map vector using map box tool. 
+
+ ![Final_Screenshot_index](Final_Screenshot_index.png)
+
+ We used the mapbox for map rendering, d3 for data dangling and visualization and CSS for styling.
 
  ### Load:
   We loaded the scraped data into cvs files and uploaded the data to MySql server.
