@@ -38,7 +38,7 @@ def check_col(df,col):
     
     if col == 'rain':
         string = "{}<br>Value: {}mm<br>Date: {}"
-        size = df[col]*3
+        size = df[col]*4
         colorscale = 'Blues'
         reversescale=True
         
@@ -211,7 +211,7 @@ def generate_scattermap(df):
             ),
             style='dark',
             pitch=0,
-            zoom=4
+            zoom=5
         ),
         margin = dict( t=0, b=0, l=0, r=0 ),
         updatemenus=updatemenus,

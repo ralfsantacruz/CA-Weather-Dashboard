@@ -181,7 +181,7 @@ basicTimeline
     delay: 500,
     duration: 750,
     borderRadius: 80,
-    backgroundColor: "#71DFBE"
+    backgroundColor: "#5694e6"
   })
   .add({
     targets: pathEl,
@@ -197,3 +197,5 @@ $(".button").click(function() {
 $(".text").click(function() {
   basicTimeline.play();
 });
+
+init(); 

@@ -1,0 +1,476 @@
+city,type,county,state,lat,lng,temperature,cloud,pressure,rain,date,wind_speed,uv_index,aqi,category,dominant_pollutant,date_scraped
+Adelanto,City,San Bernardino,california,34.5828,-117.409,46.13,75,1021,0,2018-12-07 16:58:00,1.96,2.49,22,Good air quality,pm25,2018-12-07 08:58:00
+Agoura Hills,City,Los Angeles,california,34.1533,-118.762,56.89,20,1019,0,2018-12-07 16:57:00,6.2,2.55,27,Good air quality,pm25,2018-12-07 08:58:00
+Alameda,City,Alameda,california,37.7652,-122.242,46.81,75,1021,0,2018-12-07 17:00:00,2.6,1.84,56,Moderate air quality,pm10,2018-12-07 08:58:00
+Albany,City,Alameda,california,37.8869,-122.298,46.6,75,1021,0,2018-12-07 17:00:00,2.6,1.83,75,Moderate air quality,pm25,2018-12-07 08:58:00
+Alhambra,City,Los Angeles,california,34.0953,-118.127,56.41,1,1018,0,2018-12-07 16:58:00,1.5,2.53,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Aliso Viejo,City,Orange,california,33.5685,-117.726,55.49,40,1018,0.25,2018-12-07 16:58:00,1.81,2.61,34,Good air quality,pm25,2018-12-07 08:58:00
+Alturas,City,Modoc,california,41.4871,-120.542,19.94,1,1021,0,2018-12-07 15:55:00,2.6,1.48,68,Moderate air quality,pm25,2018-12-07 08:58:00
+Amador City,City,Amador,california,38.4194,-120.824,45.12,1,1022,0,2018-12-07 17:02:00,1.11,1.77,54,Moderate air quality,pm25,2018-12-07 08:58:00
+American Canyon,City,Napa,california,38.1749,-122.261,44.67,1,1022,0,2018-12-07 16:55:00,1.51,1.79,41,Good air quality,pm10,2018-12-07 08:58:00
+Anaheim,City,Orange,california,33.8366,-117.914,56.93,1,1018,0,2018-12-07 16:58:00,3.6,2.54,52,Moderate air quality,no2,2018-12-07 08:58:00
+Anderson,City,Shasta,california,40.4482,-122.298,37.81,1,1022,0,2018-12-07 16:55:00,1.5,1.48,89,Moderate air quality,pm25,2018-12-07 08:58:00
+Angels Camp,City,Calaveras,california,38.0678,-120.539,45.07,1,1022,0,2018-12-07 17:02:00,1.91,1.83,70,Moderate air quality,pm25,2018-12-07 08:58:00
+Antioch,City,Contra Costa,california,38.0049,-121.806,45.18,1,1022,0,2018-12-07 17:02:00,1.76,1.77,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Apple Valley,Town,San Bernardino,california,34.5008,-117.186,51.3,90,1022,0,2018-12-07 16:58:00,1.5,2.49,23,Good air quality,pm25,2018-12-07 08:58:00
+Arcadia,City,Los Angeles,california,34.1397,-118.035,54.72,1,1018,0,2018-12-07 16:58:00,3.1,2.53,42,Good air quality,pm25,2018-12-07 08:58:00
+Arcata,City,Humboldt,california,40.8665,-124.083,41.0,1,1021,0,2018-12-07 16:55:00,4.1,1.41,31,Good air quality,pm10,2018-12-07 08:58:00
+Arroyo Grande,City,San Luis Obispo,california,35.1186,-120.591,49.44,1,1020,0,2018-12-07 16:56:00,1.76,2.39,43,Good air quality,pm25,2018-12-07 08:58:00
+Artesia,City,Los Angeles,california,33.8658,-118.083,57.06,1,1018,0,2018-12-07 16:58:00,3.6,2.55,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Arvin,City,Kern,california,35.2018,-118.833,45.9,90,1021,0,2018-12-07 16:54:00,2.1,2.39,49,Good air quality,pm25,2018-12-07 08:58:00
+Atascadero,City,San Luis Obispo,california,35.4894,-120.671,50.09,1,1021,0,2018-12-07 16:56:00,2.1,2.37,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Atherton,Town,San Mateo,california,37.4613,-122.198,47.48,1,1021,0,2018-12-07 16:56:00,1.86,1.94,70,Moderate air quality,pm25,2018-12-07 08:58:00
+Atwater,City,Merced,california,37.3477,-120.609,47.53,90,1022,0,2018-12-07 16:53:00,2.01,1.93,71,Moderate air quality,pm25,2018-12-07 08:58:00
+Auburn,City,Placer,california,38.8966,-121.077,44.58,1,1022,0,2018-12-07 16:55:00,1.66,1.71,42,Good air quality,pm25,2018-12-07 08:58:00
+Avalon,City,Los Angeles,california,33.3428,-118.328,57.72,1,1018,0,2018-12-07 16:58:00,4.1,2.64,28,Good air quality,pm25,2018-12-07 08:58:00
+Avenal,City,Kings,california,36.0041,-120.129,48.29,90,1022,0,2018-12-07 17:09:00,1.31,2.19,42,Good air quality,pm25,2018-12-07 08:58:00
+Azusa,City,Los Angeles,california,34.1336,-117.908,56.35,1,1018,0,2018-12-07 16:58:00,3.1,2.54,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Bakersfield,City,Kern,california,35.3733,-119.019,46.17,90,1021,0,2018-12-07 16:55:00,2.1,2.33,74,Moderate air quality,pm25,2018-12-07 08:58:00
+Baldwin Park,City,Los Angeles,california,34.0853,-117.961,56.35,1,1018,0,2018-12-07 16:58:00,3.1,2.54,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Banning,City,Riverside,california,33.9256,-116.876,56.12,1,1019,0.25,2018-12-07 16:58:00,5.1,2.6,42,Good air quality,pm25,2018-12-07 08:58:00
+Barstow,City,San Bernardino,california,34.8958,-117.017,47.7,90,1022,0,2018-12-07 16:55:00,1.5,2.41,23,Good air quality,pm25,2018-12-07 08:58:00
+Beaumont,City,Riverside,california,33.9295,-116.977,55.9,1,1019,0.25,2018-12-07 16:58:00,5.1,2.6,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Bell,City,Los Angeles,california,33.9775,-118.187,57.06,1,1018,0,2018-12-07 16:58:00,3.1,2.55,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Bell Gardens,City,Los Angeles,california,33.9653,-118.151,57.06,1,1018,0,2018-12-07 16:58:00,3.6,2.55,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Bellflower,City,Los Angeles,california,33.8817,-118.117,57.06,1,1018,0,2018-12-07 16:58:00,3.6,2.55,40,Good air quality,pm25,2018-12-07 08:58:00
+Belmont,City,San Mateo,california,37.5202,-122.276,47.98,75,1021,0,2018-12-07 16:56:00,1.5,1.88,71,Moderate air quality,pm25,2018-12-07 08:58:00
+Belvedere,City,Marin,california,37.8727,-122.464,46.74,75,1021,0,2018-12-07 17:00:00,1.5,1.83,54,Moderate air quality,pm10,2018-12-07 08:58:00
+Benicia,City,Solano,california,38.0494,-122.159,45.37,1,1022,0,2018-12-07 16:55:00,1.86,1.79,48,Good air quality,pm10,2018-12-07 08:58:00
+Berkeley,City,Alameda,california,37.8716,-122.273,46.13,75,1021,0,2018-12-07 17:00:00,2.6,1.83,72,Moderate air quality,pm25,2018-12-07 08:58:00
+Beverly Hills,City,Los Angeles,california,34.0736,-118.4,56.73,1,1018,0,2018-12-07 16:58:00,1.5,2.53,43,Good air quality,pm25,2018-12-07 08:58:00
+Big Bear Lake,City,San Bernardino,california,34.2439,-116.911,50.36,1,1019,0,2018-12-07 16:58:00,5.1,2.7,39,Good air quality,pm25,2018-12-07 08:58:00
+Biggs,City,Butte,california,39.4124,-121.713,43.03,1,1022,0,2018-12-07 16:55:00,1.5,1.62,48,Good air quality,pm25,2018-12-07 08:58:00
+Bishop,City,Inyo,california,37.3614,-118.4,27.32,90,1022,0,2018-12-07 16:55:00,2.6,2.12,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Blue Lake,City,Humboldt,california,40.8829,-123.984,41.0,1,1021,0,2018-12-07 16:55:00,4.1,1.42,28,Good air quality,pm25,2018-12-07 08:58:00
+Blythe,City,Riverside,california,33.6178,-114.588,53.79,88,1007.31,1.6725,2018-12-07 17:17:37,2.66,2.44,33,Good air quality,pm25,2018-12-07 08:58:00
+Bradbury,City,Los Angeles,california,34.1469,-117.971,54.72,1,1018,0,2018-12-07 16:58:00,3.1,2.54,27,Good air quality,pm25,2018-12-07 08:58:00
+Brawley,City,Imperial,california,32.9787,-115.53,55.33,75,1020,0,2018-12-07 16:56:00,2.6,2.64,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Brea,City,Orange,california,33.9165,-117.9,57.18,1,1018,0,2018-12-07 16:58:00,3.1,2.54,47,Good air quality,pm25,2018-12-07 08:58:00
+Brentwood,City,Contra Costa,california,37.9319,-121.696,46.76,1,1022,0,2018-12-07 17:02:00,1.76,1.82,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Brisbane,City,San Mateo,california,37.6808,-122.4,47.01,75,1021,0,2018-12-07 17:00:00,1.5,1.88,54,Moderate air quality,pm10,2018-12-07 08:58:00
+Buellton,City,Santa Barbara,california,34.6136,-120.193,51.71,75,1019,0,2018-12-07 16:55:00,1.51,2.49,49,Good air quality,pm25,2018-12-07 08:58:00
+Buena Park,City,Orange,california,33.8674,-117.998,56.95,1,1018,0,2018-12-07 16:58:00,3.1,2.54,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Burlingame,City,San Mateo,california,37.5779,-122.348,48.24,75,1021,0,2018-12-07 17:00:00,1.5,1.88,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Calabasas,City,Los Angeles,california,34.1367,-118.661,57.7,1,1018,0,2018-12-07 16:58:00,1.5,2.54,21,Good air quality,o3,2018-12-07 08:58:00
+Calexico,City,Imperial,california,32.6789,-115.499,55.33,75,1020,0,2018-12-07 16:56:00,2.6,2.68,66,Moderate air quality,pm25,2018-12-07 08:58:00
+California City,City,Kern,california,35.1258,-117.986,44.78,75,1021,0,2018-12-07 16:58:00,1.21,2.41,24,Good air quality,o3,2018-12-07 08:58:00
+Calimesa,City,Riverside,california,34.0039,-117.062,53.24,1,1019,0.25,2018-12-07 16:58:00,5.1,2.57,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Calipatria,City,Imperial,california,33.1256,-115.514,55.31,75,1020,0,2018-12-07 16:56:00,2.6,2.57,62,Moderate air quality,pm25,2018-12-07 08:58:00
+Calistoga,City,Napa,california,38.5788,-122.58,42.87,1,1022,0,2018-12-07 16:58:00,1.51,1.73,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Camarillo,City,Ventura,california,34.2164,-119.038,57.07,20,1019,0,2018-12-07 16:57:00,6.2,2.52,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Campbell,City,Santa Clara,california,37.2872,-121.95,48.11,75,1021,0,2018-12-07 17:00:00,2.1,1.92,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Canyon Lake,City,Riverside,california,33.685,-117.273,58.17,1,1019,0.25,2018-12-07 16:58:00,5.1,2.61,13,Good air quality,o3,2018-12-07 08:58:00
+Capitola,City,Santa Cruz,california,36.9752,-121.953,47.05,1,1022,0,2018-12-07 16:56:00,1.51,2.01,66,Moderate air quality,pm25,2018-12-07 08:58:00
+Carlsbad,City,San Diego,california,33.1581,-117.351,59.61,75,1018,0.25,2018-12-07 16:56:00,1.5,2.65,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Carmel-by-the-Sea,City,Monterey,california,36.5552,-121.923,47.44,1,1021,0,2018-12-07 16:55:00,2.1,2.07,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Carpinteria,City,Santa Barbara,california,34.3989,-119.518,55.42,1,1019,0,2018-12-07 16:57:00,1.91,2.52,33,Good air quality,no2,2018-12-07 08:58:00
+Carson,City,Los Angeles,california,33.8317,-118.282,57.06,1,1018,0,2018-12-07 16:58:00,3.1,2.56,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Cathedral City,City,Riverside,california,33.7805,-116.467,52.03,90,1023,0.25,2018-12-07 16:56:00,2.6,2.51,41,Good air quality,pm25,2018-12-07 08:58:00
+Ceres,City,Stanislaus,california,37.5949,-120.958,46.0,90,1022,0,2018-12-07 17:02:00,1.96,1.87,75,Moderate air quality,pm25,2018-12-07 08:58:00
+Cerritos,City,Los Angeles,california,33.8583,-118.065,57.06,1,1018,0,2018-12-07 16:58:00,3.6,2.55,50,Good air quality,pm25,2018-12-07 08:58:00
+Chico,City,Butte,california,39.7285,-121.837,42.51,1,1022,0,2018-12-07 16:54:00,1.5,1.58,66,Moderate air quality,pm25,2018-12-07 08:58:00
+Chino,City,San Bernardino,california,34.0122,-117.689,57.18,1,1018,0,2018-12-07 16:58:00,3.1,2.56,49,Good air quality,pm25,2018-12-07 08:58:00
+Chino Hills,City,San Bernardino,california,33.9898,-117.733,57.18,1,1018,0,2018-12-07 16:58:00,3.1,2.56,22,Good air quality,pm25,2018-12-07 08:58:00
+Chowchilla,City,Madera,california,37.123,-120.26,48.87,90,1022,0,2018-12-07 17:00:00,1.86,1.98,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Chula Vista,City,San Diego,california,32.6401,-117.084,60.6,75,1018,0,2018-12-07 16:56:00,1.5,2.74,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Citrus Heights,City,Sacramento,california,38.7071,-121.281,44.62,75,1022,0,2018-12-07 16:55:00,2.1,1.71,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Claremont,City,Los Angeles,california,34.0967,-117.72,56.35,1,1018,0,2018-12-07 16:58:00,3.1,2.56,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Clayton,City,Contra Costa,california,37.941,-121.936,46.63,1,1022,0,2018-12-07 17:02:00,1.76,1.84,37,Good air quality,pm10,2018-12-07 08:58:00
+Clearlake,City,Lake,california,38.9582,-122.626,39.02,90,1023,0,2018-12-07 17:13:00,1.71,1.71,48,Good air quality,pm25,2018-12-07 08:58:00
+Cloverdale,City,Sonoma,california,38.8055,-123.017,39.02,90,1023,0,2018-12-07 17:13:00,1.26,1.69,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Clovis,City,Fresno,california,36.8252,-119.703,49.57,90,1022,0,2018-12-07 17:09:00,1.96,2.06,62,Moderate air quality,pm25,2018-12-07 08:58:00
+Coachella,City,Riverside,california,33.6803,-116.174,50.41,90,1023,0,2018-12-07 16:56:00,2.6,2.5,30,Good air quality,pm25,2018-12-07 08:58:00
+Coalinga,City,Fresno,california,36.1397,-120.36,48.31,90,1022,0,2018-12-07 17:09:00,2.1,2.21,41,Good air quality,pm25,2018-12-07 08:58:00
+Colfax,City,Placer,california,39.1007,-120.953,44.47,1,1021,0,2018-12-07 16:55:00,1.66,1.73,43,Good air quality,pm25,2018-12-07 08:58:00
+Colma,Town,San Mateo,california,37.6769,-122.46,47.23,75,1021,0,2018-12-07 17:00:00,1.5,1.88,60,Moderate air quality,pm10,2018-12-07 08:58:00
+Colton,City,San Bernardino,california,34.0739,-117.314,55.78,1,1019,0.25,2018-12-07 16:58:00,5.1,2.53,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Colusa,City,Colusa,california,39.2143,-122.009,42.35,1,1022,0,2018-12-07 16:53:00,2.71,1.63,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Commerce,City,Los Angeles,california,34.0006,-118.16,57.69,1,1018,0,2018-12-07 16:58:00,3.6,2.53,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Compton,City,Los Angeles,california,33.8958,-118.22,57.06,1,1018,0,2018-12-07 16:58:00,3.1,2.55,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Concord,City,Contra Costa,california,37.978,-122.031,46.9,1,1022,0,2018-12-07 17:00:00,1.76,1.84,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Corcoran,City,Kings,california,36.098,-119.56,48.42,90,1022,0.25,2018-12-07 17:09:00,1.21,2.19,76,Moderate air quality,pm25,2018-12-07 08:58:00
+Corning,City,Tehama,california,39.9277,-122.179,41.65,1,1022,0,2018-12-07 16:54:00,3.6,1.54,44,Good air quality,pm25,2018-12-07 08:58:00
+Corona,City,Riverside,california,33.8753,-117.566,57.65,1,1019,0.25,2018-12-07 16:58:00,5.1,2.56,42,Good air quality,pm25,2018-12-07 08:58:00
+Coronado,City,San Diego,california,32.6859,-117.183,60.37,40,1018,0,2018-12-07 16:56:00,1.41,2.74,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Corte Madera,Town,Marin,california,37.9255,-122.527,46.81,1,1022,0,2018-12-07 17:00:00,1.86,1.83,55,Moderate air quality,pm10,2018-12-07 08:58:00
+Costa Mesa,City,Orange,california,33.6412,-117.919,57.11,20,1018,0,2018-12-07 16:58:00,1.5,2.57,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Cotati,City,Sonoma,california,38.3293,-122.71,43.29,1,1022,0,2018-12-07 16:58:00,2.41,1.76,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Covina,City,Los Angeles,california,34.09,-117.89,56.35,1,1018,0,2018-12-07 16:58:00,3.1,2.54,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Crescent City,City,Del Norte,california,41.7557,-124.203,44.47,90,1020,0,2018-12-07 16:56:00,2.6,1.27,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Cudahy,City,Los Angeles,california,33.9606,-118.185,57.36,1,1018,0,2018-12-07 16:58:00,3.1,2.55,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Culver City,City,Los Angeles,california,34.0211,-118.396,57.4,1,1018,0,2018-12-07 16:58:00,3.1,2.53,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Cupertino,City,Santa Clara,california,37.323,-122.032,48.24,1,1021,0,2018-12-07 17:00:00,1.51,1.94,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Cypress,City,Orange,california,33.8169,-118.037,57.36,1,1018,0,2018-12-07 16:58:00,3.6,2.55,39,Good air quality,no2,2018-12-07 08:58:00
+Daly City,City,San Mateo,california,37.6879,-122.47,47.23,75,1021,0,2018-12-07 17:00:00,1.5,1.88,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Dana Point,City,Orange,california,33.4672,-117.698,57.45,20,1018,0.25,2018-12-07 16:58:00,1.5,2.6,50,Good air quality,pm25,2018-12-07 08:58:00
+Danville,Town,Contra Costa,california,37.8216,-122.0,46.98,1,1021,0,2018-12-07 17:02:00,1.5,1.84,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Davis,City,Yolo,california,38.5449,-121.741,43.47,1,1022,0,2018-12-07 16:58:00,1.5,1.71,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Del Mar,City,San Diego,california,32.9595,-117.265,59.65,40,1018,0.25,2018-12-07 16:56:00,1.86,2.73,35,Good air quality,pm25,2018-12-07 08:58:00
+Del Rey Oaks,City,Monterey,california,36.5933,-121.835,47.44,1,1021,0,2018-12-07 16:55:00,2.1,2.07,25,Good air quality,pm25,2018-12-07 08:58:00
+Delano,City,Kern,california,35.7688,-119.247,48.4,90,1021,0.25,2018-12-07 17:09:00,1.21,2.23,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Desert Hot Springs,City,Riverside,california,33.9611,-116.502,48.92,90,1023,0,2018-12-07 16:56:00,2.6,2.59,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Diamond Bar,City,Los Angeles,california,34.0286,-117.81,57.18,1,1018,0,2018-12-07 16:58:00,3.1,2.54,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Dinuba,City,Tulare,california,36.5433,-119.387,49.57,90,1022,0.25,2018-12-07 17:09:00,1.46,2.1,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Dixon,City,Solano,california,38.4455,-121.823,43.39,1,1022,0,2018-12-07 16:58:00,1.5,1.74,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Dorris,City,Siskiyou,california,41.9674,-121.918,17.89,20,1022,0,2018-12-07 16:53:00,1.51,1.37,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Dos Palos,City,Merced,california,36.9861,-120.627,47.73,90,1022,0,2018-12-07 16:53:00,2.01,2.02,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Downey,City,Los Angeles,california,33.9401,-118.133,57.36,1,1018,0,2018-12-07 16:58:00,3.6,2.55,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Duarte,City,Los Angeles,california,34.1395,-117.977,56.71,1,1018,0,2018-12-07 16:58:00,3.1,2.54,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Dublin,City,Alameda,california,37.7022,-121.936,47.93,1,1021,0,2018-12-07 17:02:00,1.76,1.88,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Dunsmuir,City,Siskiyou,california,41.2082,-122.272,27.63,1,1021,0,2018-12-07 16:56:00,1.01,1.46,66,Moderate air quality,pm25,2018-12-07 08:58:00
+East Palo Alto,City,San Mateo,california,37.4688,-122.141,47.48,1,1021,0,2018-12-07 16:56:00,1.86,1.94,71,Moderate air quality,pm25,2018-12-07 08:58:00
+Eastvale,City,Riverside,california,33.9525,-117.585,58.01,1,1019,0.25,2018-12-07 16:58:00,5.1,2.56,26,Good air quality,pm25,2018-12-07 08:58:00
+El Cajon,City,San Diego,california,32.7948,-116.963,59.49,40,1018,0,2018-12-07 16:56:00,1.86,2.73,56,Moderate air quality,pm25,2018-12-07 08:58:00
+El Centro,City,Imperial,california,32.792,-115.563,55.35,75,1020,0,2018-12-07 16:56:00,2.6,2.64,44,Good air quality,pm25,2018-12-07 08:58:00
+El Cerrito,City,Contra Costa,california,37.9161,-122.311,46.72,75,1021,0,2018-12-07 17:00:00,2.6,1.83,65,Moderate air quality,pm25,2018-12-07 08:58:00
+El Monte,City,Los Angeles,california,34.0686,-118.028,56.41,1,1018,0,2018-12-07 16:58:00,3.1,2.53,61,Moderate air quality,pm25,2018-12-07 08:58:00
+El Segundo,City,Los Angeles,california,33.9192,-118.416,57.7,1,1018,0,2018-12-07 16:58:00,3.1,2.56,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Elk Grove,City,Sacramento,california,38.4088,-121.372,44.65,1,1022,0,2018-12-07 17:02:00,1.16,1.74,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Emeryville,City,Alameda,california,37.8313,-122.285,46.89,75,1021,0,2018-12-07 17:00:00,2.6,1.83,59,Moderate air quality,pm10,2018-12-07 08:58:00
+Encinitas,City,San Diego,california,33.037,-117.292,59.67,75,1018,0.25,2018-12-07 16:56:00,1.5,2.65,44,Good air quality,pm25,2018-12-07 08:58:00
+Escalon,City,San Joaquin,california,37.7974,-120.997,46.09,90,1022,0,2018-12-07 17:02:00,1.96,1.83,78,Moderate air quality,pm25,2018-12-07 08:58:00
+Escondido,City,San Diego,california,33.1192,-117.086,59.67,75,1018,0.25,2018-12-07 16:56:00,1.5,2.67,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Etna,City,Siskiyou,california,41.4568,-122.895,27.7,1,1021,0,2018-12-07 16:56:00,0.86,1.42,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Eureka,City,Humboldt,california,40.8021,-124.164,41.0,1,1021,0,2018-12-07 16:55:00,4.1,1.41,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Exeter,City,Tulare,california,36.2961,-119.142,48.7,90,1022,0.25,2018-12-07 17:09:00,1.46,2.15,66,Moderate air quality,pm25,2018-12-07 08:58:00
+Fairfax,Town,Marin,california,37.9871,-122.589,46.78,1,1022,0,2018-12-07 17:00:00,1.86,1.83,50,Good air quality,pm10,2018-12-07 08:58:00
+Fairfield,City,Solano,california,38.2494,-122.04,44.56,1,1022,0,2018-12-07 16:58:00,2.21,1.79,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Farmersville,City,Tulare,california,36.2977,-119.207,48.79,90,1022,0.25,2018-12-07 17:09:00,1.46,2.15,67,Moderate air quality,pm25,2018-12-07 08:58:00
+Ferndale,City,Humboldt,california,40.5762,-124.264,41.0,1,1021,0,2018-12-07 16:55:00,4.1,1.42,27,Good air quality,pm25,2018-12-07 08:58:00
+Fillmore,City,Ventura,california,34.3992,-118.918,57.11,20,1019,0,2018-12-07 16:57:00,6.2,2.53,21,Good air quality,pm25,2018-12-07 08:58:00
+Firebaugh,City,Fresno,california,36.8588,-120.456,48.85,90,1022,0,2018-12-07 17:00:00,1.66,2.02,72,Moderate air quality,pm25,2018-12-07 08:58:00
+Folsom,City,Sacramento,california,38.678,-121.176,44.58,75,1022,0,2018-12-07 16:55:00,1.16,1.73,67,Moderate air quality,pm25,2018-12-07 08:58:00
+Fontana,City,San Bernardino,california,34.0922,-117.435,58.24,1,1019,0.25,2018-12-07 16:58:00,5.1,2.53,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Fort Bragg,City,Mendocino,california,39.4457,-123.805,39.02,90,1023,0,2018-12-07 17:13:00,1.31,1.6,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Fort Jones,City,Siskiyou,california,41.6076,-122.84,25.57,20,1022,0,2018-12-07 16:56:00,0.86,1.37,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Fortuna,City,Humboldt,california,40.5982,-124.157,41.0,1,1021,0,2018-12-07 16:55:00,4.1,1.43,49,Good air quality,pm25,2018-12-07 08:58:00
+Foster City,City,San Mateo,california,37.5585,-122.271,48.24,75,1021,0,2018-12-07 17:00:00,1.5,1.88,67,Moderate air quality,pm25,2018-12-07 08:58:00
+Fountain Valley,City,Orange,california,33.709,-117.954,57.22,1,1018,0,2018-12-07 16:58:00,3.6,2.57,54,Moderate air quality,no2,2018-12-07 08:58:00
+Fowler,City,Fresno,california,36.6305,-119.678,49.57,90,1022,0,2018-12-07 17:09:00,1.46,2.1,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Fremont,City,Alameda,california,37.5483,-121.989,48.4,1,1021,0,2018-12-07 17:00:00,1.76,1.88,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Fresno,City,Fresno,california,36.7378,-119.787,49.57,90,1022,0,2018-12-07 17:09:00,1.96,2.1,84,Moderate air quality,pm25,2018-12-07 08:58:00
+Fullerton,City,Orange,california,33.8704,-117.924,57.22,1,1018,0,2018-12-07 16:58:00,3.1,2.54,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Galt,City,Sacramento,california,38.2546,-121.3,43.95,90,1022,0,2018-12-07 17:02:00,1.16,1.74,66,Moderate air quality,pm25,2018-12-07 08:58:00
+Garden Grove,City,Orange,california,33.7743,-117.938,57.22,1,1018,0,2018-12-07 16:58:00,3.6,2.54,48,Good air quality,pm25,2018-12-07 08:58:00
+Gardena,City,Los Angeles,california,33.8883,-118.309,57.38,1,1018,0,2018-12-07 16:58:00,3.1,2.56,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Gilroy,City,Santa Clara,california,37.0058,-121.568,48.16,1,1022,0,2018-12-07 16:56:00,1.51,1.99,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Glendale,City,Los Angeles,california,34.1425,-118.255,55.2,1,1018,0,2018-12-07 17:10:00,1.5,2.53,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Glendora,City,Los Angeles,california,34.1361,-117.865,57.51,1,1018,0,2018-12-07 16:58:00,3.1,2.54,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Goleta,City,Santa Barbara,california,34.4358,-119.828,53.69,1,1019,0,2018-12-07 16:53:00,0.46,2.49,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Gonzales,City,Monterey,california,36.5066,-121.444,48.56,1,1021,0,2018-12-07 16:55:00,5.1,2.1,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Grand Terrace,City,San Bernardino,california,34.0339,-117.314,55.76,1,1019,0.25,2018-12-07 16:58:00,5.1,2.53,47,Good air quality,pm25,2018-12-07 08:58:00
+Grass Valley,City,Nevada,california,39.2191,-121.061,44.29,1,1021,0,2018-12-07 16:55:00,1.66,1.7,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Greenfield,City,Monterey,california,36.3208,-121.244,49.46,1,1021,0,2018-12-07 16:55:00,5.1,2.17,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Gridley,City,Butte,california,39.3638,-121.694,43.93,1,1022,0,2018-12-07 16:55:00,1.5,1.62,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Grover Beach,City,San Luis Obispo,california,35.1216,-120.621,50.54,1,1020,0,2018-12-07 16:56:00,1.76,2.39,39,Good air quality,pm25,2018-12-07 08:58:00
+Guadalupe,City,Santa Barbara,california,34.9716,-120.572,50.45,1,1020,0,2018-12-07 17:15:00,2.31,2.43,28,Good air quality,pm25,2018-12-07 08:58:00
+Gustine,City,Merced,california,37.2577,-120.999,46.62,90,1022,0,2018-12-07 16:55:00,1.66,1.92,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Half Moon Bay,City,San Mateo,california,37.4636,-122.429,48.72,1,1021,0,2018-12-07 17:00:00,1.86,1.93,52,Moderate air quality,pm10,2018-12-07 08:58:00
+Hanford,City,Kings,california,36.3274,-119.646,49.59,90,1022,0.25,2018-12-07 17:09:00,1.46,2.15,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Hawaiian Gardens,City,Los Angeles,california,33.8314,-118.073,57.36,1,1018,0,2018-12-07 16:58:00,3.6,2.55,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Hawthorne,City,Los Angeles,california,33.9164,-118.353,57.38,1,1018,0,2018-12-07 16:58:00,3.1,2.56,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Hayward,City,Alameda,california,37.6688,-122.081,47.28,1,1021,0,2018-12-07 17:00:00,1.5,1.86,62,Moderate air quality,pm25,2018-12-07 08:58:00
+Healdsburg,City,Sonoma,california,38.6105,-122.869,41.09,90,1023,0,2018-12-07 17:13:00,2.41,1.71,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Hemet,City,Riverside,california,33.7475,-116.972,56.75,1,1019,0.25,2018-12-07 16:58:00,1.5,2.64,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Hercules,City,Contra Costa,california,38.0171,-122.289,46.8,1,1022,0,2018-12-07 17:00:00,1.86,1.79,52,Moderate air quality,pm10,2018-12-07 08:58:00
+Hermosa Beach,City,Los Angeles,california,33.8622,-118.4,57.42,1,1018,0,2018-12-07 16:58:00,3.1,2.56,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Hesperia,City,San Bernardino,california,34.4264,-117.301,51.44,1,1019,0,2018-12-07 16:58:00,5.1,2.55,28,Good air quality,pm25,2018-12-07 08:58:00
+Hidden Hills,City,Los Angeles,california,34.1603,-118.652,58.05,1,1018,0,2018-12-07 16:58:00,1.5,2.54,21,Good air quality,o3,2018-12-07 08:58:00
+Highland,City,San Bernardino,california,34.1283,-117.209,53.29,1,1019,0.25,2018-12-07 16:58:00,5.1,2.57,49,Good air quality,pm25,2018-12-07 08:58:00
+Hillsborough,Town,San Mateo,california,37.5741,-122.379,48.24,75,1021,0,2018-12-07 17:00:00,1.5,1.88,53,Moderate air quality,pm10,2018-12-07 08:58:00
+Hollister,City,San Benito,california,36.8525,-121.402,47.88,1,1021,0,2018-12-07 16:55:00,1.61,2.02,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Holtville,City,Imperial,california,32.8112,-115.38,56.12,90,1019,0,2018-12-07 16:56:00,2.6,2.62,70,Moderate air quality,pm25,2018-12-07 08:58:00
+Hughson,City,Stanislaus,california,37.6027,-120.866,45.54,90,1022,0,2018-12-07 17:02:00,1.91,1.87,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Huntington Beach,City,Orange,california,33.6595,-117.999,57.38,1,1018,0,2018-12-07 16:58:00,3.6,2.57,61,Moderate air quality,no2,2018-12-07 08:58:00
+Huntington Park,City,Los Angeles,california,33.9817,-118.225,57.06,1,1018,0,2018-12-07 16:58:00,3.1,2.55,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Huron,City,Fresno,california,36.2027,-120.103,49.53,90,1022,0,2018-12-07 17:09:00,2.1,2.19,41,Good air quality,pm25,2018-12-07 08:58:00
+Imperial,City,Imperial,california,32.8476,-115.569,56.1,90,1019,0,2018-12-07 16:56:00,2.6,2.64,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Imperial Beach,City,San Diego,california,32.5839,-117.113,60.75,75,1018,0,2018-12-07 16:56:00,1.5,2.74,66,Moderate air quality,pm25,2018-12-07 08:58:00
+Indian Wells,City,Riverside,california,33.7176,-116.341,50.43,90,1023,0,2018-12-07 16:56:00,2.6,2.61,28,Good air quality,pm25,2018-12-07 08:58:00
+Indio,City,Riverside,california,33.7206,-116.216,50.45,90,1023,0,2018-12-07 16:56:00,2.6,2.5,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Industry,City,Los Angeles,california,34.0197,-117.959,57.51,1,1018,0,2018-12-07 16:58:00,3.1,2.54,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Inglewood,City,Los Angeles,california,33.9617,-118.353,57.63,1,1018,0,2018-12-07 16:58:00,3.1,2.56,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Ione,City,Amador,california,38.3527,-120.933,44.89,1,1022,0,2018-12-07 17:02:00,1.16,1.77,68,Moderate air quality,pm25,2018-12-07 08:58:00
+Irvine,City,Orange,california,33.6846,-117.827,57.97,20,1018,0.25,2018-12-07 17:15:00,1.5,2.57,41,Good air quality,pm25,2018-12-07 08:58:00
+Irwindale,City,Los Angeles,california,34.107,-117.935,58.1,1,1018,0,2018-12-07 16:58:00,3.1,2.54,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Isleton,City,Sacramento,california,38.1619,-121.612,44.15,1,1022,0,2018-12-07 17:02:00,2.21,1.77,40,Good air quality,pm25,2018-12-07 08:58:00
+Jackson,City,Amador,california,38.3488,-120.774,45.0,1,1021,0,2018-12-07 17:15:00,3.1,1.77,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Jurupa Valley,City,Riverside,california,33.9972,-117.485,58.32,1,1019,0.25,2018-12-07 16:58:00,4.1,2.55,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Kerman,City,Fresno,california,36.7236,-120.06,49.51,75,1022,0,2018-12-07 17:09:00,1.96,2.08,65,Moderate air quality,pm25,2018-12-07 08:58:00
+King City,City,Monterey,california,36.2127,-121.126,48.92,1,1021,0,2018-12-07 16:53:00,5.1,2.22,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Kingsburg,City,Fresno,california,36.5138,-119.554,49.57,90,1022,0.25,2018-12-07 17:09:00,1.46,2.1,64,Moderate air quality,pm25,2018-12-07 08:58:00
+La CaÃ±ada Flintridge,City,Los Angeles,california,34.2068,-118.2,55.71,1,1018,0,2018-12-07 17:10:00,1.5,2.53,52,Moderate air quality,pm25,2018-12-07 08:58:00
+La Habra,City,Orange,california,33.9319,-117.946,57.49,1,1018,0,2018-12-07 16:58:00,3.1,2.54,47,Good air quality,pm25,2018-12-07 08:58:00
+La Habra Heights,City,Los Angeles,california,33.9608,-117.951,58.1,1,1018,0,2018-12-07 16:58:00,3.1,2.54,33,Good air quality,pm25,2018-12-07 08:58:00
+La Mesa,City,San Diego,california,32.7678,-117.023,60.13,1,1018,0,2018-12-07 17:15:00,1.86,2.7,63,Moderate air quality,no2,2018-12-07 08:58:00
+La Mirada,City,Los Angeles,california,33.9172,-118.012,56.95,1,1018,0,2018-12-07 16:58:00,3.1,2.55,47,Good air quality,pm25,2018-12-07 08:58:00
+La Palma,City,Orange,california,33.8463,-118.046,57.36,1,1018,0,2018-12-07 16:58:00,3.6,2.55,38,Good air quality,pm25,2018-12-07 08:58:00
+La Puente,City,Los Angeles,california,34.02,-117.95,58.1,1,1018,0,2018-12-07 16:58:00,3.1,2.54,49,Good air quality,pm25,2018-12-07 08:58:00
+La Quinta,City,Riverside,california,33.6634,-116.31,55.4,90,1019,0,2018-12-07 17:15:00,0.86,2.61,27,Good air quality,pm25,2018-12-07 08:58:00
+La Verne,City,Los Angeles,california,34.1008,-117.768,58.1,1,1019,0,2018-12-07 16:58:00,4.1,2.54,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Lafayette,City,Contra Costa,california,37.8858,-122.118,46.9,1,1022,0,2018-12-07 17:00:00,1.86,1.84,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Laguna Beach,City,Orange,california,33.5427,-117.785,58.06,20,1018,0.25,2018-12-07 16:58:00,1.5,2.57,47,Good air quality,pm25,2018-12-07 08:58:00
+Laguna Hills,City,Orange,california,33.5916,-117.699,57.85,20,1018,0.25,2018-12-07 16:58:00,1.5,2.61,33,Good air quality,pm25,2018-12-07 08:58:00
+Laguna Niguel,City,Orange,california,33.5237,-117.715,58.14,1,1019,0.25,2018-12-07 17:15:00,2.6,2.61,49,Good air quality,pm25,2018-12-07 08:58:00
+Laguna Woods,City,Orange,california,33.6102,-117.725,57.85,20,1018,0.25,2018-12-07 16:58:00,1.5,2.61,38,Good air quality,pm25,2018-12-07 08:58:00
+Lake Elsinore,City,Riverside,california,33.6681,-117.327,58.89,1,1019,0.25,2018-12-07 17:15:00,2.6,2.61,43,Good air quality,pm25,2018-12-07 08:58:00
+Lake Forest,City,Orange,california,33.6469,-117.686,58.12,20,1018,0.25,2018-12-07 16:58:00,1.5,2.61,38,Good air quality,no2,2018-12-07 08:58:00
+Lakeport,City,Lake,california,39.0429,-122.916,39.02,90,1023,0,2018-12-07 17:13:00,1.26,1.67,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Lakewood,City,Los Angeles,california,33.8536,-118.134,57.36,1,1018,0,2018-12-07 16:58:00,3.6,2.55,48,Good air quality,pm25,2018-12-07 08:58:00
+Lancaster,City,Los Angeles,california,34.6868,-118.154,48.96,40,1022,0,2018-12-07 17:13:00,3.6,2.52,25,Good air quality,pm25,2018-12-07 08:58:00
+Larkspur,City,Marin,california,37.9341,-122.535,46.81,1,1022,0,2018-12-07 17:00:00,1.86,1.83,53,Moderate air quality,pm10,2018-12-07 08:58:00
+Lathrop,City,San Joaquin,california,37.8227,-121.277,44.96,90,1022,0,2018-12-07 17:02:00,1.96,1.82,65,Moderate air quality,pm25,2018-12-07 08:58:00
+Lawndale,City,Los Angeles,california,33.8872,-118.353,58.39,1,1018,0,2018-12-07 16:58:00,3.1,2.56,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Lemon Grove,City,San Diego,california,32.7425,-117.031,60.37,1,1018,0,2018-12-07 16:56:00,1.86,2.74,60,Moderate air quality,no2,2018-12-07 08:58:00
+Lemoore,City,Kings,california,36.3008,-119.783,50.43,90,1022,0,2018-12-07 17:09:00,1.96,2.15,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Lincoln,City,Placer,california,38.8916,-121.293,44.67,1,1022,0,2018-12-07 17:15:00,1.66,1.68,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Lindsay,City,Tulare,california,36.203,-119.088,48.72,90,1022,0.25,2018-12-07 17:09:00,0.51,2.2,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Live Oak,City,Sutter,california,39.2757,-121.66,44.31,1,1022,0,2018-12-07 17:15:00,2.71,1.62,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Livermore,City,Alameda,california,37.6819,-121.768,47.71,1,1021,0,2018-12-07 17:02:00,1.76,1.88,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Livingston,City,Merced,california,37.3869,-120.724,47.53,90,1022,0,2018-12-07 16:53:00,2.01,1.93,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Lodi,City,San Joaquin,california,38.1341,-121.272,44.51,90,1022,0,2018-12-07 17:02:00,1.16,1.77,73,Moderate air quality,pm25,2018-12-07 08:58:00
+Loma Linda,City,San Bernardino,california,34.0483,-117.261,55.76,1,1019,0.25,2018-12-07 16:58:00,5.1,2.53,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Lomita,City,Los Angeles,california,33.7922,-118.315,58.39,20,1018,0,2018-12-07 16:58:00,2.61,2.56,27,Good air quality,pm25,2018-12-07 08:58:00
+Lompoc,City,Santa Barbara,california,34.6391,-120.458,52.02,1,1020,0,2018-12-07 17:15:00,2.31,2.47,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Long Beach,City,Los Angeles,california,33.7701,-118.194,57.36,1,1018,0,2018-12-07 16:58:00,3.6,2.55,62,Moderate air quality,pm25,2018-12-07 08:58:00
+Loomis,Town,Placer,california,38.8213,-121.193,45.1,1,1022,0,2018-12-07 17:15:00,1.66,1.71,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Los Alamitos,City,Orange,california,33.8032,-118.072,58.37,1,1018,0,2018-12-07 16:58:00,3.6,2.55,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Los Altos,City,Santa Clara,california,37.3852,-122.114,48.51,1,1021,0,2018-12-07 17:00:00,1.86,1.94,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Los Altos Hills,Town,Santa Clara,california,37.3797,-122.137,48.51,1,1021,0,2018-12-07 17:00:00,1.86,1.94,50,Good air quality,pm25,2018-12-07 08:58:00
+Los Angeles,City,Los Angeles,california,34.0522,-118.244,56.71,1,1018,0,2018-12-07 16:58:00,3.1,2.53,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Los Banos,City,Merced,california,37.0583,-120.85,46.85,90,1022,0,2018-12-07 16:55:00,2.01,1.97,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Los Gatos,Town,Santa Clara,california,37.2358,-121.962,48.49,75,1021,0,2018-12-07 17:00:00,2.1,1.99,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Loyalton,City,Sierra,california,39.6763,-120.241,31.21,90,1022,0,2018-12-07 16:55:00,1.46,1.77,41,Good air quality,pm25,2018-12-07 08:58:00
+Lynwood,City,Los Angeles,california,33.9303,-118.211,58.39,1,1018,0,2018-12-07 16:58:00,3.1,2.55,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Madera,City,Madera,california,36.9613,-120.061,49.03,90,1022,0,2018-12-07 17:00:00,1.86,2.03,79,Moderate air quality,pm25,2018-12-07 08:58:00
+Malibu,City,Los Angeles,california,34.0259,-118.78,58.89,20,1019,0,2018-12-07 16:57:00,6.2,2.55,21,Good air quality,pm25,2018-12-07 08:58:00
+Mammoth Lakes,Town,Mono,california,37.6485,-118.972,27.32,90,1022,0,2018-12-07 16:55:00,2.6,2.18,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Manhattan Beach,City,Los Angeles,california,33.8847,-118.411,57.42,1,1018,0,2018-12-07 16:58:00,3.1,2.56,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Manteca,City,San Joaquin,california,37.7974,-121.216,44.98,90,1022,0,2018-12-07 17:02:00,1.96,1.82,79,Moderate air quality,pm25,2018-12-07 08:58:00
+Maricopa,City,Kern,california,35.0589,-119.401,48.02,90,1021,0,2018-12-07 16:54:00,2.1,2.4,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Marina,City,Monterey,california,36.6844,-121.802,48.54,1,1021,0,2018-12-07 16:55:00,2.1,2.07,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Martinez,City,Contra Costa,california,38.0194,-122.134,47.35,1,1022,0,2018-12-07 17:00:00,1.86,1.79,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Marysville,City,Yuba,california,39.1457,-121.591,43.52,1,1022,0,2018-12-07 17:15:00,2.71,1.64,67,Moderate air quality,pm25,2018-12-07 08:58:00
+Maywood,City,Los Angeles,california,33.9867,-118.185,58.39,1,1018,0,2018-12-07 16:58:00,3.1,2.55,56,Moderate air quality,pm25,2018-12-07 08:58:00
+McFarland,City,Kern,california,35.678,-119.229,46.94,90,1021,0.25,2018-12-07 16:56:00,1.81,2.29,79,Moderate air quality,pm25,2018-12-07 08:58:00
+Mendota,City,Fresno,california,36.7536,-120.382,48.6,90,1022,0,2018-12-07 17:00:00,1.66,2.02,62,Moderate air quality,pm25,2018-12-07 08:58:00
+Menifee,City,Riverside,california,33.6971,-117.185,57.69,1,1019,0.25,2018-12-07 16:58:00,1.5,2.59,17,Good air quality,pm25,2018-12-07 08:58:00
+Menlo Park,City,San Mateo,california,37.453,-122.182,48.51,1,1021,0,2018-12-07 17:00:00,1.86,1.94,73,Moderate air quality,pm25,2018-12-07 08:58:00
+Merced,City,Merced,california,37.3022,-120.483,47.53,90,1022,0,2018-12-07 16:53:00,2.01,1.93,62,Moderate air quality,pm25,2018-12-07 08:58:00
+Mill Valley,City,Marin,california,37.906,-122.545,47.59,1,1022,0,2018-12-07 17:00:00,1.86,1.83,57,Moderate air quality,pm10,2018-12-07 08:58:00
+Millbrae,City,San Mateo,california,37.5985,-122.387,48.29,75,1021,0,2018-12-07 17:00:00,1.5,1.88,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Milpitas,City,Santa Clara,california,37.4323,-121.9,48.51,75,1021,0,2018-12-07 17:00:00,2.1,1.92,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Mission Viejo,City,Orange,california,33.5969,-117.658,58.06,20,1018,0.25,2018-12-07 16:58:00,1.5,2.61,34,Good air quality,pm25,2018-12-07 08:58:00
+Modesto,City,Stanislaus,california,37.6391,-120.997,46.0,90,1022,0,2018-12-07 17:02:00,1.96,1.87,83,Moderate air quality,pm25,2018-12-07 08:58:00
+Monrovia,City,Los Angeles,california,34.1443,-118.002,56.91,1,1018,0,2018-12-07 17:10:00,3.1,2.53,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Montague,City,Siskiyou,california,41.7282,-122.528,25.65,20,1022,0,2018-12-07 16:56:00,1.26,1.37,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Montclair,City,San Bernardino,california,34.0775,-117.69,58.51,1,1019,0,2018-12-07 16:58:00,4.1,2.56,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Monte Sereno,City,Santa Clara,california,37.2363,-121.992,48.49,75,1021,0,2018-12-07 17:00:00,2.1,1.99,48,Good air quality,pm25,2018-12-07 08:58:00
+Montebello,City,Los Angeles,california,34.0165,-118.114,58.78,1,1018,0,2018-12-07 16:58:00,3.6,2.53,42,Good air quality,pm25,2018-12-07 08:58:00
+Monterey,City,Monterey,california,36.6002,-121.895,48.52,1,1021,0,2018-12-07 16:55:00,2.1,2.07,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Monterey Park,City,Los Angeles,california,34.0625,-118.123,56.71,1,1018,0,2018-12-07 16:58:00,3.6,2.53,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Moorpark,City,Ventura,california,34.2856,-118.882,58.8,20,1019,0,2018-12-07 16:57:00,6.2,2.53,47,Good air quality,pm25,2018-12-07 08:58:00
+Moraga,Town,Contra Costa,california,37.8349,-122.13,47.43,75,1021,0,2018-12-07 17:00:00,2.6,1.84,43,Good air quality,pm10,2018-12-07 08:58:00
+Moreno Valley,City,Riverside,california,33.9425,-117.23,58.26,1,1019,0.25,2018-12-07 17:15:00,5.1,2.55,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Morgan Hill,City,Santa Clara,california,37.1305,-121.654,47.26,1,1022,0,2018-12-07 16:56:00,1.51,1.99,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Morro Bay,City,San Luis Obispo,california,35.3659,-120.85,50.04,1,1020,0,2018-12-07 16:56:00,1.76,2.35,25,Good air quality,pm25,2018-12-07 08:58:00
+Mount Shasta,City,Siskiyou,california,41.3099,-122.311,27.68,1,1021,0,2018-12-07 16:56:00,1.01,1.43,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Mountain View,City,Santa Clara,california,37.3861,-122.084,48.51,1,1021,0,2018-12-07 17:00:00,1.51,1.94,68,Moderate air quality,pm25,2018-12-07 08:58:00
+Murrieta,City,Riverside,california,33.5539,-117.214,58.15,1,1019,0.25,2018-12-07 17:15:00,2.6,2.59,20,Good air quality,o3,2018-12-07 08:58:00
+Napa,City,Napa,california,38.2975,-122.287,45.7,1,1022,0,2018-12-07 16:58:00,3.1,1.76,55,Moderate air quality,pm25,2018-12-07 08:58:00
+National City,City,San Diego,california,32.6781,-117.099,60.58,75,1018,0,2018-12-07 16:56:00,1.5,2.74,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Needles,City,San Bernardino,california,34.8481,-114.614,53.71,90,1021,0,2018-12-07 16:56:00,5.1,2.27,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Nevada City,City,Nevada,california,39.2616,-121.016,45.25,1,1021,0,2018-12-07 17:15:00,3.1,1.68,37,Good air quality,pm25,2018-12-07 08:58:00
+Newark,City,Alameda,california,37.5297,-122.04,48.51,1,1021,0,2018-12-07 17:00:00,1.76,1.86,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Newman,City,Stanislaus,california,37.3138,-121.021,46.18,90,1022,0,2018-12-07 17:02:00,1.66,1.93,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Newport Beach,City,Orange,california,33.6189,-117.93,58.51,20,1018,0,2018-12-07 17:15:00,1.5,2.57,29,Good air quality,pm25,2018-12-07 08:58:00
+Norco,City,Riverside,california,33.9311,-117.549,58.93,1,1019,0.25,2018-12-07 16:58:00,4.1,2.56,27,Good air quality,pm25,2018-12-07 08:58:00
+Norwalk,City,Los Angeles,california,33.9022,-118.082,57.61,1,1018,0,2018-12-07 16:58:00,3.6,2.55,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Novato,City,Marin,california,38.1074,-122.57,47.57,1,1022,0,2018-12-07 17:00:00,1.51,1.79,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Oakdale,City,Stanislaus,california,37.7666,-120.847,46.58,90,1022,0,2018-12-07 17:15:00,1.91,1.83,78,Moderate air quality,pm25,2018-12-07 08:58:00
+Oakland,City,Alameda,california,37.8044,-122.271,46.89,75,1021,0,2018-12-07 17:00:00,2.6,1.83,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Oakley,City,Contra Costa,california,37.9974,-121.712,46.63,1,1022,0,2018-12-07 17:02:00,1.76,1.82,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Oceanside,City,San Diego,california,33.1959,-117.379,59.52,1,1019,0.25,2018-12-07 17:15:00,2.6,2.65,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Ojai,City,Ventura,california,34.448,-119.243,59.27,1,1019,0,2018-12-07 16:57:00,3.1,2.53,48,Good air quality,pm25,2018-12-07 08:58:00
+Ontario,City,San Bernardino,california,34.0633,-117.651,58.6,1,1019,0,2018-12-07 16:58:00,4.1,2.56,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Orange,City,Orange,california,33.7879,-117.853,57.22,1,1018,0,2018-12-07 16:58:00,3.6,2.54,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Orange Cove,City,Fresno,california,36.6244,-119.314,49.57,90,1022,0.25,2018-12-07 17:09:00,1.46,2.1,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Orinda,City,Contra Costa,california,37.8771,-122.18,47.44,1,1022,0,2018-12-07 17:00:00,1.86,1.84,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Orland,City,Glenn,california,39.7474,-122.196,42.55,1,1022,0,2018-12-07 16:54:00,3.6,1.57,27,Good air quality,pm25,2018-12-07 08:58:00
+Oroville,City,Butte,california,39.5138,-121.556,44.87,1,1022,0,2018-12-07 17:15:00,1.5,1.6,45,Good air quality,pm25,2018-12-07 08:58:00
+Oxnard,City,Ventura,california,34.1975,-119.177,59.23,20,1019,0,2018-12-07 16:57:00,6.2,2.52,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Pacific Grove,City,Monterey,california,36.6177,-121.917,48.52,1,1021,0,2018-12-07 16:55:00,2.1,2.07,49,Good air quality,pm25,2018-12-07 08:58:00
+Pacifica,City,San Mateo,california,37.6138,-122.487,48.29,1,1021,0,2018-12-07 17:00:00,1.86,1.88,57,Moderate air quality,pm10,2018-12-07 08:58:00
+Palm Desert,City,Riverside,california,33.7222,-116.374,51.78,90,1019,0,2018-12-07 17:15:00,0.86,2.61,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Palm Springs,City,Riverside,california,33.8303,-116.545,53.8,90,1019,0.25,2018-12-07 17:15:00,0.86,2.59,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Palmdale,City,Los Angeles,california,34.5794,-118.116,50.07,40,1022,0,2018-12-07 17:13:00,3.6,2.52,37,Good air quality,pm25,2018-12-07 08:58:00
+Palo Alto,City,Santa Clara,california,37.4419,-122.143,48.81,1,1021,0,2018-12-07 17:00:00,1.86,1.94,69,Moderate air quality,pm25,2018-12-07 08:58:00
+Palos Verdes Estates,City,Los Angeles,california,33.8006,-118.39,58.23,20,1018,0,2018-12-07 16:58:00,2.61,2.56,28,Good air quality,pm25,2018-12-07 08:58:00
+Paradise,Town,Butte,california,39.7596,-121.622,42.48,1,1022,0,2018-12-07 16:54:00,1.5,1.62,43,Good air quality,pm25,2018-12-07 08:58:00
+Paramount,City,Los Angeles,california,33.8895,-118.16,58.39,1,1018,0,2018-12-07 16:58:00,3.6,2.55,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Parlier,City,Fresno,california,36.6116,-119.527,49.57,90,1022,0,2018-12-07 17:09:00,1.46,2.1,62,Moderate air quality,pm25,2018-12-07 08:58:00
+Pasadena,City,Los Angeles,california,34.1478,-118.145,55.69,1,1018,0,2018-12-07 17:10:00,1.5,2.53,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Paso Robles,City,San Luis Obispo,california,35.6369,-120.655,49.19,1,1021,0,2018-12-07 16:56:00,2.1,2.32,29,Good air quality,pm25,2018-12-07 08:58:00
+Patterson,City,Stanislaus,california,37.4716,-121.13,46.18,90,1022,0,2018-12-07 17:02:00,1.66,1.93,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Perris,City,Riverside,california,33.7825,-117.229,57.76,1,1019,0.25,2018-12-07 17:15:00,5.1,2.55,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Petaluma,City,Sonoma,california,38.2324,-122.637,43.29,1,1022,0,2018-12-07 16:58:00,1.51,1.79,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Pico Rivera,City,Los Angeles,california,33.9831,-118.097,58.78,1,1018,0,2018-12-07 16:58:00,3.6,2.55,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Piedmont,City,Alameda,california,37.8244,-122.232,46.89,75,1021,0,2018-12-07 17:00:00,2.6,1.84,47,Good air quality,pm10,2018-12-07 08:58:00
+Pinole,City,Contra Costa,california,38.0044,-122.299,46.92,1,1022,0,2018-12-07 17:00:00,1.86,1.79,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Pismo Beach,City,San Luis Obispo,california,35.1428,-120.641,50.54,1,1020,0,2018-12-07 16:56:00,1.76,2.39,44,Good air quality,pm25,2018-12-07 08:58:00
+Pittsburg,City,Contra Costa,california,38.028,-121.885,46.6,1,1022,0,2018-12-07 17:02:00,1.76,1.77,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Placentia,City,Orange,california,33.8711,-117.863,58.93,1,1018,0,2018-12-07 16:58:00,3.1,2.54,47,Good air quality,pm25,2018-12-07 08:58:00
+Placerville,City,El Dorado,california,38.7296,-120.799,44.96,1,1022,0,2018-12-07 17:15:00,1.26,1.76,48,Good air quality,pm25,2018-12-07 08:58:00
+Pleasant Hill,City,Contra Costa,california,37.948,-122.061,47.44,1,1022,0,2018-12-07 17:00:00,1.76,1.84,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Pleasanton,City,Alameda,california,37.6624,-121.875,47.93,1,1021,0,2018-12-07 17:02:00,1.76,1.88,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Plymouth,City,Amador,california,38.4819,-120.845,45.61,1,1021,0,2018-12-07 17:15:00,3.1,1.77,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Point Arena,City,Mendocino,california,38.9088,-123.693,39.02,90,1023,0,2018-12-07 17:13:00,1.81,1.68,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Pomona,City,Los Angeles,california,34.0551,-117.75,58.51,1,1019,0,2018-12-07 16:58:00,4.1,2.56,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Port Hueneme,City,Ventura,california,34.1478,-119.195,59.22,20,1019,0,2018-12-07 16:57:00,6.2,2.52,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Porterville,City,Tulare,california,36.0652,-119.017,48.43,90,1022,0.25,2018-12-07 17:09:00,0.51,2.2,83,Moderate air quality,pm25,2018-12-07 08:58:00
+Portola,City,Plumas,california,39.8105,-120.469,31.17,90,1024,0,2018-12-07 17:15:00,1.21,1.72,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Portola Valley,Town,San Mateo,california,37.3841,-122.235,48.87,1,1021,0,2018-12-07 17:00:00,1.86,1.94,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Poway,City,San Diego,california,32.9628,-117.036,59.34,40,1018,0.25,2018-12-07 17:15:00,1.86,2.7,24,Good air quality,no2,2018-12-07 08:58:00
+Rancho Cordova,City,Sacramento,california,38.5891,-121.303,44.06,75,1022,0,2018-12-07 16:58:00,1.16,1.71,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Rancho Cucamonga,City,San Bernardino,california,34.1064,-117.593,59.43,1,1019,0,2018-12-07 16:58:00,4.1,2.56,45,Good air quality,no2,2018-12-07 08:58:00
+Rancho Palos Verdes,City,Los Angeles,california,33.7445,-118.387,58.24,20,1018,0,2018-12-07 16:58:00,2.61,2.61,27,Good air quality,pm25,2018-12-07 08:58:00
+Rancho Santa Margarita,City,Orange,california,33.6402,-117.603,59.07,1,1019,0.25,2018-12-07 17:15:00,2.6,2.61,27,Good air quality,pm25,2018-12-07 08:58:00
+Red Bluff,City,Tehama,california,40.1785,-122.236,40.91,1,1022,0,2018-12-07 16:54:00,3.6,1.52,42,Good air quality,pm25,2018-12-07 08:58:00
+Redding,City,Shasta,california,40.5865,-122.392,37.94,1,1022,0,2018-12-07 16:55:00,1.5,1.46,104,Unhealthy for sensitive groups air quality,pm25,2018-12-07 08:58:00
+Redlands,City,San Bernardino,california,34.0556,-117.183,57.04,1,1019,0.25,2018-12-07 16:58:00,5.1,2.57,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Redondo Beach,City,Los Angeles,california,33.8492,-118.388,58.23,1,1018,0,2018-12-07 16:58:00,3.1,2.56,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Redwood City,City,San Mateo,california,37.4852,-122.236,48.7,1,1021,0,2018-12-07 17:00:00,1.86,1.94,67,Moderate air quality,pm25,2018-12-07 08:58:00
+Reedley,City,Fresno,california,36.5963,-119.45,50.43,90,1022,0,2018-12-07 17:09:00,1.46,2.1,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Rialto,City,San Bernardino,california,34.1064,-117.37,58.44,1,1019,0.25,2018-12-07 16:58:00,5.1,2.53,50,Good air quality,pm25,2018-12-07 08:58:00
+Richmond,City,Contra Costa,california,37.9358,-122.348,47.53,1,1022,0,2018-12-07 17:00:00,1.86,1.83,65,Moderate air quality,pm25,2018-12-07 08:58:00
+Ridgecrest,City,Kern,california,35.6225,-117.671,42.98,40,1022,0,2018-12-07 16:56:00,1.5,2.3,39,Good air quality,pm25,2018-12-07 08:58:00
+Rio Dell,City,Humboldt,california,40.4993,-124.106,43.23,1,1021,0,2018-12-07 16:55:00,4.1,1.48,27,Good air quality,pm25,2018-12-07 08:58:00
+Rio Vista,City,Solano,california,38.1558,-121.691,45.5,1,1022,0,2018-12-07 17:15:00,2.21,1.77,33,Good air quality,pm25,2018-12-07 08:58:00
+Ripon,City,San Joaquin,california,37.7395,-121.135,45.54,90,1022,0,2018-12-07 17:02:00,1.96,1.87,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Riverbank,City,Stanislaus,california,37.736,-120.935,46.02,90,1022,0,2018-12-07 17:02:00,1.96,1.87,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Riverside,City,Riverside,california,33.9806,-117.375,58.78,1,1019,0.25,2018-12-07 16:58:00,5.1,2.55,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Rocklin,City,Placer,california,38.7907,-121.236,45.86,1,1022,0,2018-12-07 17:15:00,1.66,1.71,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Rohnert Park,City,Sonoma,california,38.3396,-122.701,44.83,1,1022,0,2018-12-07 16:58:00,1.51,1.76,41,Good air quality,pm25,2018-12-07 08:58:00
+Rolling Hills,City,Los Angeles,california,33.757,-118.354,58.35,20,1018,0,2018-12-07 16:58:00,2.61,2.56,27,Good air quality,pm25,2018-12-07 08:58:00
+Rolling Hills Estates,City,Los Angeles,california,33.7878,-118.358,58.23,20,1018,0,2018-12-07 16:58:00,2.61,2.56,47,Good air quality,pm25,2018-12-07 08:58:00
+Rosemead,City,Los Angeles,california,34.0806,-118.073,58.8,1,1018,0,2018-12-07 16:58:00,3.6,2.53,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Roseville,City,Placer,california,38.7521,-121.288,45.86,90,1023,0,2018-12-07 17:15:00,1.66,1.68,66,Moderate air quality,pm25,2018-12-07 08:58:00
+Ross,Town,Marin,california,37.9624,-122.555,47.66,1,1022,0,2018-12-07 17:00:00,1.86,1.83,55,Moderate air quality,pm10,2018-12-07 08:58:00
+Sacramento,City,Sacramento,california,38.5816,-121.494,44.92,1,1022,0,2018-12-07 17:15:00,1.16,1.71,69,Moderate air quality,pm25,2018-12-07 08:58:00
+St. Helena,City,Napa,california,38.5052,-122.47,44.78,1,1022,0,2018-12-07 16:58:00,1.51,1.73,44,Good air quality,pm25,2018-12-07 08:58:00
+Salinas,City,Monterey,california,36.6777,-121.656,48.56,1,1021,0,2018-12-07 16:55:00,5.1,2.08,57,Moderate air quality,pm25,2018-12-07 08:58:00
+San Anselmo,Town,Marin,california,37.9746,-122.562,47.66,1,1022,0,2018-12-07 17:00:00,1.86,1.83,55,Moderate air quality,pm10,2018-12-07 08:58:00
+San Bernardino,City,San Bernardino,california,34.1083,-117.29,55.63,1,1019,0.25,2018-12-07 16:58:00,5.1,2.53,48,Good air quality,pm25,2018-12-07 08:58:00
+San Diego,City,San Diego,california,32.7157,-117.161,60.37,20,1018,0,2018-12-07 16:56:00,1.86,2.74,62,Moderate air quality,pm25,2018-12-07 08:58:00
+San Fernando,City,Los Angeles,california,34.2819,-118.439,57.88,1,1018,0,2018-12-07 17:10:00,1.5,2.55,57,Moderate air quality,pm25,2018-12-07 08:58:00
+San Gabriel,City,Los Angeles,california,34.0961,-118.106,58.96,1,1018,0,2018-12-07 16:58:00,1.5,2.53,52,Moderate air quality,pm25,2018-12-07 08:58:00
+San Jacinto,City,Riverside,california,33.7839,-116.959,57.27,1,1019,0.25,2018-12-07 17:15:00,2.6,2.6,58,Moderate air quality,pm25,2018-12-07 08:58:00
+San Joaquin,City,Fresno,california,36.6066,-120.189,49.51,75,1022,0,2018-12-07 17:09:00,1.96,2.08,54,Moderate air quality,pm25,2018-12-07 08:58:00
+San Jose,City,Santa Clara,california,37.3382,-121.886,48.92,75,1021,0,2018-12-07 17:15:00,2.1,1.92,68,Moderate air quality,pm25,2018-12-07 08:58:00
+San Juan Bautista,City,San Benito,california,36.8455,-121.538,48.67,1,1021,0,2018-12-07 16:55:00,1.86,2.02,26,Good air quality,pm25,2018-12-07 08:58:00
+San Juan Capistrano,City,Orange,california,33.5019,-117.663,59.07,1,1019,0.25,2018-12-07 17:15:00,2.6,2.61,52,Moderate air quality,pm25,2018-12-07 08:58:00
+San Leandro,City,Alameda,california,37.7249,-122.156,48.27,75,1021,0,2018-12-07 17:15:00,2.6,1.86,52,Moderate air quality,pm25,2018-12-07 08:58:00
+San Luis Obispo,City,San Luis Obispo,california,35.2828,-120.66,50.59,1,1020,0,2018-12-07 16:56:00,1.76,2.37,22,Good air quality,pm25,2018-12-07 08:58:00
+San Marcos,City,San Diego,california,33.1434,-117.166,59.79,1,1019,0.25,2018-12-07 17:15:00,2.6,2.67,33,Good air quality,pm25,2018-12-07 08:58:00
+San Marino,City,Los Angeles,california,34.1214,-118.106,57.81,1,1018,0,2018-12-07 17:10:00,1.5,2.53,51,Moderate air quality,pm25,2018-12-07 08:58:00
+San Mateo,City,San Mateo,california,37.563,-122.326,49.24,75,1021,0,2018-12-07 17:15:00,1.5,1.88,69,Moderate air quality,pm25,2018-12-07 08:58:00
+San Pablo,City,Contra Costa,california,37.9621,-122.346,47.53,1,1022,0,2018-12-07 17:00:00,1.86,1.83,63,Moderate air quality,pm25,2018-12-07 08:58:00
+San Rafael,City,Marin,california,37.9735,-122.531,47.39,1,1022,0,2018-12-07 17:00:00,1.86,1.83,63,Moderate air quality,pm10,2018-12-07 08:58:00
+San Ramon,City,Contra Costa,california,37.7799,-121.978,47.7,1,1021,0,2018-12-07 17:02:00,1.5,1.84,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Sand City,City,Monterey,california,36.6172,-121.848,48.52,1,1021,0,2018-12-07 16:55:00,2.1,2.07,25,Good air quality,pm25,2018-12-07 08:58:00
+Sanger,City,Fresno,california,36.708,-119.556,49.57,90,1022,0,2018-12-07 17:09:00,1.46,2.1,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Santa Ana,City,Orange,california,33.7455,-117.868,58.23,20,1018,0,2018-12-07 16:58:00,1.5,2.57,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Santa Barbara,City,Santa Barbara,california,34.4208,-119.698,56.25,1,1020,0,2018-12-07 17:15:00,0.46,2.52,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Santa Clara,City,Santa Clara,california,37.3541,-121.955,48.92,75,1021,0,2018-12-07 17:15:00,2.1,1.92,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Santa Clarita,City,Los Angeles,california,34.3917,-118.543,55.47,40,1022,0,2018-12-07 17:10:00,3.6,2.53,15,Good air quality,o3,2018-12-07 08:58:00
+Santa Cruz,City,Santa Cruz,california,36.9741,-122.031,48.02,1,1021,0,2018-12-07 16:56:00,1.51,2.02,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Santa Fe Springs,City,Los Angeles,california,33.9472,-118.085,58.5,1,1018,0,2018-12-07 16:58:00,3.6,2.55,48,Good air quality,pm25,2018-12-07 08:58:00
+Santa Maria,City,Santa Barbara,california,34.953,-120.436,50.45,1,1020,0,2018-12-07 17:15:00,2.31,2.44,49,Good air quality,pm25,2018-12-07 08:58:00
+Santa Monica,City,Los Angeles,california,34.0195,-118.491,58.62,20,1018,0,2018-12-07 16:58:00,3.6,2.53,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Santa Paula,City,Ventura,california,34.3542,-119.059,57.81,20,1019,0,2018-12-07 16:57:00,6.2,2.53,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Santa Rosa,City,Sonoma,california,38.4404,-122.714,44.91,1,1022,0,2018-12-07 16:55:00,2.41,1.76,62,Moderate air quality,pm25,2018-12-07 08:58:00
+Santee,City,San Diego,california,32.8384,-116.974,60.13,40,1018,0,2018-12-07 17:15:00,1.86,2.73,41,Good air quality,pm25,2018-12-07 08:58:00
+Saratoga,City,Santa Clara,california,37.2638,-122.023,48.83,1,1021,0,2018-12-07 17:00:00,1.51,1.94,46,Good air quality,pm25,2018-12-07 08:58:00
+Sausalito,City,Marin,california,37.8591,-122.485,47.68,75,1021,0,2018-12-07 17:00:00,1.5,1.83,57,Moderate air quality,pm10,2018-12-07 08:58:00
+Scotts Valley,City,Santa Cruz,california,37.0511,-122.015,49.26,1,1021,0,2018-12-07 17:00:00,1.51,2.0,31,Good air quality,pm25,2018-12-07 08:58:00
+Seal Beach,City,Orange,california,33.7414,-118.105,58.5,1,1018,0,2018-12-07 16:58:00,3.6,2.6,38,Good air quality,pm25,2018-12-07 08:58:00
+Seaside,City,Monterey,california,36.6149,-121.822,48.52,1,1021,0,2018-12-07 16:55:00,2.1,2.07,41,Good air quality,pm25,2018-12-07 08:58:00
+Sebastopol,City,Sonoma,california,38.4021,-122.824,44.92,1,1022,0,2018-12-07 16:55:00,2.41,1.75,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Selma,City,Fresno,california,36.5708,-119.612,49.57,90,1022,0,2018-12-07 17:09:00,1.46,2.1,70,Moderate air quality,pm25,2018-12-07 08:58:00
+Shafter,City,Kern,california,35.5005,-119.272,46.54,90,1021,0.25,2018-12-07 17:17:00,1.81,2.28,68,Moderate air quality,pm25,2018-12-07 08:58:00
+Shasta Lake,City,Shasta,california,40.6804,-122.371,38.03,1,1022,0,2018-12-07 16:55:00,1.5,1.46,79,Moderate air quality,pm25,2018-12-07 08:58:00
+Sierra Madre,City,Los Angeles,california,34.1617,-118.053,57.81,1,1018,0,2018-12-07 17:10:00,1.5,2.53,53,Moderate air quality,pm25,2018-12-07 08:58:00
+Signal Hill,City,Los Angeles,california,33.8045,-118.168,58.5,1,1018,0,2018-12-07 16:58:00,3.1,2.55,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Simi Valley,City,Ventura,california,34.2694,-118.781,58.84,20,1019,0,2018-12-07 16:57:00,6.2,2.53,21,Good air quality,o3,2018-12-07 08:58:00
+Solana Beach,City,San Diego,california,32.9912,-117.271,59.79,1,1019,0.25,2018-12-07 17:15:00,2.6,2.73,43,Good air quality,pm25,2018-12-07 08:58:00
+Soledad,City,Monterey,california,36.4247,-121.326,49.46,1,1021,0,2018-12-07 16:55:00,5.1,2.16,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Solvang,City,Santa Barbara,california,34.5958,-120.138,52.3,1,1020,0,2018-12-07 17:15:00,1.51,2.49,27,Good air quality,pm25,2018-12-07 08:58:00
+Sonoma,City,Sonoma,california,38.2919,-122.458,45.7,1,1022,0,2018-12-07 16:58:00,1.51,1.76,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Sonora,City,Tuolumne,california,37.9829,-120.382,46.98,90,1022,0,2018-12-07 17:29:00,1.5,1.88,73,Moderate air quality,pm25,2018-12-07 08:58:00
+South El Monte,City,Los Angeles,california,34.052,-118.047,58.96,1,1018,0,2018-12-07 16:58:00,3.1,2.53,53,Moderate air quality,pm25,2018-12-07 08:58:00
+South Gate,City,Los Angeles,california,33.9547,-118.212,58.5,1,1018,0,2018-12-07 16:58:00,3.1,2.55,58,Moderate air quality,pm25,2018-12-07 08:58:00
+South Lake Tahoe,City,El Dorado,california,38.9399,-119.977,29.59,1,1021,0,2018-12-07 16:55:00,0.61,1.9,30,Good air quality,pm25,2018-12-07 08:58:00
+South Pasadena,City,Los Angeles,california,34.1161,-118.15,57.87,1,1018,0,2018-12-07 17:10:00,1.5,2.53,52,Moderate air quality,pm25,2018-12-07 08:58:00
+South San Francisco,City,San Mateo,california,37.6547,-122.408,48.16,75,1021,0,2018-12-07 17:00:00,1.5,1.88,67,Moderate air quality,pm25,2018-12-07 08:58:00
+Stanton,City,Orange,california,33.8029,-117.993,58.24,1,1018,0,2018-12-07 16:58:00,3.6,2.54,37,Good air quality,pm25,2018-12-07 08:58:00
+Stockton,City,San Joaquin,california,37.9577,-121.291,45.55,90,1022,0,2018-12-07 17:29:00,1.5,1.82,93,Moderate air quality,pm25,2018-12-07 08:58:00
+Suisun City,City,Solano,california,38.2382,-122.04,45.97,1,1022,0,2018-12-07 17:15:00,2.21,1.79,29,Good air quality,pm10,2018-12-07 08:58:00
+Sunnyvale,City,Santa Clara,california,37.3688,-122.036,48.81,1,1021,0,2018-12-07 17:00:00,1.51,1.94,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Susanville,City,Lassen,california,40.4163,-120.653,32.0,90,1024,0,2018-12-07 17:15:00,1.31,1.63,39,Good air quality,pm25,2018-12-07 08:58:00
+Sutter Creek,City,Amador,california,38.393,-120.802,46.26,1,1021,0,2018-12-07 17:15:00,3.1,1.77,69,Moderate air quality,pm25,2018-12-07 08:58:00
+Taft,City,Kern,california,35.1425,-119.457,46.94,90,1021,0,2018-12-07 17:17:00,1.81,2.4,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Tehachapi,City,Kern,california,35.1322,-118.449,46.54,90,1021,0,2018-12-07 17:17:00,4.6,2.52,43,Good air quality,pm25,2018-12-07 08:58:00
+Tehama,City,Tehama,california,40.0271,-122.123,40.89,1,1022,0,2018-12-07 16:54:00,3.6,1.52,23,Good air quality,pm25,2018-12-07 08:58:00
+Temecula,City,Riverside,california,33.4936,-117.148,58.15,1,1019,0.25,2018-12-07 17:15:00,2.6,2.63,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Temple City,City,Los Angeles,california,34.1072,-118.058,58.96,1,1018,0,2018-12-07 16:58:00,3.1,2.53,41,Good air quality,pm25,2018-12-07 08:58:00
+Thousand Oaks,City,Ventura,california,34.1706,-118.838,58.82,20,1019,0,2018-12-07 16:57:00,6.2,2.55,49,Good air quality,pm25,2018-12-07 08:58:00
+Tiburon,Town,Marin,california,37.8735,-122.457,47.68,75,1021,0,2018-12-07 17:00:00,1.5,1.83,59,Moderate air quality,pm10,2018-12-07 08:58:00
+Torrance,City,Los Angeles,california,33.8358,-118.341,58.5,1,1018,0,2018-12-07 16:58:00,3.1,2.56,35,Good air quality,pm25,2018-12-07 08:58:00
+Tracy,City,San Joaquin,california,37.7397,-121.425,47.8,90,1022,0,2018-12-07 17:29:00,1.5,1.88,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Trinidad,City,Humboldt,california,41.0593,-124.143,42.75,20,1020,0,2018-12-07 16:55:00,2.6,1.38,30,Good air quality,pm25,2018-12-07 08:58:00
+Truckee,Town,Nevada,california,39.328,-120.183,29.08,90,1023,0,2018-12-07 16:55:00,1.5,1.81,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Tulare,City,Tulare,california,36.2077,-119.347,48.74,90,1022,0.25,2018-12-07 17:22:00,1.21,2.19,84,Moderate air quality,pm25,2018-12-07 08:58:00
+Tulelake,City,Siskiyou,california,41.956,-121.477,19.94,75,1021,0,2018-12-07 16:53:00,1.86,1.38,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Turlock,City,Stanislaus,california,37.4947,-120.847,46.53,90,1022,0,2018-12-07 17:02:00,2.01,1.92,79,Moderate air quality,pm25,2018-12-07 08:58:00
+Tustin,City,Orange,california,33.742,-117.824,58.26,20,1018,0.25,2018-12-07 17:15:00,1.5,2.57,23,Good air quality,no2,2018-12-07 08:58:00
+Twentynine Palms,City,San Bernardino,california,34.1356,-116.054,48.92,90,1023,0,2018-12-07 16:56:00,2.6,2.52,43,Good air quality,pm25,2018-12-07 08:58:00
+Ukiah,City,Mendocino,california,39.1502,-123.208,39.02,90,1023,0,2018-12-07 17:13:00,1.26,1.67,75,Moderate air quality,pm25,2018-12-07 08:58:00
+Union City,City,Alameda,california,37.5934,-122.044,48.87,1,1021,0,2018-12-07 17:15:00,1.5,1.86,51,Moderate air quality,pm25,2018-12-07 08:58:00
+Upland,City,San Bernardino,california,34.0975,-117.648,58.77,1,1019,0,2018-12-07 16:58:00,4.1,2.56,48,Good air quality,pm25,2018-12-07 08:58:00
+Vacaville,City,Solano,california,38.3566,-121.988,44.51,1,1022,0,2018-12-07 17:15:00,2.1,1.74,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Vallejo,City,Solano,california,38.1041,-122.257,47.32,1,1022,0,2018-12-07 17:15:00,3.1,1.79,69,Moderate air quality,pm25,2018-12-07 08:58:00
+Ventura,City,Ventura,california,34.2805,-119.295,59.25,1,1019,0,2018-12-07 16:57:00,3.1,2.53,56,Moderate air quality,pm25,2018-12-07 08:58:00
+Vernon,City,Los Angeles,california,34.0039,-118.23,58.5,1,1018,0,2018-12-07 16:58:00,3.1,2.53,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Victorville,City,San Bernardino,california,34.5362,-117.293,46.4,75,1021,0,2018-12-07 16:58:00,1.31,2.49,54,Moderate air quality,pm25,2018-12-07 08:58:00
+Villa Park,City,Orange,california,33.814,-117.822,58.37,1,1018,0.25,2018-12-07 16:58:00,3.6,2.54,43,Good air quality,pm25,2018-12-07 08:58:00
+Visalia,City,Tulare,california,36.3302,-119.292,49.87,90,1022,0.25,2018-12-07 17:22:00,1.46,2.15,82,Moderate air quality,pm25,2018-12-07 08:58:00
+Vista,City,San Diego,california,33.2,-117.243,59.56,1,1019,0.25,2018-12-07 17:15:00,2.6,2.67,48,Good air quality,pm25,2018-12-07 08:58:00
+Walnut,City,Los Angeles,california,34.0203,-117.865,59.11,1,1018,0,2018-12-07 16:58:00,3.1,2.54,38,Good air quality,pm25,2018-12-07 08:58:00
+Walnut Creek,City,Contra Costa,california,37.9101,-122.065,47.86,1,1022,0,2018-12-07 17:15:00,1.76,1.84,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Wasco,City,Kern,california,35.5941,-119.341,46.56,90,1021,0.25,2018-12-07 17:17:00,1.81,2.28,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Waterford,City,Stanislaus,california,37.6413,-120.76,45.55,90,1022,0,2018-12-07 17:02:00,1.91,1.87,72,Moderate air quality,pm25,2018-12-07 08:58:00
+Watsonville,City,Santa Cruz,california,36.9102,-121.757,48.63,1,1021,0,2018-12-07 16:56:00,1.51,2.01,58,Moderate air quality,pm25,2018-12-07 08:58:00
+Weed,City,Siskiyou,california,41.4226,-122.386,27.73,1,1021,0,2018-12-07 16:56:00,1.01,1.43,69,Moderate air quality,pm25,2018-12-07 08:58:00
+West Covina,City,Los Angeles,california,34.0686,-117.939,58.64,1,1018,0,2018-12-07 16:58:00,3.1,2.54,58,Moderate air quality,pm25,2018-12-07 08:58:00
+West Hollywood,City,Los Angeles,california,34.09,-118.362,58.86,1,1018,0,2018-12-07 16:58:00,1.5,2.53,54,Moderate air quality,pm25,2018-12-07 08:58:00
+West Sacramento,City,Yolo,california,38.5805,-121.53,45.5,90,1023,0,2018-12-07 17:15:00,2.21,1.71,57,Moderate air quality,pm25,2018-12-07 08:58:00
+Westlake Village,City,Los Angeles,california,34.1466,-118.807,58.84,20,1019,0,2018-12-07 16:57:00,6.2,2.55,22,Good air quality,o3,2018-12-07 08:58:00
+Westminster,City,Orange,california,33.7592,-117.99,58.24,1,1018,0,2018-12-07 16:58:00,3.6,2.54,50,Good air quality,pm25,2018-12-07 08:58:00
+Westmorland,City,Imperial,california,33.0373,-115.621,55.92,75,1020,0,2018-12-07 17:15:00,2.6,2.57,61,Moderate air quality,pm25,2018-12-07 08:58:00
+Wheatland,City,Yuba,california,39.0099,-121.423,44.85,1,1022,0,2018-12-07 17:15:00,1.66,1.65,43,Good air quality,pm25,2018-12-07 08:58:00
+Whittier,City,Los Angeles,california,33.9792,-118.033,59.5,1,1018,0,2018-12-07 16:58:00,3.1,2.55,49,Good air quality,pm25,2018-12-07 08:58:00
+Wildomar,City,Riverside,california,33.5989,-117.28,58.3,1,1019,0.25,2018-12-07 17:15:00,2.6,2.61,17,Good air quality,pm25,2018-12-07 08:58:00
+Williams,City,Colusa,california,39.1546,-122.149,44.04,1,1022,0,2018-12-07 16:58:00,1.71,1.63,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Willits,City,Mendocino,california,39.4096,-123.356,39.02,90,1023,0,2018-12-07 17:13:00,1.31,1.63,66,Moderate air quality,pm25,2018-12-07 08:58:00
+Willows,City,Glenn,california,39.5243,-122.194,42.98,1,1022,0,2018-12-07 16:53:00,1.5,1.57,27,Good air quality,pm25,2018-12-07 08:58:00
+Windsor,Town,Sonoma,california,38.5471,-122.816,45.5,1,1022,0,2018-12-07 17:15:00,1.5,1.71,55,Moderate air quality,pm25,2018-12-07 08:58:00
+Winters,City,Yolo,california,38.5249,-121.971,44.13,1,1022,0,2018-12-07 17:15:00,1.5,1.71,35,Good air quality,pm25,2018-12-07 08:58:00
+Woodlake,City,Tulare,california,36.4136,-119.099,50.04,90,1022,0.25,2018-12-07 17:15:00,1.46,2.15,65,Moderate air quality,pm25,2018-12-07 08:58:00
+Woodland,City,Yolo,california,38.6785,-121.773,44.74,90,1023,0,2018-12-07 17:15:00,2.21,1.71,64,Moderate air quality,pm25,2018-12-07 08:58:00
+Woodside,Town,San Mateo,california,37.4299,-122.254,48.87,1,1021,0,2018-12-07 17:00:00,1.86,1.93,63,Moderate air quality,pm25,2018-12-07 08:58:00
+Yorba Linda,City,Orange,california,33.8885,-117.813,59.11,1,1019,0,2018-12-07 16:58:00,4.1,2.54,35,Good air quality,pm25,2018-12-07 08:58:00
+Yountville,Town,Napa,california,38.4016,-122.361,45.03,1,1022,0,2018-12-07 17:15:00,1.5,1.76,28,Good air quality,pm25,2018-12-07 08:58:00
+Yreka,City,Siskiyou,california,41.7354,-122.634,25.65,20,1022,0,2018-12-07 16:56:00,1.26,1.37,60,Moderate air quality,pm25,2018-12-07 08:58:00
+Yuba City,City,Sutter,california,39.1404,-121.617,44.55,1,1022,0,2018-12-07 17:15:00,2.71,1.64,59,Moderate air quality,pm25,2018-12-07 08:58:00
+Yucaipa,City,San Bernardino,california,34.0336,-117.043,57.06,1,1019,0.25,2018-12-07 16:58:00,5.1,2.57,52,Moderate air quality,pm25,2018-12-07 08:58:00
+Yucca Valley,Town,San Bernardino,california,34.1142,-116.432,48.92,90,1023,0,2018-12-07 16:56:00,2.6,2.55,33,Good air quality,pm25,2018-12-07 08:58:00
