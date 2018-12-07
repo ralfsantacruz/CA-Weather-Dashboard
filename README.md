@@ -2,7 +2,7 @@
 
 
 =======
-![Monarch](Monarch_Butterfly.png)
+![Monarch](/appendix/images_and_extras/Monarch_Butterfly.png)
 
 ## Introduction:
    The following project will ”tell a story" through data visualizations.
@@ -45,9 +45,9 @@ The project will focus on using the "Analytics Paradigm" to explore relationship
  ### Transform:
    Once we have scraped the data from all those data sources, we plot them against the map and to create the visualization. The geoJson objects were then added to map vector using map box tool. 
 
- ![Final_Screenshot_index](Final_Screenshot_index.png)
+ ![Final_Screenshot_index](/appendix/images_and_extras/Final_Screenshot_index.png)
 
- ![ETL_screenshot](ETL_screenshot.png)
+ ![ETL_screenshot](/appendix/images_and_extras/ETL_screenshot.png)
  Visualize: Plotly scattermap generated from all weather data points.
  Visual is returned as HTML and passed into an HTML template via Flask.
  We defined a function called generate_scattermap that takes in a SQL query read into a dataframe for latest data.
