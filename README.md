@@ -1,4 +1,3 @@
-<<<<<<< CholG
 # California Weather Conflux
 
 ![Monarch](Monarch_Butterfly.png)
@@ -61,5 +60,3 @@ The project will focus on using the "Analytics Paradigm" to explore relationship
       Noticeable AQI Trends: Central Valley often has poorer air quality than the rest of the state. This is due to the central valley being a  massive inversion zone.
   ### Wind Trends:
       The areas with persistently high winds are also home to California’s largest wind farms (again go figure). 
-=======
->>>>>>> master
