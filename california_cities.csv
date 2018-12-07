@@ -1,0 +1,483 @@
+,city,type,county,state,lat,lng
+2,Adelanto,City,San Bernardino,california,34.5827699,-117.409215
+3,Agoura Hills,City,Los Angeles,california,34.1533395,-118.7616764
+4,Alameda,City,Alameda,california,37.7652065,-122.2416355
+5,Albany,City,Alameda,california,37.88687,-122.2977475
+6,Alhambra,City,Los Angeles,california,34.095287,-118.1270146
+7,Aliso Viejo,City,Orange,california,33.5684605,-117.7262981
+8,Alturas,City,Modoc,california,41.4871146,-120.5424555
+9,Amador City,City,Amador,california,38.4193553,-120.824103
+10,American Canyon,City,Napa,california,38.1749178,-122.2608044
+11,Anaheim,City,Orange,california,33.8365932,-117.9143012
+12,Anderson,City,Shasta,california,40.448208,-122.2977815
+13,Angels Camp,City,Calaveras,california,38.0677832,-120.5385299
+14,Antioch,City,Contra Costa,california,38.0049214,-121.805789
+15,Apple Valley,Town,San Bernardino,california,34.5008311,-117.1858759
+16,Arcadia,City,Los Angeles,california,34.1397292,-118.0353449
+17,Arcata,City,Humboldt,california,40.8665166,-124.0828396
+18,Arroyo Grande,City,San Luis Obispo,california,35.1185868,-120.5907252
+19,Artesia,City,Los Angeles,california,33.8658484,-118.0831212
+20,Arvin,City,Kern,california,35.2017986,-118.833105
+21,Atascadero,City,San Luis Obispo,california,35.4894169,-120.6707255
+22,Atherton,Town,San Mateo,california,37.4613272,-122.197743
+23,Atwater,City,Merced,california,37.3477174,-120.609084
+24,Auburn,City,Placer,california,38.8965654,-121.0768901
+25,Avalon,City,Los Angeles,california,33.3428193,-118.3282279
+26,Avenal,City,Kings,california,36.0041223,-120.1290272
+27,Azusa,City,Los Angeles,california,34.1336186,-117.9075627
+28,Bakersfield,City,Kern,california,35.3732921,-119.0187125
+29,Baldwin Park,City,Los Angeles,california,34.0852868,-117.9608978
+30,Banning,City,Riverside,california,33.9255713,-116.8764103
+31,Barstow,City,San Bernardino,california,34.8957957,-117.0172826
+32,Beaumont,City,Riverside,california,33.9294606,-116.977248
+33,Bell,City,Los Angeles,california,33.9775142,-118.1870156
+34,Bell Gardens,City,Los Angeles,california,33.9652918,-118.1514588
+35,Bellflower,City,Los Angeles,california,33.8816818,-118.1170117
+36,Belmont,City,San Mateo,california,37.5202145,-122.2758008
+37,Belvedere,City,Marin,california,37.8727044,-122.4644171
+38,Benicia,City,Solano,california,38.049365,-122.1585777
+39,Berkeley,City,Alameda,california,37.8715926,-122.272747
+40,Beverly Hills,City,Los Angeles,california,34.0736204,-118.4003563
+41,Big Bear Lake,City,San Bernardino,california,34.2438963,-116.9114215
+42,Biggs,City,Butte,california,39.4123876,-121.7127513
+43,Bishop,City,Inyo,california,37.3614238,-118.3996636
+44,Blue Lake,City,Humboldt,california,40.8829072,-123.9839488
+45,Blythe,City,Riverside,california,33.6177725,-114.5882607
+46,Bradbury,City,Los Angeles,california,34.1469511,-117.9708982
+47,Brawley,City,Imperial,california,32.9786566,-115.530267
+48,Brea,City,Orange,california,33.916475,-117.9002918
+49,Brentwood,City,Contra Costa,california,37.931868,-121.6957863
+50,Brisbane,City,San Mateo,california,37.6807661,-122.3999715
+51,Buellton,City,Santa Barbara,california,34.613597,-120.1926505
+52,Buena Park,City,Orange,california,33.8674044,-117.9981387
+53,Burbank,City,Los Angeles,california,34.1808392,-118.3089661
+54,Burlingame,City,San Mateo,california,37.5778696,-122.34809
+55,Calabasas,City,Los Angeles,california,34.1367208,-118.6614809
+56,Calexico,City,Imperial,california,32.6789476,-115.4988834
+57,California City,City,Kern,california,35.125801,-117.9859038
+58,Calimesa,City,Riverside,california,34.0039039,-117.0619755
+59,Calipatria,City,Imperial,california,33.1255957,-115.5141538
+60,Calistoga,City,Napa,california,38.5787965,-122.5797054
+61,Camarillo,City,Ventura,california,34.2163937,-119.0376023
+62,Campbell,City,Santa Clara,california,37.2871651,-121.9499568
+63,Canyon Lake,City,Riverside,california,33.6850215,-117.2730931
+64,Capitola,City,Santa Cruz,california,36.9752283,-121.953293
+65,Carlsbad,City,San Diego,california,33.1580933,-117.3505939
+66,Carmel-by-the-Sea,City,Monterey,california,36.5552386,-121.9232879
+67,Carpinteria,City,Santa Barbara,california,34.39888380000001,-119.5184564
+68,Carson,City,Los Angeles,california,33.8316745,-118.281693
+69,Cathedral City,City,Riverside,california,33.7805388,-116.4668036
+70,Ceres,City,Stanislaus,california,37.5949316,-120.9577098
+71,Cerritos,City,Los Angeles,california,33.8583483,-118.0647871
+72,Chico,City,Butte,california,39.7284944,-121.8374777
+73,Chino,City,San Bernardino,california,34.0122346,-117.688944
+74,Chino Hills,City,San Bernardino,california,33.9898188,-117.7325848
+75,Chowchilla,City,Madera,california,37.1229997,-120.2601754
+76,Chula Vista,City,San Diego,california,32.6400541,-117.0841955
+77,Citrus Heights,City,Sacramento,california,38.7071247,-121.2810611
+78,Claremont,City,Los Angeles,california,34.0966764,-117.7197785
+79,Clayton,City,Contra Costa,california,37.9410341,-121.9357925
+80,Clearlake,City,Lake,california,38.9582307,-122.6263728
+81,Cloverdale,City,Sonoma,california,38.8054624,-123.0172227
+82,Clovis,City,Fresno,california,36.8252277,-119.7029194
+83,Coachella,City,Riverside,california,33.6803003,-116.173894
+84,Coalinga,City,Fresno,california,36.139678,-120.3601496
+85,Colfax,City,Placer,california,39.1007298,-120.9532759
+86,Colma,Town,San Mateo,california,37.6768779,-122.459695
+87,Colton,City,San Bernardino,california,34.0739016,-117.3136547
+88,Colusa,City,Colusa,california,39.2143343,-122.0094175
+89,Commerce,City,Los Angeles,california,34.0005691,-118.1597929
+90,Compton,City,Los Angeles,california,33.8958492,-118.2200712
+91,Concord,City,Contra Costa,california,37.9779776,-122.0310733
+92,Corcoran,City,Kings,california,36.098007,-119.5604015
+93,Corning,City,Tehama,california,39.9276572,-122.1791556
+94,Corona,City,Riverside,california,33.8752935,-117.5664384
+95,Coronado,City,San Diego,california,32.6858853,-117.1830891
+96,Corte Madera,Town,Marin,california,37.9254806,-122.5274755
+97,Costa Mesa,City,Orange,california,33.6412156,-117.9188221
+98,Cotati,City,Sonoma,california,38.3293416,-122.7096666
+99,Covina,City,Los Angeles,california,34.0900091,-117.8903397
+100,Crescent City,City,Del Norte,california,41.7557501,-124.2025913
+101,Cudahy,City,Los Angeles,california,33.9605701,-118.1853486
+102,Culver City,City,Los Angeles,california,34.0211224,-118.3964665
+103,Cupertino,City,Santa Clara,california,37.3229978,-122.0321823
+104,Cypress,City,Orange,california,33.8169366,-118.0368507
+105,Daly City,City,San Mateo,california,37.6879241,-122.4702079
+106,Dana Point,City,Orange,california,33.4672256,-117.6981014
+107,Danville,Town,Contra Costa,california,37.8215929,-121.9999606
+108,Davis,City,Yolo,california,38.5449065,-121.7405167
+109,Del Mar,City,San Diego,california,32.9594891,-117.2653146
+110,Del Rey Oaks,City,Monterey,california,36.5932934,-121.8349515
+111,Delano,City,Kern,california,35.7688425,-119.2470536
+112,Desert Hot Springs,City,Riverside,california,33.961124,-116.5016784
+113,Diamond Bar,City,Los Angeles,california,34.0286226,-117.8103367
+114,Dinuba,City,Tulare,california,36.5432837,-119.3870656
+115,Dixon,City,Solano,california,38.4454641,-121.8232958
+116,Dorris,City,Siskiyou,california,41.9673696,-121.91806
+117,Dos Palos,City,Merced,california,36.9860582,-120.6265722
+118,Downey,City,Los Angeles,california,33.9401088,-118.1331593
+119,Duarte,City,Los Angeles,california,34.1394513,-117.9772873
+120,Dublin,City,Alameda,california,37.7021521,-121.9357918
+121,Dunsmuir,City,Siskiyou,california,41.2082089,-122.2719529
+122,East Palo Alto,City,San Mateo,california,37.4688273,-122.1410751
+123,Eastvale,City,Riverside,california,33.952463,-117.5848025
+124,El Cajon,City,San Diego,california,32.7947731,-116.9625269
+125,El Centro,City,Imperial,california,32.792,-115.5630514
+126,El Cerrito,City,Contra Costa,california,37.9161326,-122.310765
+127,El Monte,City,Los Angeles,california,34.0686206,-118.0275667
+128,El Segundo,City,Los Angeles,california,33.9191799,-118.4164652
+129,Elk Grove,City,Sacramento,california,38.4087993,-121.3716178
+130,Emeryville,City,Alameda,california,37.831316,-122.2852473
+131,Encinitas,City,San Diego,california,33.0369867,-117.2919818
+132,Escalon,City,San Joaquin,california,37.7974273,-120.9966033
+133,Escondido,City,San Diego,california,33.1192068,-117.086421
+134,Etna,City,Siskiyou,california,41.4568065,-122.8947551
+135,Eureka,City,Humboldt,california,40.8020712,-124.1636729
+136,Exeter,City,Tulare,california,36.2960613,-119.1420517
+137,Fairfax,Town,Marin,california,37.9871454,-122.5888686
+138,Fairfield,City,Solano,california,38.24935809999999,-122.0399663
+139,Farmersville,City,Tulare,california,36.2977283,-119.2067767
+140,Ferndale,City,Humboldt,california,40.5762406,-124.2639441
+141,Fillmore,City,Ventura,california,34.3991639,-118.918154
+142,Firebaugh,City,Fresno,california,36.8588376,-120.4560072
+143,Folsom,City,Sacramento,california,38.6779591,-121.1760583
+144,Fontana,City,San Bernardino,california,34.0922335,-117.435048
+145,Fort Bragg,City,Mendocino,california,39.445723,-123.8052935
+146,Fort Jones,City,Siskiyou,california,41.6076387,-122.8403099
+147,Fortuna,City,Humboldt,california,40.5981867,-124.1572756
+148,Foster City,City,San Mateo,california,37.5585465,-122.2710788
+149,Fountain Valley,City,Orange,california,33.7090212,-117.9544069
+150,Fowler,City,Fresno,california,36.6305058,-119.6784697
+151,Fremont,City,Alameda,california,37.5482697,-121.9885719
+152,Fresno,City,Fresno,california,36.7377981,-119.7871247
+153,Fullerton,City,Orange,california,33.8703645,-117.9242123
+154,Galt,City,Sacramento,california,38.2546373,-121.2999485
+155,Garden Grove,City,Orange,california,33.7742692,-117.9379952
+156,Gardena,City,Los Angeles,california,33.8883487,-118.3089624
+157,Gilroy,City,Santa Clara,california,37.0057816,-121.5682751
+158,Glendale,City,Los Angeles,california,34.1425078,-118.255075
+159,Glendora,City,Los Angeles,california,34.1361187,-117.865339
+160,Goleta,City,Santa Barbara,california,34.4358294,-119.8276389
+161,Gonzales,City,Monterey,california,36.5066295,-121.4443806
+162,Grand Terrace,City,San Bernardino,california,34.0339031,-117.3136544
+163,Grass Valley,City,Nevada,california,39.2190608,-121.0610606
+164,Greenfield,City,Monterey,california,36.3207998,-121.2438138
+165,Gridley,City,Butte,california,39.3637773,-121.6935833
+166,Grover Beach,City,San Luis Obispo,california,35.1216424,-120.6212821
+167,Guadalupe,City,Santa Barbara,california,34.971644,-120.5718363
+168,Gustine,City,Merced,california,37.2577171,-120.9988154
+169,Half Moon Bay,City,San Mateo,california,37.4635519,-122.4285862
+170,Hanford,City,Kings,california,36.3274502,-119.6456844
+171,Hawaiian Gardens,City,Los Angeles,california,33.8314045,-118.0728424
+172,Hawthorne,City,Los Angeles,california,33.9164032,-118.3525748
+173,Hayward,City,Alameda,california,37.6688205,-122.0807964
+174,Healdsburg,City,Sonoma,california,38.6104658,-122.8691609
+175,Hemet,City,Riverside,california,33.7475203,-116.9719684
+176,Hercules,City,Contra Costa,california,38.0171441,-122.2885808
+177,Hermosa Beach,City,Los Angeles,california,33.8622366,-118.3995194
+178,Hesperia,City,San Bernardino,california,34.4263886,-117.3008784
+179,Hidden Hills,City,Los Angeles,california,34.16028319999999,-118.6523096
+180,Highland,City,San Bernardino,california,34.1283442,-117.2086513
+181,Hillsborough,Town,San Mateo,california,37.5741032,-122.3794163
+182,Hollister,City,San Benito,california,36.8524545,-121.4016021
+183,Holtville,City,Imperial,california,32.8111612,-115.3802643
+184,Hughson,City,Stanislaus,california,37.6027244,-120.8664811
+185,Huntington Beach,City,Orange,california,33.6594835,-117.9988026
+186,Huntington Park,City,Los Angeles,california,33.9816812,-118.2250725
+187,Huron,City,Fresno,california,36.2027308,-120.1029177
+188,Imperial,City,Imperial,california,32.8475528,-115.5694391
+189,Imperial Beach,City,San Diego,california,32.5839444,-117.1130849
+190,Indian Wells,City,Riverside,california,33.717631,-116.3407549
+191,Indio,City,Riverside,california,33.7205771,-116.2155619
+192,Industry,City,Los Angeles,california,34.0197335,-117.9586754
+193,Inglewood,City,Los Angeles,california,33.9616801,-118.3531311
+194,Ione,City,Amador,california,38.3526912,-120.9327177
+195,Irvine,City,Orange,california,33.6845673,-117.8265049
+196,Irwindale,City,Los Angeles,california,34.1069527,-117.9353413
+197,Isleton,City,Sacramento,california,38.1618614,-121.6116206
+198,Jackson,City,Amador,california,38.3488023,-120.7741018
+199,Jurupa Valley,City,Riverside,california,33.9971974,-117.4854802
+200,Kerman,City,Fresno,california,36.72355719999999,-120.059879
+201,King City,City,Monterey,california,36.2127439,-121.1260287
+202,Kingsburg,City,Fresno,california,36.5138398,-119.5540175
+203,La CaÃ±ada Flintridge,City,Los Angeles,california,34.2068182,-118.2000277
+204,La Habra,City,Orange,california,33.9318591,-117.946137
+205,La Habra Heights,City,Los Angeles,california,33.9608461,-117.9506186
+206,La Mesa,City,San Diego,california,32.7678287,-117.0230839
+207,La Mirada,City,Los Angeles,california,33.9172357,-118.0120086
+208,La Palma,City,Orange,california,33.8463218,-118.0461393
+209,La Puente,City,Los Angeles,california,34.0200114,-117.9495083
+210,La Quinta,City,Riverside,california,33.6633573,-116.3100095
+211,La Verne,City,Los Angeles,california,34.1008426,-117.7678355
+212,Lafayette,City,Contra Costa,california,37.8857582,-122.1180201
+213,Laguna Beach,City,Orange,california,33.5427189,-117.7853568
+214,Laguna Hills,City,Orange,california,33.5916433,-117.6986604
+215,Laguna Niguel,City,Orange,california,33.5236744,-117.7149438
+216,Laguna Woods,City,Orange,california,33.6101702,-117.7251162
+217,Lake Elsinore,City,Riverside,california,33.6680772,-117.3272615
+218,Lake Forest,City,Orange,california,33.6469437,-117.6861023
+219,Lakeport,City,Lake,california,39.0429506,-122.9158293
+220,Lakewood,City,Los Angeles,california,33.8536269,-118.1339563
+221,Lancaster,City,Los Angeles,california,34.6867846,-118.1541632
+222,Larkspur,City,Marin,california,37.9340915,-122.5352539
+223,Lathrop,City,San Joaquin,california,37.8227046,-121.27661
+224,Lawndale,City,Los Angeles,california,33.887237,-118.3525744
+225,Lemon Grove,City,San Diego,california,32.7425516,-117.0314172
+226,Lemoore,City,Kings,california,36.3007835,-119.7829107
+227,Lincoln,City,Placer,california,38.891565,-121.2930079
+228,Lindsay,City,Tulare,california,36.2030064,-119.08816
+229,Live Oak,City,Sutter,california,39.2757232,-121.6599701
+230,Livermore,City,Alameda,california,37.6818745,-121.7680088
+231,Livingston,City,Merced,california,37.3868826,-120.7235329
+232,Lodi,City,San Joaquin,california,38.1341477,-121.2722194
+233,Loma Linda,City,San Bernardino,california,34.0483474,-117.2611527
+234,Lomita,City,Los Angeles,california,33.7922392,-118.3150722
+235,Lompoc,City,Santa Barbara,california,34.6391501,-120.4579409
+236,Long Beach,City,Los Angeles,california,33.7700504,-118.1937395
+237,Loomis,Town,Placer,california,38.8212889,-121.1930041
+238,Los Alamitos,City,Orange,california,33.8032009,-118.0718894
+239,Los Altos,City,Santa Clara,california,37.3852183,-122.1141298
+240,Los Altos Hills,Town,Santa Clara,california,37.3796627,-122.1374637
+241,Los Angeles,City,Los Angeles,california,34.0522342,-118.2436849
+242,Los Banos,City,Merced,california,37.0582786,-120.8499151
+243,Los Gatos,Town,Santa Clara,california,37.2358078,-121.9623751
+244,Loyalton,City,Sierra,california,39.67629360000001,-120.2410385
+245,Lynwood,City,Los Angeles,california,33.930293,-118.2114603
+246,Madera,City,Madera,california,36.9613356,-120.0607176
+247,Malibu,City,Los Angeles,california,34.0259216,-118.7797571
+248,Mammoth Lakes,Town,Mono,california,37.648546,-118.972079
+249,Manhattan Beach,City,Los Angeles,california,33.8847361,-118.4109089
+250,Manteca,City,San Joaquin,california,37.7974273,-121.2160526
+251,Maricopa,City,Kern,california,35.058858,-119.4009509
+252,Marina,City,Monterey,california,36.68440289999999,-121.802173
+253,Martinez,City,Contra Costa,california,38.0193657,-122.1341321
+254,Marysville,City,Yuba,california,39.1457253,-121.5913547
+255,Maywood,City,Los Angeles,california,33.9866807,-118.185349
+256,McFarland,City,Kern,california,35.6780104,-119.2292748
+257,Mendota,City,Fresno,california,36.7535611,-120.3815574
+258,Menifee,City,Riverside,california,33.6971468,-117.185294
+259,Menlo Park,City,San Mateo,california,37.4529598,-122.1817252
+260,Merced,City,Merced,california,37.3021632,-120.4829677
+261,Mill Valley,City,Marin,california,37.9060368,-122.5449763
+262,Millbrae,City,San Mateo,california,37.5985468,-122.3871942
+263,Milpitas,City,Santa Clara,california,37.4323341,-121.8995741
+264,Mission Viejo,City,Orange,california,33.5968913,-117.6581562
+265,Modesto,City,Stanislaus,california,37.63909719999999,-120.9968782
+266,Monrovia,City,Los Angeles,california,34.1442616,-118.0019482
+267,Montague,City,Siskiyou,california,41.7281985,-122.5278007
+268,Montclair,City,San Bernardino,california,34.0775104,-117.6897776
+269,Monte Sereno,City,Santa Clara,california,37.23633299999999,-121.992458
+270,Montebello,City,Los Angeles,california,34.0165053,-118.1137535
+271,Monterey,City,Monterey,california,36.6002378,-121.8946761
+272,Monterey Park,City,Los Angeles,california,34.0625106,-118.1228476
+273,Moorpark,City,Ventura,california,34.285558,-118.8820414
+274,Moraga,Town,Contra Costa,california,37.8349263,-122.1296871
+275,Moreno Valley,City,Riverside,california,33.9424658,-117.2296717
+276,Morgan Hill,City,Santa Clara,california,37.1305012,-121.6543901
+277,Morro Bay,City,San Luis Obispo,california,35.3659445,-120.8499924
+278,Mount Shasta,City,Siskiyou,california,41.3098746,-122.3105666
+279,Mountain View,City,Santa Clara,california,37.3860517,-122.0838511
+280,Murrieta,City,Riverside,california,33.5539143,-117.2139232
+281,Napa,City,Napa,california,38.2975381,-122.286865
+282,National City,City,San Diego,california,32.6781085,-117.0991967
+283,Needles,City,San Bernardino,california,34.8480597,-114.6141315
+284,Nevada City,City,Nevada,california,39.2615606,-121.0160594
+285,Newark,City,Alameda,california,37.5296593,-122.0402399
+286,Newman,City,Stanislaus,california,37.3138267,-121.0207614
+287,Newport Beach,City,Orange,california,33.6188829,-117.9298493
+288,Norco,City,Riverside,california,33.9311257,-117.548661
+289,Norwalk,City,Los Angeles,california,33.9022367,-118.081733
+290,Novato,City,Marin,california,38.1074198,-122.5697032
+291,Oakdale,City,Stanislaus,california,37.7665947,-120.8471545
+292,Oakland,City,Alameda,california,37.8043637,-122.2711137
+293,Oakley,City,Contra Costa,california,37.9974219,-121.7124536
+294,Oceanside,City,San Diego,california,33.1958696,-117.3794834
+295,Ojai,City,Ventura,california,34.4480495,-119.242889
+296,Ontario,City,San Bernardino,california,34.0633443,-117.6508876
+297,Orange,City,Orange,california,33.7879139,-117.8531007
+298,Orange Cove,City,Fresno,california,36.624394,-119.3137301
+299,Orinda,City,Contra Costa,california,37.8771476,-122.1796888
+300,Orland,City,Glenn,california,39.7473803,-122.1963748
+301,Oroville,City,Butte,california,39.5137752,-121.556359
+302,Oxnard,City,Ventura,california,34.1975048,-119.1770516
+303,Pacific Grove,City,Monterey,california,36.6177374,-121.9166215
+304,Pacifica,City,San Mateo,california,37.6138253,-122.4869194
+305,Palm Desert,City,Riverside,california,33.7222445,-116.3744556
+306,Palm Springs,City,Riverside,california,33.8302961,-116.5452921
+307,Palmdale,City,Los Angeles,california,34.5794343,-118.1164613
+308,Palo Alto,City,Santa Clara,california,37.4418834,-122.1430195
+309,Palos Verdes Estates,City,Los Angeles,california,33.8005714,-118.3900737
+310,Paradise,Town,Butte,california,39.7596061,-121.6219177
+311,Paramount,City,Los Angeles,california,33.8894598,-118.1597911
+312,Parlier,City,Fresno,california,36.6116174,-119.5270734
+313,Pasadena,City,Los Angeles,california,34.1477849,-118.1445155
+314,Paso Robles,City,San Luis Obispo,california,35.6368759,-120.6545022
+315,Patterson,City,Stanislaus,california,37.4716001,-121.129656
+316,Perris,City,Riverside,california,33.7825194,-117.2286478
+317,Petaluma,City,Sonoma,california,38.232417,-122.6366524
+318,Pico Rivera,City,Los Angeles,california,33.9830688,-118.096735
+319,Piedmont,City,Alameda,california,37.8243715,-122.231635
+320,Pinole,City,Contra Costa,california,38.0043667,-122.2988587
+321,Pismo Beach,City,San Luis Obispo,california,35.1427533,-120.6412827
+322,Pittsburg,City,Contra Costa,california,38.0279762,-121.8846806
+323,Placentia,City,Orange,california,33.8710729,-117.8627548
+324,Placerville,City,El Dorado,california,38.7296252,-120.798546
+325,Pleasant Hill,City,Contra Costa,california,37.9479786,-122.0607963
+326,Pleasanton,City,Alameda,california,37.6624312,-121.8746789
+327,Plymouth,City,Amador,california,38.4818531,-120.844659
+328,Point Arena,City,Mendocino,california,38.908798,-123.6930726
+329,Pomona,City,Los Angeles,california,34.055103,-117.7499909
+330,Port Hueneme,City,Ventura,california,34.1477829,-119.1951074
+331,Porterville,City,Tulare,california,36.06523,-119.0167679
+332,Portola,City,Plumas,california,39.8104567,-120.4691034
+333,Portola Valley,Town,San Mateo,california,37.3841066,-122.2352443
+334,Poway,City,San Diego,california,32.9628232,-117.0358646
+335,Rancho Cordova,City,Sacramento,california,38.5890723,-121.302728
+336,Rancho Cucamonga,City,San Bernardino,california,34.10639889999999,-117.5931084
+337,Rancho Mirage,City,Riverside,california,33.739744,-116.41279
+338,Rancho Palos Verdes,City,Los Angeles,california,33.7444613,-118.3870173
+339,Rancho Santa Margarita,City,Orange,california,33.640171,-117.602832
+340,Red Bluff,City,Tehama,california,40.1784886,-122.2358302
+341,Redding,City,Shasta,california,40.5865396,-122.3916754
+342,Redlands,City,San Bernardino,california,34.0555693,-117.1825381
+343,Redondo Beach,City,Los Angeles,california,33.8491816,-118.3884078
+344,Redwood City,City,San Mateo,california,37.48521520000001,-122.2363548
+345,Reedley,City,Fresno,california,36.5963395,-119.4504029
+346,Rialto,City,San Bernardino,california,34.1064001,-117.3703235
+347,Richmond,City,Contra Costa,california,37.9357576,-122.3477486
+348,Ridgecrest,City,Kern,california,35.6224561,-117.6708966
+349,Rio Dell,City,Humboldt,california,40.4993013,-124.1064369
+350,Rio Vista,City,Solano,california,38.1557502,-121.6913439
+351,Ripon,City,San Joaquin,california,37.7394537,-121.1354141
+352,Riverbank,City,Stanislaus,california,37.7360396,-120.9354895
+353,Riverside,City,Riverside,california,33.9806005,-117.3754942
+354,Rocklin,City,Placer,california,38.7907339,-121.2357828
+355,Rohnert Park,City,Sonoma,california,38.3396367,-122.7010984
+356,Rolling Hills,City,Los Angeles,california,33.7569615,-118.3539613
+357,Rolling Hills Estates,City,Los Angeles,california,33.7877943,-118.3581284
+358,Rosemead,City,Los Angeles,california,34.0805651,-118.072846
+359,Roseville,City,Placer,california,38.7521235,-121.2880059
+360,Ross,Town,Marin,california,37.9624239,-122.5549775
+361,Sacramento,City,Sacramento,california,38.5815719,-121.4943996
+362,St. Helena,City,Napa,california,38.5052429,-122.4703868
+363,Salinas,City,Monterey,california,36.6777372,-121.6555013
+364,San Anselmo,Town,Marin,california,37.9746458,-122.5616448
+365,San Bernardino,City,San Bernardino,california,34.1083449,-117.2897652
+366,San Bruno,City,San Mateo,california,37.6304904,-122.4110835
+367,San Carlos,City,San Mateo,california,37.5071591,-122.2605222
+368,San Clemente,City,Orange,california,33.4273521,-117.6126004
+369,San Diego,City,San Diego,california,32.715738,-117.1610838
+370,San Dimas,City,Los Angeles,california,34.1066756,-117.8067257
+371,San Fernando,City,Los Angeles,california,34.2819461,-118.4389719
+372,San Francisco,City and county,San Francisco,california,37.7749295,-122.4194155
+373,San Gabriel,City,Los Angeles,california,34.09611110000001,-118.1058333
+374,San Jacinto,City,Riverside,california,33.7839084,-116.958635
+375,San Joaquin,City,Fresno,california,36.6066162,-120.1890447
+376,San Jose,City,Santa Clara,california,37.3382082,-121.8863286
+377,San Juan Bautista,City,San Benito,california,36.8455108,-121.5379974
+378,San Juan Capistrano,City,Orange,california,33.5019027,-117.6627655
+379,San Leandro,City,Alameda,california,37.7249296,-122.1560768
+380,San Luis Obispo,City,San Luis Obispo,california,35.2827524,-120.6596156
+381,San Marcos,City,San Diego,california,33.1433723,-117.1661449
+382,San Marino,City,Los Angeles,california,34.121397,-118.1064585
+383,San Mateo,City,San Mateo,california,37.5629917,-122.3255254
+384,San Pablo,City,Contra Costa,california,37.9621457,-122.3455263
+385,San Rafael,City,Marin,california,37.9735346,-122.5310874
+386,San Ramon,City,Contra Costa,california,37.7799273,-121.9780153
+387,Sand City,City,Monterey,california,36.6171819,-121.8482855
+388,Sanger,City,Fresno,california,36.708006,-119.5559652
+389,Santa Ana,City,Orange,california,33.7454725,-117.867653
+390,Santa Barbara,City,Santa Barbara,california,34.4208305,-119.6981901
+391,Santa Clara,City,Santa Clara,california,37.3541079,-121.9552356
+392,Santa Clarita,City,Los Angeles,california,34.3916641,-118.542586
+393,Santa Cruz,City,Santa Cruz,california,36.9741171,-122.0307963
+394,Santa Fe Springs,City,Los Angeles,california,33.9472359,-118.0853451
+395,Santa Maria,City,Santa Barbara,california,34.9530337,-120.4357191
+396,Santa Monica,City,Los Angeles,california,34.0194543,-118.4911912
+397,Santa Paula,City,Ventura,california,34.3541659,-119.0592705
+398,Santa Rosa,City,Sonoma,california,38.440429,-122.7140548
+399,Santee,City,San Diego,california,32.8383828,-116.9739167
+400,Saratoga,City,Santa Clara,california,37.2638324,-122.0230146
+401,Sausalito,City,Marin,california,37.8590937,-122.4852507
+402,Scotts Valley,City,Santa Cruz,california,37.0510595,-122.0146841
+403,Seal Beach,City,Orange,california,33.7414085,-118.1047682
+404,Seaside,City,Monterey,california,36.6149217,-121.822098
+405,Sebastopol,City,Sonoma,california,38.4021359,-122.8238806
+406,Selma,City,Fresno,california,36.5707838,-119.6120765
+407,Shafter,City,Kern,california,35.5005139,-119.2717761
+408,Shasta Lake,City,Shasta,california,40.6804279,-122.3708419
+409,Sierra Madre,City,Los Angeles,california,34.1616729,-118.0528456
+410,Signal Hill,City,Los Angeles,california,33.8044614,-118.1678456
+411,Simi Valley,City,Ventura,california,34.2694474,-118.781482
+412,Solana Beach,City,San Diego,california,32.991155,-117.2711481
+413,Soledad,City,Monterey,california,36.424687,-121.3263187
+414,Solvang,City,Santa Barbara,california,34.5958201,-120.1376481
+415,Sonoma,City,Sonoma,california,38.291859,-122.4580356
+416,Sonora,City,Tuolumne,california,37.9829496,-120.3821724
+417,South El Monte,City,Los Angeles,california,34.0519548,-118.0467339
+418,South Gate,City,Los Angeles,california,33.954737,-118.2120161
+419,South Lake Tahoe,City,El Dorado,california,38.939926,-119.9771868
+420,South Pasadena,City,Los Angeles,california,34.1161196,-118.1503488
+421,South San Francisco,City,San Mateo,california,37.654656,-122.4077498
+422,Stanton,City,Orange,california,33.8028875,-117.9931203
+423,Stockton,City,San Joaquin,california,37.9577016,-121.2907796
+424,Suisun City,City,Solano,california,38.2382474,-122.040244
+425,Sunnyvale,City,Santa Clara,california,37.36883,-122.0363496
+426,Susanville,City,Lassen,california,40.4162842,-120.6530063
+427,Sutter Creek,City,Amador,california,38.3929675,-120.8024357
+428,Taft,City,Kern,california,35.1424671,-119.4565078
+429,Tehachapi,City,Kern,california,35.1321877,-118.4489739
+430,Tehama,City,Tehama,california,40.0271015,-122.1233228
+431,Temecula,City,Riverside,california,33.4936391,-117.1483648
+432,Temple City,City,Los Angeles,california,34.1072305,-118.0578456
+433,Thousand Oaks,City,Ventura,california,34.1705609,-118.8375937
+434,Tiburon,Town,Marin,california,37.8735377,-122.4566392
+435,Torrance,City,Los Angeles,california,33.8358492,-118.3406288
+436,Tracy,City,San Joaquin,california,37.7396513,-121.4252227
+437,Trinidad,City,Humboldt,california,41.05929099999999,-124.1431246
+438,Truckee,Town,Nevada,california,39.327962,-120.1832533
+439,Tulare,City,Tulare,california,36.2077288,-119.3473379
+440,Tulelake,City,Siskiyou,california,41.9559884,-121.4774916
+441,Turlock,City,Stanislaus,california,37.4946568,-120.8465941
+442,Tustin,City,Orange,california,33.7420005,-117.8236391
+443,Twentynine Palms,City,San Bernardino,california,34.1355582,-116.0541689
+444,Ukiah,City,Mendocino,california,39.1501709,-123.2077831
+445,Union City,City,Alameda,california,37.5933918,-122.0438298
+446,Upland,City,San Bernardino,california,34.09751,-117.6483876
+447,Vacaville,City,Solano,california,38.3565773,-121.9877444
+448,Vallejo,City,Solano,california,38.1040864,-122.2566367
+449,Ventura,City,Ventura,california,34.2804923,-119.2945199
+450,Vernon,City,Los Angeles,california,34.003903,-118.230073
+451,Victorville,City,San Bernardino,california,34.5362184,-117.2927641
+452,Villa Park,City,Orange,california,33.81400620000001,-117.8220723
+453,Visalia,City,Tulare,california,36.3302284,-119.2920585
+454,Vista,City,San Diego,california,33.2000368,-117.2425355
+455,Walnut,City,Los Angeles,california,34.0202894,-117.8653386
+456,Walnut Creek,City,Contra Costa,california,37.9100783,-122.0651819
+457,Wasco,City,Kern,california,35.5941238,-119.3409457
+458,Waterford,City,Stanislaus,california,37.6413202,-120.7604834
+459,Watsonville,City,Santa Cruz,california,36.910231,-121.7568946
+460,Weed,City,Siskiyou,california,41.42264979999999,-122.3861269
+461,West Covina,City,Los Angeles,california,34.0686208,-117.9389526
+462,West Hollywood,City,Los Angeles,california,34.0900091,-118.3617443
+463,West Sacramento,City,Yolo,california,38.5804609,-121.530234
+464,Westlake Village,City,Los Angeles,california,34.1466467,-118.8073729
+465,Westminster,City,Orange,california,33.7591757,-117.9897058
+466,Westmorland,City,Imperial,california,33.0372674,-115.6213817
+467,Wheatland,City,Yuba,california,39.0098946,-121.4230133
+468,Whittier,City,Los Angeles,california,33.9791793,-118.032844
+469,Wildomar,City,Riverside,california,33.5989126,-117.2800372
+470,Williams,City,Colusa,california,39.1546137,-122.1494187
+471,Willits,City,Mendocino,california,39.4096079,-123.3555656
+472,Willows,City,Glenn,california,39.5243265,-122.1935931
+473,Windsor,Town,Sonoma,california,38.5471327,-122.8163802
+474,Winters,City,Yolo,california,38.5249065,-121.9708017
+475,Woodlake,City,Tulare,california,36.4135605,-119.0987176
+476,Woodland,City,Yolo,california,38.67851570000001,-121.7732971
+477,Woodside,Town,San Mateo,california,37.4299388,-122.2538557
+478,Yorba Linda,City,Orange,california,33.88850350000001,-117.8132571
+479,Yountville,Town,Napa,california,38.40157809999999,-122.3608105
+480,Yreka,City,Siskiyou,california,41.7354186,-122.6344709
+481,Yuba City,City,Sutter,california,39.1404477,-121.6169108
+482,Yucaipa,City,San Bernardino,california,34.033625,-117.0430865
+483,Yucca Valley,Town,San Bernardino,california,34.1141743,-116.432235

@@ -1,27 +1,66 @@
+<!-- <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-        <style>body{ margin:0 100; background:whitesmoke; }</style>
-        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    </head>
-    <body>
-        <h1 style="text-align: center">Leveraging Google Maps API, Breezometer, and Plotly</h1>
-
-        <!-- *** Section 1 *** --->
-        <h2 style="text-align: center">Real Time AQI for Every City in the World!</h2>
-        <form method="POST" style="text-align: center">
-                <input name="text">
-                <input type="submit">
-            </form>
-
-<div class="container" style="text-align:center">
-    <div class="row">
-      <div class="col-sm-12" style="width:1000px; height: 550px;">
-        {{plot_html | safe}}
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+    
+    <link rel='stylesheet' href='../static/style2.css'>
+  </head>
+  <body>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:600" rel="stylesheet">
+    <main>
+    <canvas class="fireworks"></canvas>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js"></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+      <div class="button">
+        <a class="text" href="/home">Weather Generator</a>
       </div>
-    </div>
-  </div>
+      <div class="progress-bar"></div>
+      <svg x="0px" y="0px"
+       viewBox="0 0 25 30" style="enable-background:new 0 0 25 30;">
+        <path class="check" class="st0" d="M2,19.2C5.9,23.6,9.4,28,9.4,28L23,2"/>
+        <script>
+          setTimeout(function () {
+            window.location.href= '/home';
+            },6500); 
+        </script>
+      </svg>
+    </main>
+    <script type='text/javascript' src='../static/anime.js'></script>
+  </body>
+</html> -->
 
-
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>   
+<!DOCTYPE html>
 <html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+    
+    <link rel='stylesheet' href='../static/styles/style2.css'>
+  </head>
+  <body>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:600" rel="stylesheet">
+    <main>
+    <canvas class="fireworks"></canvas>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js"></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+        <form method="POST">
+      <div class="button">
+        <div class="text">Weather Generator</div>
+      </div>
+      </form>
+      <div class="progress-bar"></div>
+      <svg x="0px" y="0px"
+       viewBox="0 0 25 30" style="enable-background:new 0 0 25 30;">
+        <path class="check" class="st0" d="M2,19.2C5.9,23.6,9.4,28,9.4,28L23,2"/>
+        <!-- <a href='/home' value='call_flask_function'></a> -->
+        <script>
+          setTimeout(function () {
+            window.location.href= '/home';
+            },6500); 
+        </script>
+      </svg>
+    </main>
+    <script type='text/javascript' src='../static/anime.js'></script>
+  </body>
+</html>
