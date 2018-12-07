@@ -110,7 +110,6 @@ PySAL==1.14.4.post2
 pyshp==1.2.12
 PySocks==1.6.8
 python-dateutil==2.7.3
-python==3.7.0
 pytz==2018.5
 pywin32==223
 pywinpty==0.5.4
