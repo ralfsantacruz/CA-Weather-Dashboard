@@ -1,0 +1,6 @@
+owm_api_key = "&APPID=627fe73e331005c5c18a30f6005cf3f7"
+pyowm_api_key = "25bc90a1196e6f153eece0bc0b0fc9eb"
+b_api_key = "f86a8ee63a1047c48e05b487aa106c1e"
+g_api_key = "AIzaSyAZYxv0wjHKxZ1ZsInapq5mOkp8VUUH7pQ"
+plotly_api_key = "m43Oz35O5mKYCxDDJoDq"
+mapbox_api_key = "pk.eyJ1IjoicmFsZnNhbnRhY3J1eiIsImEiOiJjam9icmR5b2UwZW5sM2tvNDEzMWxzaWFxIn0.gwriwQwu8Ss3mn_UNMloEg"
