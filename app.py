@@ -23,7 +23,7 @@ import pandas as pd
 engine = create_engine(os.environ['DATABASE_URL'])
 
 
-menu_items = menu_items()
+
 
 app = Flask(__name__)
 
@@ -37,9 +37,11 @@ def intro():
 
 @app.route("/home",methods=['GET', 'POST'])
 def default_weather():
-
+    menu_item = menu_items()
     # Query for latest data.
+
     query = '''select * from california_weather where date_scraped = '{}';'''.format(menu_items[0])
+
     df = pd.read_sql_query(query, engine)
 
     # Convert 24 hour time to 12 hour for display.
@@ -48,14 +50,15 @@ def default_weather():
     # Use returned dataframe to create scatter map
     map_html = Markup(generate_scattermap(df))
 
-    return render_template("weather.html",map_html=map_html,date_shown=date_shown,menu_items=menu_items,pst=pst_to_12hr)
+    return render_template("weather.html",map_html=map_html,date_shown=date_shown,menu_items=menu_item,pst=pst_to_12hr)
 
 
 @app.route('/<date>')
 def updated_weather(date):
+    menu_item = menu_items()
     # Get form data as SQL query
-    date = pd.to_datetime(date)
     query='''select * from california_weather where date_scraped = '{}';'''.format(date)
+
 
     # Plug into pandas to return data for query.
     df = pd.read_sql_query(query, engine)
@@ -63,7 +66,7 @@ def updated_weather(date):
     map_html = Markup(generate_scattermap(df))
 
 
-    return render_template("weather.html",map_html=map_html,date_shown=date_shown,menu_items=menu_items,pst=pst_to_12hr)
+    return render_template("weather.html",map_html=map_html,date_shown=date_shown,menu_items=menu_item,pst=pst_to_12hr)
 
     
 if __name__ == "__main__":
