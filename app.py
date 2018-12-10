@@ -19,7 +19,7 @@ import pandas as pd
 
 # Create connection to Postgres
 # engine = create_engine("postgresql://postgres:password@localhost/weather_data")
-# engine = create_engine("postgres://nrggpkzhnbnmvn:3d3041056aa509c4ec3a89b39b27e20fe3016416e1b5040a2c0f3e9d4903bb3f@ec2-54-197-234-33.compute-1.amazonaws.com:5432/ddbkpb34882qas")
+
 engine = os.environ['DATABASE_URL']
 
 
@@ -39,7 +39,7 @@ def intro():
 def default_weather():
 
     # Query for latest data.
-    query = f'''select * from california_weather where date_scraped = '{menu_items[0]}';'''
+    query = '''select * from california_weather where date_scraped = '{}';'''.format(menu_items[0])
     df = pd.read_sql_query(query, engine)
 
     # Convert 24 hour time to 12 hour for display.
@@ -54,7 +54,7 @@ def default_weather():
 @app.route('/<date>')
 def updated_weather(date):
     # Get form data as SQL query
-    query=f'''select * from california_weather where date_scraped = '{date}';'''
+    query='''select * from california_weather where date_scraped = '{}';'''.format(date)
 
     # Plug into pandas to return data for query.
     df = pd.read_sql_query(query, engine)
