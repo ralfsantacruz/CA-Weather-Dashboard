@@ -17,7 +17,8 @@ import pandas as pd
 # engine = create_engine("mysql://root:password@localhost/weather_data")
 
 # Create connection to Postgres
-engine = create_engine("postgresql://postgres:password@localhost/weather_data")
+# engine = create_engine("postgresql://postgres:password@localhost/weather_data")
+engine = create_engine("postgres://nrggpkzhnbnmvn:3d3041056aa509c4ec3a89b39b27e20fe3016416e1b5040a2c0f3e9d4903bb3f@ec2-54-197-234-33.compute-1.amazonaws.com:5432/ddbkpb34882qas")
 
 
 menu_items = menu_items()
