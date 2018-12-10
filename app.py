@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, Markup
 from graph_gen import generate_plot
 from map_gen import generate_scattermap, utc_to_pst
 from ETL import menu_items
+import os 
 
 from datetime import datetime
 from pytz import timezone
@@ -18,7 +19,8 @@ import pandas as pd
 
 # Create connection to Postgres
 # engine = create_engine("postgresql://postgres:password@localhost/weather_data")
-engine = create_engine("postgres://nrggpkzhnbnmvn:3d3041056aa509c4ec3a89b39b27e20fe3016416e1b5040a2c0f3e9d4903bb3f@ec2-54-197-234-33.compute-1.amazonaws.com:5432/ddbkpb34882qas")
+# engine = create_engine("postgres://nrggpkzhnbnmvn:3d3041056aa509c4ec3a89b39b27e20fe3016416e1b5040a2c0f3e9d4903bb3f@ec2-54-197-234-33.compute-1.amazonaws.com:5432/ddbkpb34882qas")
+engine = os.environ['DATABASE_URL']
 
 
 menu_items = menu_items()
