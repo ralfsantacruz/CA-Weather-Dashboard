@@ -20,7 +20,7 @@ import pandas as pd
 # Create connection to Postgres
 # engine = create_engine("postgresql://postgres:password@localhost/weather_data")
 
-engine = os.environ['DATABASE_URL']
+engine = create_engine(os.environ['DATABASE_URL'])
 
 
 menu_items = menu_items()
@@ -54,6 +54,7 @@ def default_weather():
 @app.route('/<date>')
 def updated_weather(date):
     # Get form data as SQL query
+    date = pd.to_datetime(date)
     query='''select * from california_weather where date_scraped = '{}';'''.format(date)
 
     # Plug into pandas to return data for query.

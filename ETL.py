@@ -7,6 +7,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy import types
 from sqlalchemy.sql import text
+import os
 
 from graph_gen import pollution_epa
 from config import pyowm_api_key
@@ -24,7 +25,7 @@ from timefunc import utc_to_pst_24
 # engine = create_engine("mysql://root:password@localhost/weather_data")
 
 # engine = create_engine("postgresql://postgres:password@localhost/weather_data")
-engine=create_engine("postgres://nrggpkzhnbnmvn:3d3041056aa509c4ec3a89b39b27e20fe3016416e1b5040a2c0f3e9d4903bb3f@ec2-54-197-234-33.compute-1.amazonaws.com:5432/ddbkpb34882qas")
+engine=create_engine(os.environ['DATABASE_URL'])
 
 
 # ### Consolidating scraping functions to update weather values:
