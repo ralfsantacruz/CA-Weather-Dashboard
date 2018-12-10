@@ -174,7 +174,23 @@ def push_to_sql(df,table_name):
             con.execute(statement, **line)
             
             
-    print(f"{len(data)} rows inserted into {table_name}.")    
+    print(f"{len(data)} rows inserted into {table_name}.")
+
+def delete_oldest_rows(df,table_name):
+
+    oldest_date = df['date_scraped'].min()
+    
+    with engine.connect() as con:
+
+        test_statement= f'''
+        DELETE from {table_name}
+        WHERE date_scraped = '{oldest_date}';'''
+
+        con.execute(test_statement)
+            
+            
+    print(f"{len(df[(df['date_scraped']==oldest_date)])} rows deleted from {table_name}.")
+
 
 def menu_items():
 
@@ -197,9 +213,17 @@ def main():
     '''
     df = pd.read_sql_query(query, engine)
 
+    # Check if we are over 19 scrapes. Deletes oldest rows in database:
+    if len(set(df['date_scraped'])) > 19:
+        delete_oldest_rows(df,'california_weather')
+
+    # Fetch most recent data.
+
     recent_data = update_df(df)
     #Save a backup in case anything went wrong.
     recent_data.to_csv('weather_update.csv', index=False)
+
+    # Push to SQL to update.
     push_to_sql(recent_data,'california_weather')
 
 if __name__ == "__main__":
