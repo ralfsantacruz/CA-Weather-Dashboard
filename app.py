@@ -13,8 +13,13 @@ from sqlalchemy import create_engine
 
 import pandas as pd
 
-# Create connection to SQL
-engine = create_engine("mysql://root:password@localhost/weather_data")
+# Create connection to SQL loally
+# engine = create_engine("mysql://root:password@localhost/weather_data")
+
+# Create connection to Postgres
+engine = create_engine("postgresql://postgres:password@localhost/weather_data")
+
+
 menu_items = menu_items()
 
 app = Flask(__name__)
