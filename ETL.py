@@ -21,7 +21,8 @@ from timefunc import utc_to_pst_24
 
 
 # Establish connection to SQL
-engine = create_engine("mysql://root:password@localhost/weather_data")
+# engine = create_engine("mysql://root:password@localhost/weather_data")
+engine = create_engine("postgresql://postgres:password@localhost/weather_data")
 
 
 # ### Consolidating scraping functions to update weather values:
@@ -211,8 +212,10 @@ def main():
     df = pd.read_sql_query(query, engine)
 
     # Check if we are over 19 scrapes. Deletes oldest rows in database:
-    if len(set(df['date_scraped'])) > 19:
-        delete_oldest_rows(df,'california_weather')
+    if len(menu_items()) > 19:
+        query2 = '''select * from california_weather'''
+        df2=pd.read_sql_query(query2,engine)
+        delete_oldest_rows(df2,'california_weather')
 
     # Fetch most recent data.
 
