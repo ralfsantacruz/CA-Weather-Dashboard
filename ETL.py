@@ -217,14 +217,14 @@ def main():
 
     df = pd.read_sql_query(query, engine)
 
-    # Check if we are over 19 scrapes. Deletes oldest rows in database:
-
+    # Check if we are over 19 scrapes. 19 scrapes puts us at 9,158 rows. Need to stay within 10k. Deletes oldest rows in database:
     dates = menu_items()
     if len(dates) > 19:
         delete_oldest_rows(dates[-1],'california_weather')
 
     # Fetch most recent data.
     recent_data = update_df(df)
+
     #Save a backup in case anything went wrong.
     recent_data.to_csv('weather_update.csv', index=False)
 
