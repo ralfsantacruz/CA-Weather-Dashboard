@@ -40,7 +40,7 @@ def default_weather():
     menu_item = menu_items()
     # Query for latest data.
 
-    query = '''select * from california_weather where date_scraped = '{}';'''.format(menu_items[0])
+    query = '''select * from california_weather where date_scraped = '{}';'''.format(menu_item[0])
 
     df = pd.read_sql_query(query, engine)
 
