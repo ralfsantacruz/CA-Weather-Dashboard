@@ -25,8 +25,8 @@ from timefunc import utc_to_pst_24
 # Establish connection to SQL
 # engine = create_engine("mysql://root:password@localhost/weather_data")
 
-engine = create_engine("postgresql://postgres:password@localhost/weather_data")
-# engine= create_engine(os.environ['DATABASE_URL'])
+# engine = create_engine("postgresql://postgres:password@localhost/weather_data")
+engine= create_engine(os.environ['DATABASE_URL'])
 
 
 # ### Consolidating scraping functions to update weather values:
