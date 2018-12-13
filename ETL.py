@@ -135,10 +135,13 @@ def update_df(df):
     df['aqi'] = aqi
     df['category'] = category
     df['dominant_pollutant'] = dominant_pollutant
+    
+    # Drop any rows with NaN or NaT
+    df = df.dropna()
     # make column for date scraped, but time is converted to PST.
     df['date_scraped'] = [utc_to_pst_24(df['date'][0]) for i in range(len(df['date']))]
     
-    return df.dropna()
+    return df
 
 # In[5]:
 
