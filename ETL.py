@@ -13,6 +13,7 @@ from graph_gen import pollution_epa
 from config import pyowm_api_key
 
 import pandas as pd
+import numpy as np
 import pyowm
 import time
 
@@ -63,13 +64,13 @@ def get_weather_data(df):
             uvi = owm.uvindex_around_coords(lat, lng)
         except:
             print(f"Error adding data for {city}. Appending NaN for all OpenWeatherMap categories.")
-            temperature.append("NaN")
-            clouds.append("NaN")
-            pressure.append("NaN")
-            date.append("NaN")
-            wind.append("NaN")
-            uv_index.append("NaN")
-            rain.append("NaN")
+            temperature.append(np.nan)
+            clouds.append(np.nan)
+            pressure.append(np.nan)
+            date.append(np.nan)
+            wind.append(np.nan)
+            uv_index.append(np.nan)
+            rain.append(np.nan)
         else:
             weather_data = weather.get_weather()
             
@@ -105,9 +106,9 @@ def get_weather_data(df):
             
         except:
             print(f"Error adding data for {city}. Appending NaN for all Breezometer categories.")
-            aqi.append("NaN")
-            category.append("NaN")
-            dominant_pollutant.append("NaN")
+            aqi.append(np.nan)
+            category.append(np.nan)
+            dominant_pollutant.append(np.nan)
         
         # Sleep for 1.1 second. Limited to 60 API calls/min
         time.sleep(1.1)    
@@ -225,11 +226,13 @@ def main():
     # Fetch most recent data.
     recent_data = update_df(df)
 
-    #Save a backup in case anything went wrong.
-    recent_data.to_csv('weather_update.csv', index=False)
-
-    # Push to SQL to update.
-    push_to_sql(recent_data,'california_weather')
+    if recent_data.empty:
+        print("Server error on Openweather or Breezometer")
+    else:
+        #Save a backup in case anything went wrong.
+        recent_data.to_csv('weather_update.csv', index=False)
+        # Push to SQL to update.
+        push_to_sql(recent_data,'california_weather')
 
 if __name__ == "__main__":
     main()
