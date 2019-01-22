@@ -60,9 +60,9 @@ def check_col(df,col):
         size = df[col]/100
         colorscale='YlGnBu'
         
-    elif col == 'aqi':
-        string = "{}<br>Value: {}<br>{}<br>Dominant pollutant: {}<br>Date: {}"
-        size = df[col]/10
+    # elif col == 'aqi':
+    #     string = "{}<br>Value: {}<br>{}<br>Dominant pollutant: {}<br>Date: {}"
+    #     size = df[col]/10
         
     else:
         string = "{}<br>Value: {}mW/m\u00b2<br>Date: {}"
@@ -176,8 +176,8 @@ def menu_buttons(labels,conditions):
 def generate_scattermap(df):
     
     # lists for menu and for actual plotting.
-    menu_categories = ['UV Index', 'AQI', 'Temperature', 'Cloud', 'Pressure', 'Wind Speed', 'Rain']
-    plot_columns = ['uv_index', 'aqi','temperature', 'cloud','pressure', 'wind_speed', 'rain']
+    menu_categories = ['UV Index', 'Temperature', 'Cloud', 'Pressure', 'Wind Speed', 'Rain']
+    plot_columns = ['uv_index','temperature', 'cloud','pressure', 'wind_speed', 'rain']
 
     # Menu options for dropdown menu.
     conditions = make_conditions(menu_categories)

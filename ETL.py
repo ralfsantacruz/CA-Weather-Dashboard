@@ -47,9 +47,9 @@ def get_weather_data(df):
     wind = []
     uv_index = []
     
-    aqi = []
-    category = []
-    dominant_pollutant = []
+    # aqi = []
+    # category = []
+    # dominant_pollutant = []
     
     # Initialize connection to pyowm
     owm = pyowm.OWM(pyowm_api_key) 
@@ -91,29 +91,29 @@ def get_weather_data(df):
                 rain.extend([v for v in precip.values()])
         
         ## Make API calls to Breezometer for air quality data: ##
-        data = pollution_epa(lat,lng)
+        # data = pollution_epa(lat,lng)
         
-        try:
-            index = data['data']['indexes']['usa_epa']
+        # try:
+        #     index = data['data']['indexes']['usa_epa']
 
-            air_quality = index['aqi']
-            categories = index['category']
-            dom_pollutant = index['dominant_pollutant']
+        #     air_quality = index['aqi']
+        #     categories = index['category']
+        #     dom_pollutant = index['dominant_pollutant']
 
-            aqi.append(air_quality)
-            category.append(categories)
-            dominant_pollutant.append(dom_pollutant)
+        #     aqi.append(air_quality)
+        #     category.append(categories)
+        #     dominant_pollutant.append(dom_pollutant)
             
-        except:
-            print(f"Error adding data for {city}. Appending NaN for all Breezometer categories.")
-            aqi.append(np.nan)
-            category.append(np.nan)
-            dominant_pollutant.append(np.nan)
+        # except:
+        #     print(f"Error adding data for {city}. Appending NaN for all Breezometer categories.")
+        #     aqi.append(np.nan)
+        #     category.append(np.nan)
+        #     dominant_pollutant.append(np.nan)
         
         # Sleep for 1.1 second. Limited to 60 API calls/min
         time.sleep(1.1)    
         
-    return temperature,clouds,pressure,rain,date,wind,uv_index,aqi,category,dominant_pollutant
+    return temperature,clouds,pressure,rain,date,wind,uv_index
 
 
 # In[4]:
@@ -123,7 +123,8 @@ def update_df(df):
     
     '''Updates dataframe columns with new weather data.'''
     
-    temperature,clouds,pressure,rain,date,wind,uv_index,aqi,category,dominant_pollutant = get_weather_data(df)
+    # Deleted AQI due to expired API key. 1/22/19
+    temperature,clouds,pressure,rain,date,wind,uv_index = get_weather_data(df)
     
     df['temperature'] = temperature
     df['cloud'] = clouds
@@ -132,9 +133,9 @@ def update_df(df):
     df['date'] = pd.to_datetime(date)
     df['wind_speed'] = wind
     df['uv_index'] = uv_index
-    df['aqi'] = aqi
-    df['category'] = category
-    df['dominant_pollutant'] = dominant_pollutant
+    # df['aqi'] = aqi
+    # df['category'] = category
+    # df['dominant_pollutant'] = dominant_pollutant
     # make column for date scraped, but time is converted to PST.
     df['date_scraped'] = [utc_to_pst_24(df['date'][0]) for i in range(len(df['date']))]
     
@@ -189,9 +190,10 @@ def delete_oldest_rows(df,table_name):
         WHERE date_scraped = '{oldest_date}';'''
 
         con.execute(test_statement)
-            
-            
-    print(f"{len(df[(df['date_scraped']==oldest_date)])} rows deleted from {table_name}.")
+
+    num_rows = len(df[(df['date_scraped']==oldest_date)])        
+    
+    print(f"{num_rows} rows deleted from {table_name}.")
 
 
 def menu_items():
