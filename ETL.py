@@ -26,7 +26,7 @@ from timefunc import utc_to_pst_24
 # engine = create_engine("mysql://root:password@localhost/weather_data")
 
 # engine = create_engine("postgresql://postgres:password@localhost/weather_data")
-engine=create_engine(os.environ['DATABASE_URL'])
+engine= create_engine(os.environ['DATABASE_URL'])
 
 
 # ### Consolidating scraping functions to update weather values:
@@ -179,9 +179,10 @@ def push_to_sql(df,table_name):
             
     print(f"{len(data)} rows inserted into {table_name}.")
 
-def delete_oldest_rows(df,table_name):
+def delete_oldest_rows(oldest_date,table_name):
 
-    oldest_date = df['date_scraped'].min()
+    ''' Deletes the oldest rows of table name. Table must have a "date_scraped" column.'''
+
     
     with engine.connect() as con:
 
@@ -198,7 +199,7 @@ def delete_oldest_rows(df,table_name):
 
 def menu_items():
 
-    '''Returns list of unique dates to populate dropdown menu on app'''
+    '''Returns list of unique dates to populate dropdown menu on app.'''
 
     query = '''
     select distinct date_scraped as ds 
@@ -212,20 +213,19 @@ def menu_items():
 # In[7]:
 
 def main():
+    # Get template dataframe.
     query = '''
     select * from california_cities
     '''
+
     df = pd.read_sql_query(query, engine)
 
-    # Check if we are over 19 scrapes. Deletes oldest rows in database:
-
-    if len(menu_items()) > 19:
-        query2 = '''select * from california_weather'''
-        df2 = pd.read_sql_query(query2,engine)
-        delete_oldest_rows(df2,'california_weather')
+    # Check if we are over 19 scrapes. 19 scrapes puts us at 9,158 rows. Need to stay within 10k. Deletes oldest rows in database:
+    dates = menu_items()
+    if len(dates) > 19:
+        delete_oldest_rows(dates[-1],'california_weather')
 
     # Fetch most recent data.
-
     recent_data = update_df(df)
 
     if recent_data.empty:
